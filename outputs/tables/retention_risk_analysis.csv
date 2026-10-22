@@ -1,0 +1,5 @@
+Cluster_ID,Segment_Name,Headcount,Workforce_Share_Pct,Composite_Review_Index,Low_Job_Satisfaction_Pct,Low_WorkLifeBalance_Pct,Overtime_Prevalence_Pct,Promotion_Stagnant_Pct,High_Absence_Pct,Observed_Attrition_Pct,Workforce_Attrition_Baseline_Pct,Attrition_Delta,Review_Priority
+3,Senior Leadership & Tenured Specialists,100,6.8,38.85,27.0,34.0,24.0,83.0,26.0,13.0,18.64,-5.64,Elevated Review Recommended
+2,Experienced Core Operational Backbone,455,30.95,31.69,33.63,32.09,30.99,32.75,27.47,16.48,18.64,-2.16,Moderate Attention
+1,Mid-Level Professional Contributors,358,24.35,26.75,37.15,38.27,26.54,5.31,22.91,19.83,18.64,1.19,Moderate Attention
+0,Early-Career High-Engagement Talent,557,37.89,23.9,32.85,31.42,24.6,2.87,26.03,20.65,18.64,2.01,Stable Engagement

@@ -1,0 +1,1471 @@
+EmployeeID,Department,JobRole,Age,Gender,EducationLevel,JobLevel,MonthlyIncome,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,TrainingTimesLastYear,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,PerformanceRating,Overtime,BusinessTravel,AbsenteeismDays,Attrition
+EMP-0001,Sales,Manager,26,Female,Master,4,13218,2,1,0,1,1,1,4,3,3,2,No,Travel_Frequently,6,No
+EMP-0002,Research & Development,Research Scientist,59,Male,Master,2,6480,10,0,0,0,0,3,4,3,2,3,No,Travel_Rarely,5,No
+EMP-0003,Sales,Sales Executive,53,Female,Bachelor,2,8685,24,11,2,6,6,3,3,4,4,3,No,Travel_Rarely,2,No
+EMP-0004,Sales,Sales Executive,28,Male,Master,3,9369,6,1,1,1,1,0,2,3,4,3,No,Non-Travel,4,Yes
+EMP-0005,Research & Development,Software Engineer,25,Male,College,1,3158,1,0,0,0,0,2,4,4,3,3,No,Travel_Rarely,2,No
+EMP-0006,Human Resources,Human Resources,52,Female,Bachelor,2,5975,11,1,1,1,1,2,3,4,3,3,No,Travel_Frequently,5,No
+EMP-0007,Sales,Sales Executive,59,Male,Below College,4,14588,18,2,0,0,0,2,2,3,3,3,No,Travel_Rarely,5,No
+EMP-0008,Sales,Manager,26,Male,Bachelor,4,13869,4,3,0,2,2,1,3,2,3,3,No,Travel_Rarely,6,No
+EMP-0009,Research & Development,Software Engineer,46,Male,College,2,5596,9,5,4,5,3,2,3,2,4,3,Yes,Travel_Rarely,4,No
+EMP-0010,Research & Development,Software Engineer,31,Male,Below College,1,4171,9,2,2,2,2,4,2,4,2,3,No,Travel_Frequently,3,No
+EMP-0011,Research & Development,Software Engineer,49,Male,Below College,3,11433,18,6,0,1,6,3,3,1,3,3,Yes,Non-Travel,3,No
+EMP-0012,Sales,Sales Executive,36,Male,Bachelor,2,5875,9,4,4,3,3,2,3,4,2,3,Yes,Travel_Frequently,3,No
+EMP-0013,Research & Development,Software Engineer,25,Female,Bachelor,2,5938,4,0,0,0,0,2,3,2,3,3,Yes,Travel_Rarely,6,Yes
+EMP-0014,Sales,Sales Executive,32,Female,Bachelor,3,10122,10,5,0,4,3,1,1,4,4,1,Yes,Travel_Frequently,5,Yes
+EMP-0015,Research & Development,Laboratory Technician,41,Male,College,3,10920,15,6,1,3,3,2,4,2,2,3,No,Travel_Frequently,8,No
+EMP-0016,Research & Development,Research Scientist,51,Male,Doctor,3,8747,22,13,5,6,0,2,3,4,2,1,Yes,Travel_Rarely,6,No
+EMP-0017,Research & Development,Research Director,20,Female,Master,5,17821,0,0,0,0,0,4,3,1,2,4,Yes,Travel_Frequently,7,Yes
+EMP-0018,Research & Development,Software Engineer,58,Male,College,1,3486,9,5,1,2,5,3,3,2,2,3,Yes,Travel_Frequently,7,Yes
+EMP-0019,Sales,Manager,45,Male,Bachelor,4,15920,11,3,1,2,2,2,3,4,3,1,Yes,Travel_Frequently,4,Yes
+EMP-0020,Research & Development,Software Engineer,55,Female,Bachelor,3,12981,23,6,4,0,4,2,3,2,3,4,No,Travel_Rarely,3,No
+EMP-0021,Sales,Sales Executive,57,Male,Master,3,10771,20,13,7,8,5,3,1,2,3,3,No,Travel_Rarely,3,No
+EMP-0022,Research & Development,Manufacturing Director,26,Male,Bachelor,4,13125,3,1,0,0,0,5,4,4,1,3,No,Non-Travel,1,No
+EMP-0023,Human Resources,Human Resources,23,Male,Master,1,2335,1,0,0,0,0,1,1,4,3,3,Yes,Travel_Rarely,7,Yes
+EMP-0024,Sales,Sales Representative,51,Male,College,2,6849,19,7,6,6,1,4,4,1,3,3,No,Travel_Rarely,6,No
+EMP-0025,Sales,Sales Executive,27,Male,Bachelor,3,7780,0,0,0,0,0,2,3,3,3,3,No,Non-Travel,6,No
+EMP-0026,Research & Development,Laboratory Technician,25,Female,Bachelor,1,2886,2,1,1,0,0,3,1,2,2,3,Yes,Travel_Frequently,3,Yes
+EMP-0027,Research & Development,Manufacturing Director,38,Male,Bachelor,4,11023,1,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,5,Yes
+EMP-0028,Research & Development,Laboratory Technician,56,Female,Master,2,6791,14,5,0,4,1,3,2,3,1,3,No,Non-Travel,2,No
+EMP-0029,Research & Development,Software Engineer,51,Female,Below College,3,11298,23,7,0,6,0,2,4,1,4,3,No,Travel_Rarely,3,No
+EMP-0030,Sales,Sales Representative,40,Male,College,1,3674,9,3,3,0,1,3,4,3,4,2,No,Non-Travel,4,No
+EMP-0031,Sales,Sales Representative,27,Male,Below College,1,3061,5,2,1,2,1,3,3,2,4,3,No,Travel_Rarely,3,No
+EMP-0032,Human Resources,Manager,33,Male,College,4,15506,7,5,1,2,0,3,3,4,1,3,Yes,Travel_Rarely,10,No
+EMP-0033,Research & Development,Software Engineer,47,Female,Below College,3,10618,23,8,3,4,3,3,4,3,2,4,Yes,Travel_Rarely,6,No
+EMP-0034,Research & Development,Software Engineer,26,Male,Bachelor,2,5923,3,2,0,1,0,1,3,2,4,3,No,Travel_Rarely,5,No
+EMP-0035,Research & Development,Laboratory Technician,40,Female,Bachelor,3,9676,11,5,2,0,2,3,3,4,3,3,No,Travel_Rarely,4,No
+EMP-0036,Research & Development,Software Engineer,20,Female,Bachelor,1,2434,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,2,Yes
+EMP-0037,Research & Development,Laboratory Technician,33,Female,Bachelor,1,3481,6,3,0,2,2,3,2,2,3,3,No,Travel_Rarely,2,Yes
+EMP-0038,Research & Development,Software Engineer,29,Non-Binary,Below College,2,6131,6,4,2,4,0,2,3,4,1,3,No,Non-Travel,6,No
+EMP-0039,Research & Development,Research Scientist,47,Female,Bachelor,3,9371,10,5,1,2,5,2,3,2,3,3,Yes,Non-Travel,7,No
+EMP-0040,Sales,Sales Representative,56,Female,Below College,3,9934,14,11,4,8,5,2,4,2,4,3,No,Travel_Rarely,1,No
+EMP-0041,Research & Development,Research Scientist,25,Female,Master,1,2775,2,1,0,0,1,5,3,3,3,3,Yes,Travel_Rarely,4,No
+EMP-0042,Sales,Sales Executive,51,Female,Below College,4,14531,15,3,2,0,0,3,3,2,3,2,No,Travel_Rarely,5,No
+EMP-0043,Sales,Sales Representative,46,Female,Bachelor,3,10680,20,7,3,0,6,1,3,3,4,3,No,Travel_Rarely,4,No
+EMP-0044,Research & Development,Laboratory Technician,58,Female,Master,3,8739,25,11,6,1,8,3,4,3,3,3,Yes,Travel_Rarely,2,No
+EMP-0045,Sales,Manager,56,Male,Bachelor,4,14397,9,8,2,3,8,2,3,4,1,3,Yes,Non-Travel,5,No
+EMP-0046,Sales,Sales Executive,24,Female,Bachelor,4,11193,3,2,0,2,2,2,4,2,3,3,No,Travel_Rarely,4,No
+EMP-0047,Research & Development,Research Scientist,49,Male,Bachelor,2,6622,9,5,4,0,3,2,2,2,1,3,No,Travel_Rarely,5,No
+EMP-0048,Research & Development,Research Director,43,Female,College,5,19894,19,17,3,15,6,3,3,2,2,2,Yes,Travel_Rarely,4,No
+EMP-0049,Sales,Sales Executive,24,Male,Bachelor,2,4642,1,0,0,0,0,5,4,1,3,3,Yes,Travel_Rarely,4,Yes
+EMP-0050,Research & Development,Research Scientist,30,Female,Master,1,3489,4,1,0,0,1,5,4,4,2,3,No,Non-Travel,8,No
+EMP-0051,Research & Development,Research Scientist,57,Female,Doctor,2,6797,15,5,5,1,3,2,2,4,1,3,No,Non-Travel,10,No
+EMP-0052,Research & Development,Software Engineer,41,Female,Bachelor,1,3658,10,6,2,3,2,1,3,4,3,3,No,Travel_Rarely,7,No
+EMP-0053,Sales,Manager,33,Male,Bachelor,5,22789,8,1,0,1,0,4,2,4,2,3,No,Travel_Rarely,3,No
+EMP-0054,Sales,Sales Representative,32,Female,Master,1,2706,2,1,0,0,0,2,1,2,3,3,No,Travel_Rarely,2,No
+EMP-0055,Sales,Sales Representative,53,Female,Bachelor,3,11692,27,8,7,6,2,3,4,1,2,1,No,Travel_Rarely,1,No
+EMP-0056,Sales,Sales Executive,31,Female,College,2,4713,8,3,3,0,3,5,4,3,3,1,Yes,Travel_Rarely,1,No
+EMP-0057,Research & Development,Software Engineer,26,Female,College,2,4722,5,0,0,0,0,2,1,4,4,3,Yes,Non-Travel,4,Yes
+EMP-0058,Research & Development,Software Engineer,42,Female,College,1,3960,8,4,1,3,3,2,4,2,1,2,Yes,Travel_Rarely,3,Yes
+EMP-0059,Research & Development,Research Scientist,59,Female,Bachelor,3,9984,24,13,11,11,11,4,3,1,3,2,No,Travel_Frequently,2,No
+EMP-0060,Research & Development,Research Scientist,27,Male,College,2,5721,5,4,4,2,3,3,4,3,2,3,No,Travel_Rarely,4,No
+EMP-0061,Sales,Sales Executive,30,Non-Binary,Below College,3,8723,5,4,0,1,3,5,4,2,2,3,Yes,Travel_Rarely,8,No
+EMP-0062,Research & Development,Research Scientist,38,Male,Below College,1,3738,8,4,2,2,1,3,4,3,3,1,No,Travel_Rarely,6,No
+EMP-0063,Research & Development,Software Engineer,27,Female,Master,2,6471,6,3,0,3,2,2,4,1,2,3,Yes,Travel_Rarely,4,No
+EMP-0064,Sales,Sales Representative,46,Female,Below College,4,14155,14,7,1,0,5,4,4,3,1,2,No,Travel_Rarely,3,No
+EMP-0065,Research & Development,Research Scientist,30,Male,Below College,1,3214,2,1,0,1,1,3,3,3,3,3,No,Travel_Rarely,4,No
+EMP-0066,Research & Development,Software Engineer,25,Male,Bachelor,2,6235,3,1,0,1,1,5,2,4,3,4,No,Travel_Rarely,5,No
+EMP-0067,Research & Development,Laboratory Technician,30,Male,College,1,4148,8,6,6,4,4,2,3,4,4,3,No,Travel_Rarely,6,No
+EMP-0068,Research & Development,Laboratory Technician,57,Female,Doctor,2,6550,17,9,9,0,4,3,4,1,4,1,No,Travel_Rarely,4,No
+EMP-0069,Research & Development,Laboratory Technician,57,Male,Master,3,9437,11,8,2,3,3,2,1,4,3,3,Yes,Travel_Frequently,3,Yes
+EMP-0070,Research & Development,Software Engineer,40,Male,Bachelor,1,3925,4,3,0,0,2,2,4,4,2,3,No,Travel_Rarely,1,No
+EMP-0071,Research & Development,Manufacturing Director,36,Female,Bachelor,5,21912,9,6,6,2,4,6,2,3,1,3,No,Travel_Rarely,4,No
+EMP-0072,Research & Development,Research Scientist,52,Male,Bachelor,1,2887,2,1,0,1,0,5,4,4,3,4,No,Travel_Frequently,4,No
+EMP-0073,Sales,Sales Executive,27,Female,Below College,3,8628,5,4,0,4,2,3,3,4,4,3,No,Travel_Rarely,3,No
+EMP-0074,Research & Development,Research Scientist,46,Male,College,2,6422,13,6,1,5,0,5,4,2,2,1,No,Travel_Rarely,4,No
+EMP-0075,Research & Development,Software Engineer,47,Male,College,2,7263,5,2,2,2,0,2,4,3,2,3,No,Non-Travel,5,No
+EMP-0076,Research & Development,Software Engineer,48,Male,Below College,3,7811,16,5,3,5,5,4,3,2,3,3,Yes,Travel_Rarely,3,No
+EMP-0077,Research & Development,Research Scientist,28,Male,Bachelor,2,5329,7,4,0,2,0,3,3,3,4,3,Yes,Travel_Frequently,4,No
+EMP-0078,Sales,Sales Representative,48,Male,Below College,1,3276,3,0,0,0,0,3,2,4,3,4,No,Travel_Frequently,3,No
+EMP-0079,Research & Development,Software Engineer,44,Female,Below College,2,5186,4,3,3,2,0,3,4,3,3,4,No,Travel_Rarely,3,No
+EMP-0080,Sales,Sales Executive,55,Male,Bachelor,3,9264,29,8,4,0,4,3,4,2,3,2,Yes,Travel_Frequently,6,No
+EMP-0081,Sales,Sales Executive,26,Male,Bachelor,2,5611,5,2,0,2,1,4,2,4,3,2,No,Travel_Rarely,4,No
+EMP-0082,Research & Development,Software Engineer,44,Male,College,2,6011,12,3,2,2,3,2,1,3,3,3,Yes,Travel_Rarely,2,No
+EMP-0083,Sales,Sales Executive,53,Male,Below College,3,8139,8,2,2,1,0,4,3,2,3,3,No,Travel_Rarely,4,No
+EMP-0084,Research & Development,Software Engineer,31,Female,College,1,3929,9,6,1,6,0,2,2,4,3,3,No,Travel_Rarely,5,No
+EMP-0085,Research & Development,Research Scientist,49,Male,College,3,11174,24,19,13,3,7,2,4,2,3,3,No,Travel_Rarely,7,No
+EMP-0086,Research & Development,Laboratory Technician,23,Non-Binary,Master,1,3175,1,0,0,0,0,3,2,3,2,4,No,Travel_Rarely,5,No
+EMP-0087,Sales,Manager,48,Male,Master,5,19187,10,4,0,0,0,3,4,3,2,3,No,Travel_Frequently,4,No
+EMP-0088,Research & Development,Software Engineer,44,Male,Bachelor,2,6561,12,4,1,2,0,4,4,4,1,3,No,Travel_Rarely,4,No
+EMP-0089,Research & Development,Laboratory Technician,27,Male,Bachelor,1,3254,1,0,0,0,0,2,4,2,2,3,No,Travel_Frequently,7,No
+EMP-0090,Research & Development,Manufacturing Director,22,Male,Bachelor,4,15145,1,0,0,0,0,1,3,2,2,2,Yes,Travel_Rarely,5,No
+EMP-0091,Research & Development,Research Director,49,Female,Bachelor,5,18005,15,4,3,1,1,3,2,3,3,3,Yes,Non-Travel,2,No
+EMP-0092,Sales,Sales Representative,29,Male,College,1,3033,4,3,2,1,0,4,4,4,4,3,No,Travel_Rarely,7,No
+EMP-0093,Research & Development,Manufacturing Director,39,Male,Below College,5,20177,13,8,3,7,7,5,3,1,3,4,No,Travel_Rarely,3,Yes
+EMP-0094,Research & Development,Manufacturing Director,22,Female,Bachelor,4,14729,1,0,0,0,0,4,4,2,3,3,No,Travel_Rarely,3,No
+EMP-0095,Research & Development,Laboratory Technician,58,Female,Bachelor,3,9754,14,6,1,3,5,3,3,4,4,3,No,Non-Travel,0,Yes
+EMP-0096,Research & Development,Software Engineer,41,Female,College,1,3991,7,4,1,1,0,4,1,4,4,3,No,Travel_Rarely,10,No
+EMP-0097,Research & Development,Research Scientist,57,Female,College,1,3625,9,5,1,5,0,2,4,2,2,3,Yes,Travel_Rarely,8,No
+EMP-0098,Research & Development,Research Scientist,26,Female,College,3,10449,4,3,0,1,1,5,4,2,2,4,No,Travel_Rarely,3,No
+EMP-0099,Research & Development,Software Engineer,28,Female,College,3,9127,6,3,0,3,3,3,2,3,2,3,Yes,Travel_Rarely,6,No
+EMP-0100,Human Resources,Human Resources,44,Female,Bachelor,2,7508,13,3,1,2,3,2,4,3,4,3,No,Travel_Rarely,2,No
+EMP-0101,Sales,Sales Executive,44,Male,Bachelor,3,12284,17,4,1,4,4,3,1,3,2,3,No,Travel_Rarely,6,No
+EMP-0102,Sales,Sales Executive,51,Female,Bachelor,2,7509,21,5,5,2,2,3,3,4,3,2,No,Non-Travel,7,No
+EMP-0103,Research & Development,Software Engineer,57,Male,College,1,4578,10,5,3,3,0,2,3,1,3,2,No,Travel_Rarely,6,No
+EMP-0104,Human Resources,Manager,52,Female,Below College,4,12328,7,3,1,2,0,1,3,4,3,3,No,Travel_Frequently,5,No
+EMP-0105,Sales,Sales Executive,25,Female,Master,3,7787,4,2,2,1,2,3,2,1,3,3,No,Travel_Rarely,4,Yes
+EMP-0106,Sales,Sales Executive,32,Male,Bachelor,4,17650,8,5,0,5,5,5,2,4,3,3,Yes,Travel_Rarely,4,Yes
+EMP-0107,Research & Development,Laboratory Technician,56,Female,Below College,2,7317,24,19,11,9,3,3,3,1,3,3,No,Travel_Rarely,5,No
+EMP-0108,Research & Development,Manufacturing Director,41,Female,College,4,12614,9,5,2,4,0,2,2,1,4,2,No,Travel_Rarely,3,No
+EMP-0109,Research & Development,Research Director,54,Male,Master,4,15587,8,4,4,2,0,3,3,2,1,3,No,Travel_Rarely,1,No
+EMP-0110,Sales,Sales Representative,42,Male,Master,2,5848,13,6,5,2,0,1,3,2,4,3,No,Non-Travel,0,No
+EMP-0111,Research & Development,Manufacturing Director,21,Female,Master,4,13163,0,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,2,No
+EMP-0112,Research & Development,Software Engineer,38,Female,Bachelor,1,3647,8,5,0,2,2,0,3,3,2,4,No,Travel_Rarely,7,No
+EMP-0113,Research & Development,Software Engineer,52,Male,Bachelor,2,6374,9,3,1,0,2,3,2,4,4,1,No,Travel_Rarely,7,No
+EMP-0114,Research & Development,Research Scientist,46,Male,Bachelor,4,15093,12,5,3,2,4,2,1,3,4,1,Yes,Travel_Rarely,2,No
+EMP-0115,Research & Development,Laboratory Technician,25,Female,College,1,2775,4,3,3,2,0,1,4,3,4,3,No,Travel_Rarely,4,Yes
+EMP-0116,Sales,Manager,28,Male,Bachelor,5,21365,0,0,0,0,0,2,4,2,4,3,No,Travel_Rarely,7,No
+EMP-0117,Sales,Sales Executive,54,Male,Bachelor,2,7568,11,5,2,0,0,3,4,4,3,3,No,Travel_Rarely,4,No
+EMP-0118,Sales,Sales Executive,59,Male,College,4,13971,15,9,9,6,9,2,4,1,2,3,No,Travel_Rarely,6,Yes
+EMP-0119,Research & Development,Research Scientist,50,Male,Master,2,5776,16,8,5,8,2,2,3,2,2,2,No,Travel_Rarely,6,No
+EMP-0120,Research & Development,Research Scientist,23,Female,Bachelor,1,2967,1,0,0,0,0,3,4,1,4,4,No,Travel_Frequently,6,No
+EMP-0121,Research & Development,Research Scientist,44,Female,Below College,2,7858,13,2,2,0,0,3,3,2,4,1,Yes,Travel_Rarely,4,No
+EMP-0122,Research & Development,Research Scientist,53,Female,Bachelor,1,4757,9,3,1,3,0,4,4,3,4,3,No,Travel_Rarely,6,No
+EMP-0123,Research & Development,Research Director,45,Female,Master,5,21689,15,5,3,3,4,2,4,1,4,3,No,Travel_Rarely,4,No
+EMP-0124,Research & Development,Software Engineer,43,Male,Master,2,4809,8,5,2,4,4,3,4,1,3,3,No,Travel_Rarely,3,No
+EMP-0125,Research & Development,Manufacturing Director,38,Male,Bachelor,4,15139,13,3,3,3,3,4,3,4,2,2,No,Travel_Frequently,5,No
+EMP-0126,Research & Development,Laboratory Technician,29,Male,Doctor,1,3647,8,4,3,3,2,3,3,1,2,4,No,Travel_Frequently,5,No
+EMP-0127,Research & Development,Research Scientist,31,Male,Master,3,10233,7,5,5,4,2,3,2,3,3,4,Yes,Travel_Rarely,3,No
+EMP-0128,Research & Development,Research Scientist,49,Male,Master,2,7282,13,1,0,1,1,1,3,2,3,3,No,Travel_Rarely,4,No
+EMP-0129,Research & Development,Laboratory Technician,22,Male,Master,1,2353,1,0,0,0,0,2,4,4,2,3,No,Travel_Rarely,5,No
+EMP-0130,Research & Development,Research Scientist,23,Male,Bachelor,1,2600,2,1,0,0,1,2,3,3,4,3,No,Travel_Rarely,1,No
+EMP-0131,Research & Development,Manufacturing Director,35,Male,Master,5,16748,10,4,1,1,3,2,2,1,3,3,No,Travel_Rarely,5,No
+EMP-0132,Sales,Sales Executive,50,Female,Bachelor,4,16098,17,2,2,0,2,5,4,4,2,3,No,Travel_Rarely,6,No
+EMP-0133,Research & Development,Laboratory Technician,46,Female,Bachelor,2,7848,16,3,0,1,2,2,3,3,4,3,No,Travel_Rarely,3,No
+EMP-0134,Research & Development,Laboratory Technician,43,Female,College,1,3255,7,5,4,0,3,3,3,2,3,4,No,Travel_Rarely,4,No
+EMP-0135,Research & Development,Research Scientist,41,Female,Master,3,8261,12,2,1,1,2,6,3,3,3,3,No,Travel_Rarely,2,No
+EMP-0136,Research & Development,Research Scientist,24,Female,Doctor,2,5078,3,2,2,1,1,3,3,4,3,2,No,Travel_Rarely,4,No
+EMP-0137,Human Resources,Manager,33,Male,College,4,14014,10,2,1,0,1,2,4,2,3,4,No,Travel_Rarely,2,No
+EMP-0138,Research & Development,Research Scientist,23,Female,Doctor,1,2661,1,0,0,0,0,5,4,2,1,3,No,Non-Travel,4,No
+EMP-0139,Sales,Sales Executive,50,Male,Bachelor,3,8411,7,5,0,5,0,2,4,2,3,2,No,Travel_Rarely,1,No
+EMP-0140,Research & Development,Software Engineer,50,Male,College,2,5913,3,1,0,1,1,1,3,3,3,4,Yes,Travel_Rarely,5,No
+EMP-0141,Research & Development,Research Scientist,30,Male,Below College,1,3925,9,4,0,1,3,2,3,4,4,3,Yes,Travel_Rarely,1,No
+EMP-0142,Research & Development,Laboratory Technician,31,Male,Master,1,3604,6,4,2,2,1,2,2,3,4,2,No,Travel_Rarely,2,No
+EMP-0143,Human Resources,Manager,32,Male,Bachelor,4,15007,8,4,0,0,3,4,3,4,1,3,No,Travel_Rarely,1,No
+EMP-0144,Research & Development,Software Engineer,55,Female,College,3,9985,24,2,2,1,0,2,3,2,4,3,No,Travel_Rarely,1,No
+EMP-0145,Research & Development,Manufacturing Director,39,Female,Bachelor,4,17081,9,3,1,0,0,4,3,4,2,2,No,Travel_Frequently,5,No
+EMP-0146,Research & Development,Research Scientist,50,Female,Bachelor,3,10255,14,5,0,5,2,0,4,4,1,3,No,Travel_Frequently,3,No
+EMP-0147,Research & Development,Research Scientist,37,Female,Bachelor,3,9834,6,4,2,2,3,5,2,3,3,2,No,Travel_Rarely,8,No
+EMP-0148,Research & Development,Software Engineer,47,Male,Master,2,5709,7,1,1,1,0,1,4,1,4,3,No,Travel_Rarely,3,No
+EMP-0149,Research & Development,Research Director,41,Male,Bachelor,5,19153,16,4,0,4,4,5,2,2,4,3,No,Travel_Rarely,3,No
+EMP-0150,Research & Development,Research Scientist,31,Female,Master,2,6141,4,1,1,1,1,1,3,1,4,2,No,Travel_Rarely,4,No
+EMP-0151,Sales,Sales Executive,55,Male,Bachelor,2,6997,11,4,3,4,1,4,4,3,2,4,No,Travel_Rarely,5,No
+EMP-0152,Sales,Sales Executive,48,Male,Doctor,2,6750,12,2,0,1,0,4,4,4,2,3,No,Travel_Rarely,8,No
+EMP-0153,Research & Development,Laboratory Technician,50,Male,College,1,2543,2,0,0,0,0,3,4,3,1,3,Yes,Travel_Rarely,2,No
+EMP-0154,Research & Development,Research Scientist,57,Female,College,4,16581,24,17,8,7,11,0,4,2,3,4,No,Travel_Rarely,3,No
+EMP-0155,Research & Development,Software Engineer,29,Female,Below College,2,5428,6,2,0,0,0,3,2,2,3,4,Yes,Travel_Rarely,7,No
+EMP-0156,Sales,Sales Representative,23,Male,Bachelor,1,2375,0,0,0,0,0,3,4,3,2,3,No,Travel_Frequently,7,No
+EMP-0157,Research & Development,Software Engineer,43,Female,Bachelor,3,8674,11,5,3,1,4,3,4,3,3,3,No,Non-Travel,5,No
+EMP-0158,Sales,Sales Executive,33,Male,Master,2,6185,8,5,4,2,5,3,3,2,3,3,No,Travel_Rarely,5,No
+EMP-0159,Sales,Sales Executive,37,Male,Bachelor,2,4698,8,1,0,0,1,5,1,4,3,3,No,Travel_Rarely,7,No
+EMP-0160,Sales,Sales Executive,29,Male,Below College,2,6605,7,2,0,2,2,6,2,1,3,3,Yes,Travel_Frequently,3,No
+EMP-0161,Research & Development,Software Engineer,35,Male,Bachelor,2,6703,12,8,5,5,6,3,4,3,2,3,Yes,Travel_Frequently,7,No
+EMP-0162,Sales,Sales Representative,35,Female,Doctor,1,4227,8,1,1,0,0,1,4,3,3,3,Yes,Travel_Rarely,5,No
+EMP-0163,Research & Development,Laboratory Technician,34,Male,College,2,6866,11,8,6,7,7,2,4,1,3,3,No,Travel_Frequently,5,Yes
+EMP-0164,Research & Development,Laboratory Technician,49,Female,College,3,10928,15,7,5,2,2,3,3,3,2,3,Yes,Travel_Frequently,4,No
+EMP-0165,Research & Development,Research Director,43,Male,College,5,20361,7,3,1,1,0,6,1,3,1,3,Yes,Travel_Frequently,6,Yes
+EMP-0166,Research & Development,Software Engineer,38,Female,Bachelor,3,9065,11,7,4,6,0,2,3,3,4,3,Yes,Travel_Rarely,5,No
+EMP-0167,Sales,Sales Executive,24,Female,College,4,15883,3,0,0,0,0,1,3,4,3,2,No,Travel_Rarely,2,No
+EMP-0168,Sales,Manager,42,Female,Bachelor,4,14381,0,0,0,0,0,2,1,3,2,4,No,Non-Travel,5,Yes
+EMP-0169,Research & Development,Research Scientist,27,Female,Bachelor,1,3234,6,4,1,0,4,2,1,2,3,3,Yes,Travel_Rarely,2,No
+EMP-0170,Human Resources,Human Resources,32,Female,Bachelor,1,3444,6,3,3,0,1,6,1,4,3,3,No,Non-Travel,7,No
+EMP-0171,Research & Development,Laboratory Technician,36,Male,Bachelor,3,9449,13,5,1,5,0,3,2,4,2,3,No,Travel_Rarely,1,No
+EMP-0172,Research & Development,Research Scientist,25,Female,Below College,1,3388,4,2,1,2,0,1,4,1,2,3,No,Travel_Frequently,7,No
+EMP-0173,Research & Development,Software Engineer,35,Female,Master,4,13673,13,12,3,9,1,2,3,4,4,3,No,Travel_Rarely,0,No
+EMP-0174,Human Resources,Human Resources,30,Male,Bachelor,1,3394,5,3,0,2,2,1,3,4,3,3,No,Travel_Rarely,3,No
+EMP-0175,Research & Development,Research Scientist,53,Male,Bachelor,3,9509,18,4,1,2,4,3,3,1,2,3,No,Travel_Rarely,3,No
+EMP-0176,Research & Development,Software Engineer,54,Male,Below College,3,11826,22,10,5,0,6,3,4,3,3,4,Yes,Travel_Rarely,8,No
+EMP-0177,Research & Development,Research Scientist,20,Male,Bachelor,1,2647,0,0,0,0,0,1,4,1,3,3,No,Travel_Rarely,1,Yes
+EMP-0178,Human Resources,Manager,44,Male,Master,5,24439,13,7,6,4,0,2,3,3,3,3,No,Travel_Rarely,3,No
+EMP-0179,Sales,Manager,45,Male,Below College,4,12082,2,0,0,0,0,4,4,4,2,2,Yes,Travel_Rarely,5,No
+EMP-0180,Sales,Sales Representative,35,Female,College,1,3624,5,2,2,0,0,4,4,2,1,3,No,Travel_Rarely,4,No
+EMP-0181,Sales,Sales Executive,38,Male,College,2,6422,12,4,4,0,3,3,3,3,2,3,Yes,Travel_Rarely,1,No
+EMP-0182,Sales,Sales Executive,51,Female,Bachelor,3,6693,3,1,0,1,1,3,3,2,4,3,No,Travel_Rarely,1,No
+EMP-0183,Research & Development,Research Scientist,35,Male,Master,2,4842,4,2,1,2,1,6,3,3,3,3,No,Travel_Rarely,3,No
+EMP-0184,Research & Development,Research Scientist,22,Female,Bachelor,1,2783,1,0,0,0,0,3,3,4,4,3,No,Travel_Rarely,5,No
+EMP-0185,Sales,Manager,34,Male,Bachelor,4,13868,2,0,0,0,0,5,3,2,1,3,Yes,Travel_Frequently,3,No
+EMP-0186,Sales,Sales Executive,30,Male,Master,3,10160,8,3,1,2,0,1,2,3,3,4,No,Travel_Rarely,5,No
+EMP-0187,Research & Development,Research Scientist,35,Male,Master,3,8134,6,3,2,3,1,2,2,2,3,3,Yes,Travel_Rarely,5,No
+EMP-0188,Research & Development,Manufacturing Director,29,Female,College,5,17099,3,1,1,0,0,0,3,4,3,3,No,Travel_Rarely,2,Yes
+EMP-0189,Sales,Sales Executive,25,Male,College,4,14189,3,2,1,2,0,4,3,3,3,2,No,Non-Travel,2,No
+EMP-0190,Research & Development,Research Scientist,59,Female,Bachelor,4,14764,12,0,0,0,0,3,3,3,3,3,Yes,Travel_Rarely,3,No
+EMP-0191,Human Resources,Human Resources,25,Male,Master,1,2928,0,0,0,0,0,2,1,3,1,4,No,Travel_Rarely,6,Yes
+EMP-0192,Research & Development,Laboratory Technician,48,Female,Bachelor,1,4192,10,3,2,2,3,5,2,3,1,1,No,Travel_Rarely,4,No
+EMP-0193,Research & Development,Laboratory Technician,48,Male,Bachelor,4,13140,17,7,7,3,0,5,3,3,3,4,No,Travel_Rarely,3,Yes
+EMP-0194,Sales,Sales Executive,44,Female,Master,4,13756,10,4,0,3,4,2,3,3,2,3,Yes,Travel_Rarely,10,No
+EMP-0195,Research & Development,Manufacturing Director,56,Male,College,4,17036,17,12,8,3,6,3,2,3,1,3,Yes,Travel_Rarely,1,No
+EMP-0196,Research & Development,Manufacturing Director,20,Male,Bachelor,5,15566,0,0,0,0,0,3,1,4,4,2,Yes,Travel_Rarely,9,Yes
+EMP-0197,Research & Development,Manufacturing Director,32,Male,Below College,5,19815,7,4,3,2,4,0,1,2,2,3,No,Travel_Rarely,2,No
+EMP-0198,Sales,Sales Executive,27,Male,Master,4,13954,1,0,0,0,0,3,3,1,3,4,Yes,Travel_Rarely,3,Yes
+EMP-0199,Research & Development,Research Scientist,43,Male,Bachelor,4,14014,14,7,3,3,2,2,2,4,4,3,Yes,Travel_Frequently,6,No
+EMP-0200,Research & Development,Manufacturing Director,45,Non-Binary,College,4,11638,14,8,3,8,7,4,3,1,3,3,No,Travel_Frequently,3,No
+EMP-0201,Sales,Sales Executive,55,Male,Below College,4,13532,6,2,2,1,1,4,3,4,1,3,No,Travel_Rarely,2,No
+EMP-0202,Human Resources,Human Resources,35,Male,Master,1,3405,2,1,0,0,1,4,4,3,3,3,No,Travel_Rarely,4,No
+EMP-0203,Research & Development,Laboratory Technician,29,Female,Master,1,2974,8,4,1,0,3,3,3,4,3,2,No,Travel_Frequently,5,Yes
+EMP-0204,Research & Development,Research Scientist,56,Male,Bachelor,2,8891,29,11,0,5,4,2,1,3,3,3,Yes,Travel_Rarely,3,No
+EMP-0205,Research & Development,Laboratory Technician,46,Male,College,1,3997,9,5,4,4,0,2,3,4,3,3,No,Non-Travel,7,No
+EMP-0206,Research & Development,Research Director,50,Female,Master,5,16161,10,3,1,3,2,3,4,4,4,3,No,Travel_Rarely,5,No
+EMP-0207,Research & Development,Laboratory Technician,37,Female,Master,1,4145,9,1,0,0,0,2,2,3,2,3,No,Travel_Rarely,3,No
+EMP-0208,Sales,Sales Executive,37,Female,Bachelor,3,11068,11,2,2,1,1,3,4,2,2,3,No,Travel_Rarely,9,No
+EMP-0209,Research & Development,Manufacturing Director,35,Male,Bachelor,5,21713,9,7,3,1,4,2,3,1,3,4,Yes,Travel_Rarely,4,Yes
+EMP-0210,Research & Development,Software Engineer,49,Non-Binary,Master,2,7091,14,6,3,3,6,2,1,2,3,3,No,Travel_Rarely,3,Yes
+EMP-0211,Sales,Sales Representative,28,Male,Master,1,2952,5,3,0,2,1,3,2,4,3,3,Yes,Travel_Rarely,7,Yes
+EMP-0212,Research & Development,Manufacturing Director,59,Non-Binary,Bachelor,5,25209,28,23,6,9,23,3,4,2,2,4,Yes,Travel_Rarely,6,No
+EMP-0213,Research & Development,Laboratory Technician,27,Female,Bachelor,1,3347,6,0,0,0,0,3,4,4,1,3,No,Travel_Rarely,7,No
+EMP-0214,Sales,Sales Executive,38,Female,Bachelor,2,5899,9,5,3,2,2,3,4,3,3,3,No,Travel_Rarely,4,No
+EMP-0215,Sales,Sales Executive,32,Male,Master,3,8576,7,2,1,1,0,2,2,2,4,3,No,Travel_Rarely,3,No
+EMP-0216,Sales,Sales Executive,45,Male,Bachelor,3,11519,17,3,0,2,3,3,4,4,1,3,Yes,Travel_Rarely,6,No
+EMP-0217,Research & Development,Software Engineer,47,Female,Below College,2,5942,14,5,0,4,3,3,2,1,4,4,No,Travel_Frequently,3,Yes
+EMP-0218,Research & Development,Software Engineer,56,Male,College,3,11339,11,6,0,3,2,3,3,3,3,3,No,Travel_Rarely,4,Yes
+EMP-0219,Sales,Sales Executive,51,Male,Master,4,14066,9,1,1,0,1,2,3,3,1,3,No,Travel_Rarely,4,No
+EMP-0220,Research & Development,Software Engineer,29,Female,Master,1,4447,5,2,1,2,0,3,4,1,3,3,Yes,Travel_Rarely,6,No
+EMP-0221,Research & Development,Laboratory Technician,28,Female,Doctor,1,3072,5,1,0,0,0,1,3,2,2,2,No,Travel_Rarely,6,No
+EMP-0222,Research & Development,Manufacturing Director,55,Male,Bachelor,4,14824,7,4,4,2,0,3,3,3,3,4,No,Travel_Frequently,7,No
+EMP-0223,Sales,Sales Executive,39,Male,Master,2,6587,8,5,2,0,2,2,2,1,2,2,Yes,Travel_Frequently,1,No
+EMP-0224,Human Resources,Human Resources,23,Male,Master,1,2965,2,1,1,1,1,4,3,4,3,3,No,Travel_Rarely,6,Yes
+EMP-0225,Research & Development,Laboratory Technician,52,Male,College,2,6499,14,6,6,6,4,4,1,3,2,3,No,Travel_Rarely,8,No
+EMP-0226,Sales,Sales Executive,45,Male,College,3,10811,17,4,0,4,2,3,4,1,4,2,Yes,Non-Travel,2,No
+EMP-0227,Research & Development,Research Scientist,21,Female,Doctor,1,2986,0,0,0,0,0,4,1,2,4,3,No,Travel_Rarely,3,No
+EMP-0228,Research & Development,Laboratory Technician,51,Female,Below College,1,4152,10,5,5,5,2,3,3,1,3,3,No,Non-Travel,5,Yes
+EMP-0229,Research & Development,Research Director,44,Male,Bachelor,5,19296,7,3,1,2,1,2,2,4,3,1,No,Travel_Rarely,3,No
+EMP-0230,Research & Development,Laboratory Technician,44,Male,Bachelor,2,8416,21,10,0,4,0,3,3,3,4,4,No,Travel_Rarely,3,No
+EMP-0231,Research & Development,Manufacturing Director,54,Female,Bachelor,5,19615,27,13,12,5,6,6,2,1,2,4,No,Travel_Rarely,1,No
+EMP-0232,Research & Development,Research Director,39,Female,College,4,12712,11,7,1,1,2,1,3,3,4,2,Yes,Travel_Frequently,8,No
+EMP-0233,Human Resources,Human Resources,38,Female,Master,2,5235,8,7,3,5,7,2,3,3,3,4,No,Non-Travel,2,No
+EMP-0234,Research & Development,Laboratory Technician,44,Male,College,3,10009,14,6,5,5,1,3,3,3,4,3,No,Travel_Rarely,3,No
+EMP-0235,Human Resources,Human Resources,27,Female,Master,1,3916,6,2,2,2,0,2,4,1,2,2,No,Travel_Rarely,6,No
+EMP-0236,Sales,Manager,26,Male,College,4,15448,5,2,1,2,1,3,2,1,2,3,No,Travel_Rarely,4,No
+EMP-0237,Research & Development,Research Scientist,53,Male,Bachelor,2,7805,20,5,1,5,5,3,3,2,2,3,No,Travel_Frequently,4,No
+EMP-0238,Sales,Sales Executive,28,Female,Master,3,9026,6,2,0,2,1,3,4,3,1,3,Yes,Travel_Rarely,8,No
+EMP-0239,Research & Development,Manufacturing Director,40,Male,College,4,16375,11,9,6,4,7,1,2,3,2,3,No,Travel_Rarely,2,No
+EMP-0240,Research & Development,Research Scientist,30,Male,College,2,5949,5,4,3,3,1,2,4,2,4,3,No,Travel_Rarely,8,Yes
+EMP-0241,Sales,Sales Representative,29,Male,Master,1,3913,8,2,0,2,1,4,4,2,2,3,No,Travel_Rarely,5,No
+EMP-0242,Sales,Sales Executive,43,Male,Below College,2,5584,13,6,4,3,2,2,4,3,1,3,No,Non-Travel,4,No
+EMP-0243,Research & Development,Research Director,52,Male,College,4,14769,18,5,5,5,2,3,3,1,2,3,No,Travel_Rarely,4,No
+EMP-0244,Research & Development,Manufacturing Director,37,Female,Bachelor,4,12701,4,2,0,0,1,0,4,3,3,3,No,Travel_Rarely,4,No
+EMP-0245,Research & Development,Software Engineer,25,Male,Master,2,5597,4,2,2,2,0,2,3,3,3,3,No,Travel_Frequently,6,Yes
+EMP-0246,Sales,Sales Representative,29,Male,Bachelor,1,3830,8,2,1,0,0,2,3,2,1,2,No,Travel_Rarely,5,No
+EMP-0247,Research & Development,Software Engineer,26,Female,Bachelor,2,7811,5,3,3,0,2,2,4,3,3,3,No,Travel_Rarely,4,No
+EMP-0248,Research & Development,Laboratory Technician,55,Male,Doctor,3,9295,13,1,0,1,0,3,2,2,4,3,No,Non-Travel,2,No
+EMP-0249,Research & Development,Laboratory Technician,32,Female,Bachelor,1,2999,2,0,0,0,0,3,4,3,2,3,No,Travel_Frequently,7,Yes
+EMP-0250,Research & Development,Manufacturing Director,34,Male,Bachelor,5,19429,3,2,2,0,0,4,3,1,3,3,Yes,Travel_Rarely,2,No
+EMP-0251,Sales,Sales Executive,22,Female,Bachelor,2,4609,1,0,0,0,0,4,2,3,3,3,No,Travel_Frequently,5,No
+EMP-0252,Sales,Sales Executive,37,Male,College,2,7255,11,1,1,1,0,2,3,3,3,2,No,Travel_Rarely,4,No
+EMP-0253,Research & Development,Laboratory Technician,56,Female,Bachelor,2,7291,19,9,0,5,4,0,4,1,4,3,No,Non-Travel,1,No
+EMP-0254,Research & Development,Software Engineer,36,Male,Bachelor,1,3450,7,4,4,2,2,4,3,3,4,3,No,Travel_Rarely,5,No
+EMP-0255,Research & Development,Software Engineer,46,Female,Below College,2,5708,8,3,2,2,3,2,4,4,3,3,Yes,Travel_Rarely,5,No
+EMP-0256,Sales,Sales Executive,27,Male,Bachelor,3,7435,3,2,2,2,2,2,3,4,3,3,No,Travel_Rarely,1,No
+EMP-0257,Sales,Sales Executive,25,Female,College,4,16601,4,1,1,0,0,2,4,2,2,3,No,Travel_Frequently,3,No
+EMP-0258,Research & Development,Manufacturing Director,49,Male,Bachelor,4,15545,21,2,2,2,2,3,3,2,3,3,No,Travel_Rarely,7,No
+EMP-0259,Research & Development,Research Scientist,22,Male,College,1,2594,1,0,0,0,0,2,4,2,3,3,Yes,Non-Travel,4,Yes
+EMP-0260,Research & Development,Software Engineer,37,Male,Bachelor,2,6990,12,3,1,0,2,2,2,4,1,3,No,Travel_Rarely,5,Yes
+EMP-0261,Research & Development,Research Director,32,Male,Master,4,10100,5,3,1,3,0,3,3,3,4,3,No,Travel_Rarely,2,No
+EMP-0262,Sales,Sales Executive,20,Male,Bachelor,3,9371,0,0,0,0,0,3,4,2,3,3,No,Travel_Rarely,2,No
+EMP-0263,Research & Development,Laboratory Technician,41,Female,College,1,3582,6,2,0,1,2,2,1,4,1,1,No,Travel_Rarely,1,Yes
+EMP-0264,Research & Development,Research Scientist,58,Male,College,3,11075,17,4,0,3,4,3,3,1,4,3,No,Travel_Frequently,1,Yes
+EMP-0265,Sales,Sales Representative,22,Male,Master,1,2269,1,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,4,No
+EMP-0266,Research & Development,Laboratory Technician,52,Male,College,3,11221,23,2,1,2,2,2,4,3,2,3,No,Travel_Rarely,4,No
+EMP-0267,Research & Development,Manufacturing Director,41,Male,Master,4,15971,4,3,2,2,0,2,4,3,3,3,Yes,Travel_Rarely,6,No
+EMP-0268,Research & Development,Research Scientist,48,Male,Bachelor,4,19433,15,3,0,3,2,2,4,4,4,3,Yes,Travel_Rarely,6,No
+EMP-0269,Research & Development,Software Engineer,23,Female,College,1,2778,0,0,0,0,0,2,4,2,4,3,Yes,Travel_Rarely,6,Yes
+EMP-0270,Research & Development,Laboratory Technician,54,Male,Master,1,3577,7,4,2,3,0,4,3,3,2,3,No,Non-Travel,7,No
+EMP-0271,Research & Development,Research Scientist,20,Female,Bachelor,1,2721,0,0,0,0,0,1,3,3,3,3,No,Travel_Rarely,6,No
+EMP-0272,Research & Development,Research Scientist,56,Male,Below College,3,10898,23,18,7,17,7,5,4,1,4,3,No,Travel_Frequently,3,No
+EMP-0273,Research & Development,Research Scientist,46,Male,Doctor,2,8331,20,17,7,10,13,1,3,4,4,3,No,Travel_Frequently,6,Yes
+EMP-0274,Research & Development,Research Director,33,Female,College,5,23022,11,6,3,6,1,2,1,4,1,3,Yes,Non-Travel,5,No
+EMP-0275,Sales,Sales Representative,20,Male,Bachelor,1,2507,0,0,0,0,0,3,3,4,3,3,No,Travel_Frequently,4,Yes
+EMP-0276,Research & Development,Laboratory Technician,44,Male,Bachelor,1,2697,3,1,1,0,0,4,3,4,4,3,Yes,Travel_Rarely,3,Yes
+EMP-0277,Research & Development,Laboratory Technician,23,Female,Bachelor,1,2496,1,0,0,0,0,2,4,2,1,2,No,Non-Travel,4,Yes
+EMP-0278,Research & Development,Software Engineer,44,Female,Master,3,9664,18,5,2,0,4,2,3,3,3,4,Yes,Travel_Frequently,5,No
+EMP-0279,Sales,Sales Executive,50,Female,Below College,4,14101,19,12,10,1,7,3,4,3,3,3,Yes,Travel_Frequently,3,No
+EMP-0280,Sales,Sales Executive,30,Male,Master,3,11079,8,3,0,0,2,2,4,1,3,3,No,Travel_Rarely,5,No
+EMP-0281,Research & Development,Laboratory Technician,29,Female,Bachelor,1,3336,5,3,0,2,0,3,2,3,3,3,No,Travel_Rarely,4,No
+EMP-0282,Research & Development,Research Scientist,28,Non-Binary,Doctor,1,3825,7,3,1,0,3,4,3,2,1,3,No,Travel_Rarely,6,No
+EMP-0283,Research & Development,Manufacturing Director,28,Female,Master,4,14783,7,4,2,0,2,1,3,1,3,4,Yes,Travel_Rarely,5,Yes
+EMP-0284,Research & Development,Laboratory Technician,24,Male,Master,1,2238,2,0,0,0,0,4,2,4,2,3,No,Travel_Rarely,0,No
+EMP-0285,Research & Development,Software Engineer,29,Male,Bachelor,1,3532,5,3,3,0,0,0,3,1,4,3,Yes,Travel_Rarely,0,No
+EMP-0286,Research & Development,Software Engineer,46,Male,Bachelor,2,8561,17,6,5,2,6,4,3,3,3,2,No,Travel_Rarely,7,No
+EMP-0287,Research & Development,Research Scientist,32,Male,Bachelor,3,9581,11,5,2,4,5,5,4,4,1,1,No,Travel_Rarely,5,No
+EMP-0288,Research & Development,Research Director,51,Female,Bachelor,4,14956,17,13,5,0,8,3,3,3,4,2,Yes,Travel_Rarely,5,No
+EMP-0289,Research & Development,Manufacturing Director,52,Male,Bachelor,4,15443,17,12,1,8,2,6,1,2,3,1,No,Travel_Rarely,9,No
+EMP-0290,Research & Development,Research Director,50,Male,Master,4,16248,23,4,1,0,0,4,3,3,3,3,Yes,Non-Travel,3,No
+EMP-0291,Sales,Sales Executive,41,Male,Below College,3,10068,18,6,1,3,6,1,4,4,2,3,No,Travel_Rarely,0,No
+EMP-0292,Research & Development,Research Scientist,32,Male,Master,1,3252,7,0,0,0,0,0,3,4,3,3,No,Non-Travel,4,No
+EMP-0293,Sales,Sales Executive,57,Male,College,2,9547,33,5,1,4,3,0,2,2,4,3,No,Travel_Rarely,2,No
+EMP-0294,Research & Development,Research Scientist,28,Male,Master,1,3594,2,1,1,1,0,2,4,1,2,2,Yes,Travel_Rarely,2,No
+EMP-0295,Sales,Sales Executive,38,Male,College,2,6952,4,2,0,2,0,3,1,3,4,2,No,Travel_Frequently,7,Yes
+EMP-0296,Sales,Sales Executive,38,Female,College,3,9496,2,1,0,0,1,3,2,2,2,2,No,Travel_Rarely,2,Yes
+EMP-0297,Human Resources,Manager,49,Male,Master,5,20661,7,2,1,1,2,3,3,4,3,3,No,Travel_Rarely,4,No
+EMP-0298,Sales,Sales Executive,41,Male,Master,3,8054,2,1,1,1,0,2,4,3,3,2,No,Travel_Rarely,5,No
+EMP-0299,Sales,Sales Executive,51,Male,Master,2,6856,8,6,4,1,5,1,4,4,1,3,No,Travel_Rarely,8,No
+EMP-0300,Research & Development,Manufacturing Director,56,Male,Doctor,4,14155,16,5,1,2,2,2,1,4,4,4,No,Non-Travel,4,No
+EMP-0301,Sales,Sales Executive,35,Male,College,3,10616,10,3,2,3,3,6,4,3,2,3,No,Non-Travel,6,No
+EMP-0302,Research & Development,Laboratory Technician,54,Male,Master,4,16621,18,8,8,3,8,2,4,4,4,2,No,Travel_Rarely,1,No
+EMP-0303,Research & Development,Laboratory Technician,26,Male,Bachelor,1,3650,5,2,1,0,1,2,4,3,2,3,No,Travel_Frequently,3,No
+EMP-0304,Research & Development,Manufacturing Director,56,Male,Bachelor,4,13189,3,2,0,0,0,2,4,2,2,3,No,Travel_Rarely,4,No
+EMP-0305,Sales,Sales Representative,27,Female,Bachelor,1,3272,4,3,1,2,2,6,4,4,4,1,No,Travel_Rarely,8,Yes
+EMP-0306,Research & Development,Software Engineer,54,Male,Below College,2,6581,8,5,5,0,3,2,2,3,3,3,No,Non-Travel,5,No
+EMP-0307,Research & Development,Laboratory Technician,35,Male,Bachelor,4,13170,12,6,3,2,6,3,2,4,2,3,No,Travel_Rarely,3,No
+EMP-0308,Research & Development,Software Engineer,58,Female,Master,1,4414,9,3,2,1,2,1,4,2,3,4,Yes,Travel_Rarely,5,No
+EMP-0309,Research & Development,Software Engineer,25,Male,College,3,10470,3,2,1,2,2,1,3,2,2,4,No,Travel_Rarely,10,No
+EMP-0310,Research & Development,Software Engineer,38,Male,Master,2,5493,8,7,5,5,1,3,3,4,4,3,No,Travel_Frequently,4,No
+EMP-0311,Research & Development,Research Scientist,56,Male,Bachelor,3,11769,26,11,7,2,6,3,4,1,1,3,No,Travel_Rarely,4,No
+EMP-0312,Research & Development,Laboratory Technician,21,Male,College,1,2776,0,0,0,0,0,3,4,3,3,3,No,Travel_Rarely,2,No
+EMP-0313,Research & Development,Research Scientist,30,Male,Bachelor,1,3746,7,1,1,0,0,2,4,3,1,4,Yes,Non-Travel,4,No
+EMP-0314,Research & Development,Research Scientist,23,Non-Binary,College,1,3725,2,1,1,0,1,6,4,2,3,3,No,Travel_Rarely,4,No
+EMP-0315,Research & Development,Research Scientist,32,Non-Binary,Below College,2,5412,3,2,2,2,0,3,1,2,4,3,No,Travel_Frequently,2,No
+EMP-0316,Research & Development,Manufacturing Director,35,Non-Binary,Bachelor,5,19679,8,2,1,0,0,5,4,4,4,1,No,Travel_Rarely,3,No
+EMP-0317,Research & Development,Software Engineer,44,Male,Below College,3,10091,12,4,4,1,3,2,4,1,3,3,Yes,Travel_Rarely,4,No
+EMP-0318,Sales,Sales Representative,30,Male,Below College,1,4077,9,4,1,0,4,2,1,4,2,3,No,Travel_Rarely,5,No
+EMP-0319,Research & Development,Manufacturing Director,26,Male,Master,4,15188,4,1,0,0,1,2,2,4,2,3,No,Non-Travel,3,Yes
+EMP-0320,Human Resources,Human Resources,26,Male,Below College,1,3707,5,2,2,2,2,3,4,3,4,2,Yes,Travel_Rarely,6,Yes
+EMP-0321,Sales,Sales Representative,57,Male,Master,1,4061,9,2,2,2,0,3,3,3,1,3,No,Travel_Rarely,3,No
+EMP-0322,Research & Development,Software Engineer,58,Male,Master,4,13418,18,4,0,2,1,3,1,1,3,1,No,Travel_Frequently,6,Yes
+EMP-0323,Research & Development,Research Scientist,28,Male,College,2,4749,7,1,1,1,0,0,2,4,3,3,Yes,Travel_Rarely,2,No
+EMP-0324,Research & Development,Laboratory Technician,27,Male,Bachelor,1,1946,1,0,0,0,0,2,2,1,4,3,No,Travel_Rarely,1,No
+EMP-0325,Sales,Manager,22,Male,Below College,4,14226,1,0,0,0,0,1,2,2,3,3,Yes,Non-Travel,8,No
+EMP-0326,Sales,Sales Executive,58,Female,Bachelor,3,9218,5,3,2,0,0,4,4,4,3,3,No,Travel_Rarely,6,No
+EMP-0327,Sales,Sales Executive,48,Male,Below College,3,9447,16,10,0,7,8,2,3,2,4,3,No,Travel_Rarely,3,No
+EMP-0328,Research & Development,Research Scientist,50,Female,Master,3,10134,10,2,0,2,2,1,4,2,4,2,No,Travel_Rarely,4,No
+EMP-0329,Research & Development,Software Engineer,31,Male,College,1,3535,10,8,8,1,5,2,1,4,3,3,No,Travel_Frequently,1,No
+EMP-0330,Research & Development,Laboratory Technician,45,Male,Bachelor,1,3500,6,5,4,4,4,1,3,1,3,3,No,Travel_Rarely,1,No
+EMP-0331,Sales,Sales Representative,22,Male,College,1,3753,1,0,0,0,0,5,2,2,3,3,No,Travel_Rarely,4,No
+EMP-0332,Research & Development,Laboratory Technician,47,Male,College,3,10953,21,5,3,2,0,2,4,3,3,3,No,Travel_Rarely,2,No
+EMP-0333,Sales,Sales Executive,43,Male,Bachelor,4,15948,4,1,1,0,0,5,4,4,1,1,No,Travel_Rarely,6,No
+EMP-0334,Sales,Sales Representative,33,Male,Bachelor,1,3433,5,4,4,4,0,3,3,4,3,4,No,Travel_Rarely,3,No
+EMP-0335,Research & Development,Laboratory Technician,48,Female,Doctor,2,6989,15,5,2,5,4,3,4,4,3,3,No,Non-Travel,2,No
+EMP-0336,Research & Development,Laboratory Technician,45,Male,Below College,1,4329,9,5,0,2,5,2,1,4,2,3,Yes,Travel_Rarely,2,Yes
+EMP-0337,Research & Development,Research Scientist,37,Male,Below College,3,7345,11,2,0,1,2,3,2,1,2,3,Yes,Non-Travel,4,No
+EMP-0338,Sales,Sales Executive,27,Female,Bachelor,3,9961,6,5,1,1,1,3,4,3,3,3,Yes,Travel_Frequently,2,No
+EMP-0339,Research & Development,Software Engineer,20,Male,Bachelor,1,2642,0,0,0,0,0,0,3,1,2,4,Yes,Travel_Rarely,6,No
+EMP-0340,Human Resources,Human Resources,57,Female,Master,3,11997,27,18,0,14,5,4,4,4,3,2,No,Travel_Rarely,4,Yes
+EMP-0341,Research & Development,Research Scientist,31,Male,Master,1,4060,7,1,1,1,0,2,2,4,3,2,No,Travel_Frequently,7,No
+EMP-0342,Human Resources,Human Resources,32,Male,Master,1,3689,8,5,5,4,2,2,4,2,3,3,No,Travel_Rarely,4,No
+EMP-0343,Sales,Sales Representative,47,Male,College,1,2927,4,3,0,0,1,2,2,4,2,3,Yes,Non-Travel,4,No
+EMP-0344,Research & Development,Research Scientist,30,Male,Bachelor,1,3515,3,1,1,0,1,3,2,3,3,3,No,Travel_Rarely,3,No
+EMP-0345,Sales,Sales Representative,35,Female,Master,1,3986,10,4,2,4,1,2,3,1,3,3,Yes,Travel_Rarely,3,No
+EMP-0346,Sales,Sales Executive,48,Male,College,2,6164,6,0,0,0,0,2,4,3,3,3,Yes,Travel_Rarely,6,No
+EMP-0347,Human Resources,Manager,43,Male,Bachelor,4,13889,17,10,5,8,2,1,3,4,3,4,No,Non-Travel,7,No
+EMP-0348,Research & Development,Software Engineer,46,Male,College,2,6521,14,2,1,2,0,2,3,2,4,2,Yes,Non-Travel,6,No
+EMP-0349,Research & Development,Software Engineer,20,Female,Bachelor,1,3332,0,0,0,0,0,2,1,1,1,2,No,Travel_Rarely,3,No
+EMP-0350,Research & Development,Laboratory Technician,38,Female,Master,1,4121,8,4,0,4,4,4,1,4,3,3,No,Travel_Rarely,5,No
+EMP-0351,Research & Development,Research Director,39,Female,College,4,13774,12,4,1,0,1,2,1,3,2,3,No,Non-Travel,7,Yes
+EMP-0352,Research & Development,Software Engineer,45,Female,Doctor,2,5974,10,5,2,3,3,5,4,3,4,3,Yes,Travel_Rarely,1,No
+EMP-0353,Research & Development,Software Engineer,26,Female,College,1,3300,3,1,1,0,0,3,2,4,1,3,No,Travel_Rarely,6,No
+EMP-0354,Research & Development,Laboratory Technician,26,Male,Below College,1,3630,2,1,1,0,1,3,2,3,3,4,No,Non-Travel,2,No
+EMP-0355,Research & Development,Laboratory Technician,50,Female,College,3,10392,11,5,0,4,0,5,3,2,3,3,No,Travel_Rarely,5,No
+EMP-0356,Research & Development,Research Scientist,46,Male,College,2,4753,3,2,1,1,1,2,3,1,2,3,No,Travel_Rarely,5,No
+EMP-0357,Sales,Sales Executive,52,Male,Bachelor,4,14572,20,7,4,1,5,3,3,4,4,2,Yes,Travel_Rarely,1,No
+EMP-0358,Sales,Sales Executive,30,Female,Below College,4,13095,9,2,1,0,2,1,1,3,2,3,No,Travel_Rarely,2,Yes
+EMP-0359,Research & Development,Research Director,59,Male,Bachelor,4,13811,20,7,2,5,5,1,3,3,2,3,Yes,Travel_Rarely,5,No
+EMP-0360,Research & Development,Software Engineer,30,Male,Master,1,4056,9,6,2,1,2,2,4,4,3,3,No,Travel_Rarely,4,No
+EMP-0361,Human Resources,Human Resources,46,Male,Bachelor,3,10110,17,8,5,8,1,3,2,1,3,2,No,Travel_Rarely,5,No
+EMP-0362,Research & Development,Research Director,26,Male,College,4,14472,2,1,0,1,1,4,3,4,2,3,Yes,Travel_Rarely,7,No
+EMP-0363,Research & Development,Software Engineer,56,Female,Bachelor,3,11065,25,11,10,9,7,2,1,4,2,3,Yes,Travel_Rarely,2,No
+EMP-0364,Research & Development,Research Scientist,33,Male,Master,3,8801,11,3,3,2,3,3,4,4,2,3,No,Travel_Rarely,5,No
+EMP-0365,Sales,Sales Executive,52,Female,Bachelor,3,8660,11,8,6,0,1,2,4,2,4,3,No,Non-Travel,6,No
+EMP-0366,Research & Development,Research Scientist,33,Male,Below College,1,2982,3,1,0,0,1,0,1,2,3,3,No,Travel_Rarely,3,Yes
+EMP-0367,Sales,Sales Executive,51,Female,Bachelor,4,16813,25,17,9,11,12,1,3,3,2,4,No,Non-Travel,3,No
+EMP-0368,Sales,Sales Executive,38,Male,Bachelor,3,9832,10,7,4,1,5,3,3,4,3,3,No,Travel_Rarely,4,No
+EMP-0369,Research & Development,Laboratory Technician,22,Female,Bachelor,1,3369,1,0,0,0,0,3,4,4,4,3,No,Travel_Rarely,2,No
+EMP-0370,Sales,Sales Representative,27,Male,Below College,1,3434,4,3,3,1,3,2,3,3,4,4,No,Travel_Rarely,7,No
+EMP-0371,Sales,Sales Executive,47,Male,Doctor,2,5420,7,5,0,2,2,0,3,3,1,3,No,Non-Travel,5,No
+EMP-0372,Research & Development,Software Engineer,27,Male,College,1,3039,0,0,0,0,0,3,2,2,3,3,No,Travel_Rarely,5,No
+EMP-0373,Research & Development,Research Scientist,31,Male,College,3,10318,9,4,1,3,3,4,1,3,2,3,No,Travel_Rarely,5,No
+EMP-0374,Research & Development,Research Director,41,Male,College,5,21221,14,7,6,2,1,1,3,4,2,4,No,Non-Travel,2,No
+EMP-0375,Research & Development,Research Scientist,30,Female,Bachelor,3,8688,9,5,3,3,0,3,3,4,4,1,Yes,Travel_Rarely,4,No
+EMP-0376,Research & Development,Laboratory Technician,25,Female,Bachelor,1,2710,0,0,0,0,0,3,4,2,4,3,No,Non-Travel,9,Yes
+EMP-0377,Human Resources,Human Resources,44,Female,College,3,10877,15,3,0,3,2,2,4,4,1,2,Yes,Travel_Rarely,6,No
+EMP-0378,Research & Development,Laboratory Technician,47,Male,Bachelor,2,6323,12,3,0,3,2,1,3,1,4,3,No,Travel_Rarely,4,No
+EMP-0379,Research & Development,Software Engineer,49,Male,Bachelor,3,9116,12,10,9,6,4,5,3,3,3,3,No,Travel_Rarely,4,No
+EMP-0380,Sales,Sales Representative,57,Female,College,1,4317,7,4,0,0,2,2,4,3,3,4,Yes,Travel_Frequently,5,No
+EMP-0381,Research & Development,Research Scientist,24,Female,Master,3,9548,3,1,1,0,0,2,4,3,3,3,No,Travel_Frequently,10,No
+EMP-0382,Human Resources,Manager,37,Male,College,4,13444,10,6,5,1,4,4,4,4,3,1,No,Travel_Rarely,5,No
+EMP-0383,Sales,Sales Executive,29,Female,College,2,7178,8,5,3,3,1,4,4,3,4,3,Yes,Travel_Rarely,5,No
+EMP-0384,Research & Development,Laboratory Technician,56,Male,Doctor,1,2998,6,2,0,0,1,3,3,1,2,4,No,Travel_Rarely,5,No
+EMP-0385,Research & Development,Manufacturing Director,41,Female,Master,5,19358,18,5,0,3,3,4,4,2,3,3,No,Travel_Rarely,3,No
+EMP-0386,Human Resources,Manager,23,Female,Bachelor,5,15572,2,1,0,1,0,2,3,3,2,2,No,Travel_Rarely,1,No
+EMP-0387,Sales,Sales Executive,47,Female,Master,3,9767,17,3,2,1,2,3,2,3,4,3,No,Non-Travel,8,No
+EMP-0388,Human Resources,Human Resources,21,Male,Bachelor,1,3375,0,0,0,0,0,2,3,3,1,3,No,Non-Travel,5,Yes
+EMP-0389,Research & Development,Research Scientist,30,Female,Bachelor,1,3179,4,3,0,0,2,4,3,2,3,1,No,Non-Travel,1,No
+EMP-0390,Sales,Sales Executive,48,Male,Master,3,9239,11,6,2,1,5,2,3,1,3,3,No,Travel_Rarely,2,No
+EMP-0391,Research & Development,Software Engineer,40,Female,Master,2,6839,13,5,2,5,1,1,2,4,2,3,Yes,Travel_Rarely,4,Yes
+EMP-0392,Research & Development,Research Director,50,Male,College,4,14418,14,3,2,1,2,2,4,3,2,3,No,Travel_Frequently,6,No
+EMP-0393,Research & Development,Research Director,42,Female,Bachelor,5,14148,0,0,0,0,0,3,3,3,2,3,No,Travel_Rarely,2,Yes
+EMP-0394,Sales,Sales Executive,53,Female,Bachelor,3,9408,6,3,2,1,3,3,3,3,3,3,Yes,Travel_Rarely,5,Yes
+EMP-0395,Research & Development,Laboratory Technician,42,Male,Below College,3,9664,16,6,4,1,0,3,1,2,2,3,No,Travel_Rarely,5,No
+EMP-0396,Research & Development,Manufacturing Director,22,Male,Doctor,4,12994,1,0,0,0,0,0,3,2,3,3,Yes,Non-Travel,3,Yes
+EMP-0397,Sales,Manager,22,Female,Bachelor,4,11647,0,0,0,0,0,2,1,1,3,3,No,Travel_Rarely,2,No
+EMP-0398,Research & Development,Research Scientist,51,Male,Bachelor,2,7514,16,5,5,1,0,3,2,3,4,3,Yes,Travel_Rarely,3,No
+EMP-0399,Research & Development,Software Engineer,21,Male,Bachelor,1,3049,0,0,0,0,0,2,3,2,3,3,No,Travel_Frequently,5,No
+EMP-0400,Research & Development,Manufacturing Director,35,Male,Bachelor,5,21332,9,1,1,1,0,3,4,2,2,3,No,Travel_Frequently,3,No
+EMP-0401,Research & Development,Software Engineer,20,Male,College,1,3031,0,0,0,0,0,5,3,4,4,3,No,Non-Travel,5,Yes
+EMP-0402,Sales,Sales Executive,32,Female,Doctor,2,5568,4,3,0,3,0,3,3,3,4,4,No,Travel_Rarely,3,Yes
+EMP-0403,Sales,Manager,43,Female,Bachelor,5,19975,8,1,1,1,0,2,4,3,3,3,Yes,Travel_Rarely,3,Yes
+EMP-0404,Research & Development,Research Director,26,Male,Bachelor,5,22925,5,3,1,2,1,3,3,3,3,2,Yes,Travel_Frequently,0,No
+EMP-0405,Human Resources,Manager,38,Male,Bachelor,4,14299,9,3,0,2,1,4,4,2,1,3,No,Non-Travel,3,No
+EMP-0406,Sales,Sales Representative,59,Male,College,1,4328,10,9,2,0,1,3,1,1,3,3,Yes,Travel_Rarely,9,Yes
+EMP-0407,Research & Development,Research Scientist,22,Male,Below College,1,3369,1,0,0,0,0,4,3,4,3,3,Yes,Travel_Rarely,2,No
+EMP-0408,Sales,Sales Executive,22,Female,Bachelor,3,9402,1,0,0,0,0,2,1,3,2,4,No,Travel_Rarely,6,No
+EMP-0409,Research & Development,Software Engineer,30,Male,College,1,4238,9,2,0,0,1,3,3,4,1,3,No,Travel_Rarely,5,No
+EMP-0410,Human Resources,Human Resources,53,Male,Bachelor,2,7223,13,6,5,2,2,2,4,4,2,3,Yes,Travel_Rarely,3,Yes
+EMP-0411,Sales,Sales Executive,36,Female,Master,3,10209,13,2,0,1,1,3,3,1,3,3,No,Travel_Rarely,5,No
+EMP-0412,Sales,Sales Representative,45,Male,College,4,13047,12,8,0,0,0,4,3,3,2,1,Yes,Non-Travel,5,No
+EMP-0413,Research & Development,Software Engineer,21,Female,Bachelor,1,2988,0,0,0,0,0,4,2,1,3,3,No,Travel_Rarely,2,Yes
+EMP-0414,Sales,Sales Representative,49,Male,Bachelor,3,10749,17,8,3,7,6,1,4,3,4,3,Yes,Travel_Rarely,8,No
+EMP-0415,Research & Development,Software Engineer,22,Male,College,1,3606,1,0,0,0,0,4,3,4,2,4,No,Travel_Rarely,4,No
+EMP-0416,Research & Development,Software Engineer,48,Male,Master,1,4143,8,2,1,2,2,1,2,1,1,3,Yes,Travel_Rarely,3,No
+EMP-0417,Research & Development,Research Scientist,25,Female,Bachelor,1,2935,3,1,0,0,0,2,4,4,2,2,No,Travel_Rarely,0,No
+EMP-0418,Sales,Sales Executive,54,Female,Below College,2,6502,13,3,1,1,2,3,3,3,3,2,Yes,Travel_Frequently,4,Yes
+EMP-0419,Research & Development,Manufacturing Director,31,Male,College,4,15644,7,2,0,2,1,3,3,3,4,2,No,Travel_Rarely,1,No
+EMP-0420,Sales,Sales Executive,27,Male,Master,2,4536,2,0,0,0,0,2,1,1,3,4,No,Travel_Frequently,2,No
+EMP-0421,Sales,Sales Executive,33,Male,College,2,6081,9,2,1,2,0,3,2,3,4,3,No,Travel_Frequently,4,No
+EMP-0422,Research & Development,Laboratory Technician,20,Female,Bachelor,1,2405,0,0,0,0,0,3,4,3,4,3,Yes,Travel_Rarely,4,No
+EMP-0423,Research & Development,Software Engineer,26,Female,College,1,2712,1,0,0,0,0,3,3,2,2,3,No,Travel_Frequently,3,No
+EMP-0424,Research & Development,Research Scientist,43,Female,College,3,10398,15,6,5,5,5,3,4,3,3,2,No,Travel_Rarely,5,No
+EMP-0425,Research & Development,Software Engineer,32,Female,Master,1,4521,10,9,6,3,1,3,1,1,3,3,Yes,Travel_Rarely,2,No
+EMP-0426,Sales,Sales Executive,34,Male,College,3,10027,8,3,0,2,1,2,3,4,3,3,Yes,Non-Travel,5,No
+EMP-0427,Research & Development,Laboratory Technician,52,Female,Below College,2,6400,13,4,0,3,3,1,4,2,2,3,No,Travel_Rarely,8,No
+EMP-0428,Sales,Sales Executive,24,Female,Bachelor,3,8929,1,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,4,No
+EMP-0429,Research & Development,Research Scientist,35,Male,Master,2,7327,10,7,5,0,6,3,3,4,3,3,No,Travel_Frequently,2,No
+EMP-0430,Sales,Sales Executive,27,Female,Bachelor,2,5809,4,3,0,3,1,2,3,4,3,4,No,Travel_Frequently,5,Yes
+EMP-0431,Sales,Sales Executive,39,Male,College,3,8044,5,3,0,0,0,2,3,4,2,2,No,Travel_Rarely,5,Yes
+EMP-0432,Sales,Sales Executive,33,Female,Doctor,3,10225,5,4,4,1,3,4,4,4,2,4,Yes,Travel_Frequently,4,Yes
+EMP-0433,Sales,Sales Representative,21,Female,Bachelor,1,2871,0,0,0,0,0,4,2,2,3,4,No,Travel_Rarely,1,No
+EMP-0434,Sales,Sales Executive,22,Female,Master,4,13701,0,0,0,0,0,3,3,3,3,4,No,Travel_Rarely,5,No
+EMP-0435,Research & Development,Laboratory Technician,54,Male,Master,3,11244,19,9,4,0,1,3,3,3,3,1,No,Non-Travel,9,No
+EMP-0436,Research & Development,Software Engineer,22,Male,Bachelor,1,2294,1,0,0,0,0,5,2,1,1,3,No,Travel_Rarely,1,No
+EMP-0437,Research & Development,Software Engineer,51,Female,Bachelor,1,2913,6,5,0,1,2,3,2,4,2,3,No,Travel_Rarely,0,No
+EMP-0438,Research & Development,Research Scientist,56,Female,Bachelor,4,17649,18,5,4,5,4,2,4,1,3,3,No,Travel_Rarely,1,No
+EMP-0439,Sales,Sales Representative,38,Male,Bachelor,1,3387,7,5,3,3,2,3,2,4,3,2,Yes,Travel_Rarely,5,No
+EMP-0440,Research & Development,Manufacturing Director,32,Female,Bachelor,4,14176,8,2,1,0,1,4,2,4,1,3,No,Travel_Rarely,8,No
+EMP-0441,Sales,Sales Executive,51,Male,Doctor,2,6435,6,2,1,2,0,3,3,3,3,1,Yes,Travel_Frequently,3,No
+EMP-0442,Research & Development,Research Scientist,59,Female,Bachelor,4,19783,28,19,10,19,16,0,1,3,3,3,Yes,Travel_Rarely,0,No
+EMP-0443,Sales,Manager,24,Female,College,5,17748,3,2,1,0,1,4,1,4,3,4,No,Travel_Rarely,8,No
+EMP-0444,Research & Development,Software Engineer,58,Male,Bachelor,3,8140,27,7,6,0,3,3,1,4,2,3,No,Travel_Rarely,5,No
+EMP-0445,Research & Development,Research Scientist,57,Male,Bachelor,2,8829,26,17,0,12,9,2,1,4,3,4,No,Travel_Rarely,5,No
+EMP-0446,Sales,Sales Executive,25,Female,Bachelor,2,4580,1,0,0,0,0,6,3,4,4,3,Yes,Travel_Rarely,4,No
+EMP-0447,Human Resources,Human Resources,22,Female,Master,1,2980,1,0,0,0,0,3,4,1,3,3,No,Travel_Frequently,2,No
+EMP-0448,Research & Development,Laboratory Technician,48,Female,Bachelor,2,7260,16,3,3,2,2,4,2,1,2,2,No,Travel_Rarely,2,Yes
+EMP-0449,Research & Development,Software Engineer,23,Male,Below College,1,3004,1,0,0,0,0,5,3,2,1,3,No,Travel_Rarely,6,Yes
+EMP-0450,Research & Development,Research Director,44,Non-Binary,Bachelor,5,21048,12,7,1,4,6,0,3,3,1,3,No,Travel_Rarely,2,No
+EMP-0451,Research & Development,Software Engineer,22,Male,Bachelor,1,2755,0,0,0,0,0,3,2,3,4,3,No,Travel_Rarely,0,Yes
+EMP-0452,Sales,Sales Executive,47,Male,Master,4,17441,13,6,5,4,1,2,3,2,4,4,Yes,Travel_Frequently,3,No
+EMP-0453,Sales,Sales Executive,29,Male,Bachelor,4,11449,4,1,1,0,1,4,3,4,1,1,No,Travel_Frequently,4,Yes
+EMP-0454,Research & Development,Software Engineer,23,Female,Bachelor,1,3029,0,0,0,0,0,4,2,1,4,2,Yes,Travel_Frequently,2,Yes
+EMP-0455,Research & Development,Research Scientist,22,Female,Bachelor,1,2898,0,0,0,0,0,4,3,4,2,3,No,Travel_Rarely,6,No
+EMP-0456,Research & Development,Research Scientist,27,Female,Bachelor,3,8883,4,3,1,3,2,3,1,3,3,3,No,Travel_Rarely,5,No
+EMP-0457,Human Resources,Human Resources,41,Female,Below College,3,10142,13,1,1,0,1,3,4,3,3,3,Yes,Non-Travel,5,Yes
+EMP-0458,Research & Development,Laboratory Technician,23,Male,Master,1,2973,2,1,1,1,1,2,4,1,3,3,Yes,Travel_Rarely,8,Yes
+EMP-0459,Sales,Sales Executive,52,Male,Master,3,10215,13,3,2,0,1,2,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0460,Research & Development,Software Engineer,44,Male,Bachelor,2,7145,15,8,5,6,6,1,1,4,3,3,No,Travel_Frequently,1,Yes
+EMP-0461,Research & Development,Laboratory Technician,31,Male,Bachelor,1,2841,3,1,1,0,1,4,4,2,2,1,No,Non-Travel,2,No
+EMP-0462,Research & Development,Laboratory Technician,59,Male,Below College,1,4032,8,6,2,1,5,3,3,3,4,3,No,Travel_Frequently,5,Yes
+EMP-0463,Human Resources,Manager,46,Female,Bachelor,4,13770,21,5,5,2,0,3,1,3,2,3,No,Travel_Rarely,4,Yes
+EMP-0464,Research & Development,Laboratory Technician,46,Female,Bachelor,1,3677,9,4,4,1,3,2,4,2,1,3,No,Non-Travel,3,Yes
+EMP-0465,Research & Development,Laboratory Technician,26,Female,Bachelor,1,2980,3,1,1,1,1,3,4,3,4,3,No,Travel_Rarely,4,No
+EMP-0466,Sales,Sales Executive,48,Male,Below College,2,6658,16,5,1,3,4,2,1,3,3,3,No,Travel_Rarely,0,No
+EMP-0467,Research & Development,Software Engineer,42,Male,Bachelor,1,3376,9,4,1,3,3,6,4,4,3,4,No,Travel_Rarely,4,No
+EMP-0468,Human Resources,Human Resources,59,Male,College,4,16797,18,5,5,0,0,4,1,4,2,3,Yes,Travel_Rarely,8,No
+EMP-0469,Research & Development,Research Scientist,39,Male,Bachelor,4,15382,16,4,4,0,2,3,3,1,1,4,No,Travel_Rarely,5,No
+EMP-0470,Research & Development,Research Scientist,47,Male,Bachelor,2,6173,4,3,1,3,3,4,1,4,2,3,Yes,Non-Travel,6,Yes
+EMP-0471,Research & Development,Research Scientist,33,Male,College,2,5327,9,4,2,0,1,2,1,2,3,3,No,Travel_Frequently,3,No
+EMP-0472,Research & Development,Software Engineer,21,Male,Bachelor,1,2537,0,0,0,0,0,1,4,4,3,3,Yes,Travel_Frequently,5,No
+EMP-0473,Research & Development,Software Engineer,25,Female,Master,1,2424,3,2,0,2,1,3,3,3,3,3,No,Travel_Rarely,5,No
+EMP-0474,Research & Development,Research Scientist,54,Male,Bachelor,1,3718,9,4,1,3,2,3,2,1,4,3,No,Non-Travel,6,No
+EMP-0475,Research & Development,Manufacturing Director,49,Male,Below College,4,17237,12,4,2,3,4,1,4,4,4,3,No,Travel_Rarely,3,No
+EMP-0476,Research & Development,Research Director,34,Male,Bachelor,4,15044,7,5,5,0,0,2,4,1,2,2,No,Travel_Rarely,5,No
+EMP-0477,Research & Development,Research Scientist,47,Male,College,3,11878,20,10,3,3,6,3,4,4,4,3,Yes,Travel_Frequently,4,No
+EMP-0478,Research & Development,Research Director,20,Male,Bachelor,5,15177,0,0,0,0,0,1,4,4,4,1,No,Non-Travel,4,No
+EMP-0479,Research & Development,Research Scientist,21,Male,Bachelor,1,2219,0,0,0,0,0,2,4,3,4,3,No,Non-Travel,6,No
+EMP-0480,Research & Development,Research Director,40,Female,Below College,5,20313,7,6,0,0,0,3,3,3,3,3,No,Travel_Rarely,2,No
+EMP-0481,Research & Development,Research Director,44,Male,Bachelor,5,22741,5,3,1,0,1,5,2,3,2,4,No,Travel_Rarely,6,No
+EMP-0482,Research & Development,Research Scientist,57,Female,Master,2,7392,13,11,9,7,8,2,4,3,2,2,No,Travel_Rarely,1,No
+EMP-0483,Research & Development,Laboratory Technician,50,Male,Master,1,3503,2,0,0,0,0,2,1,1,4,2,No,Travel_Rarely,6,Yes
+EMP-0484,Research & Development,Research Director,30,Male,Below College,4,15102,3,2,2,2,2,0,2,4,3,3,No,Travel_Rarely,4,No
+EMP-0485,Research & Development,Manufacturing Director,52,Male,College,5,18876,17,12,0,3,2,2,3,2,4,2,No,Travel_Frequently,5,No
+EMP-0486,Research & Development,Research Director,39,Male,Bachelor,4,17511,8,5,5,5,4,3,2,2,3,3,No,Travel_Rarely,5,No
+EMP-0487,Research & Development,Software Engineer,53,Male,College,3,10101,24,8,7,6,1,2,3,2,2,1,No,Non-Travel,4,No
+EMP-0488,Research & Development,Research Scientist,26,Female,Bachelor,1,2299,0,0,0,0,0,2,4,4,3,4,No,Travel_Rarely,3,No
+EMP-0489,Research & Development,Manufacturing Director,21,Male,Below College,5,17884,0,0,0,0,0,5,3,4,4,4,No,Travel_Rarely,1,Yes
+EMP-0490,Research & Development,Laboratory Technician,22,Female,Below College,1,2538,1,0,0,0,0,3,3,2,1,3,Yes,Travel_Rarely,0,Yes
+EMP-0491,Sales,Sales Representative,59,Male,Bachelor,2,7515,28,11,6,10,4,1,3,2,3,4,No,Travel_Rarely,3,No
+EMP-0492,Research & Development,Software Engineer,23,Male,College,1,3400,1,0,0,0,0,2,3,4,4,3,Yes,Travel_Rarely,2,Yes
+EMP-0493,Sales,Sales Executive,57,Male,Bachelor,4,15551,10,1,0,0,0,4,1,3,2,4,No,Non-Travel,6,Yes
+EMP-0494,Research & Development,Research Scientist,49,Male,Below College,2,6608,5,3,1,0,3,3,1,4,2,3,No,Travel_Rarely,1,No
+EMP-0495,Sales,Sales Representative,25,Male,Bachelor,1,3774,4,3,0,3,0,5,3,4,3,4,No,Travel_Rarely,1,No
+EMP-0496,Research & Development,Research Scientist,54,Female,Bachelor,3,13232,23,17,0,8,8,1,3,4,4,2,No,Travel_Rarely,4,No
+EMP-0497,Research & Development,Laboratory Technician,25,Female,Master,1,2762,3,1,0,1,1,3,3,1,3,3,No,Travel_Rarely,2,No
+EMP-0498,Research & Development,Manufacturing Director,25,Non-Binary,Master,5,23285,2,1,1,1,1,1,2,3,1,4,No,Travel_Rarely,5,No
+EMP-0499,Research & Development,Software Engineer,43,Male,Bachelor,1,3885,5,4,2,3,3,2,1,4,2,3,No,Travel_Rarely,2,No
+EMP-0500,Research & Development,Software Engineer,31,Female,Bachelor,1,3172,6,1,0,1,0,3,3,3,3,3,No,Travel_Rarely,1,No
+EMP-0501,Sales,Sales Executive,31,Female,College,3,9027,5,4,0,2,3,3,3,4,2,2,No,Travel_Rarely,2,No
+EMP-0502,Sales,Manager,27,Female,Bachelor,4,13600,3,1,0,1,1,0,3,3,2,2,Yes,Travel_Rarely,6,Yes
+EMP-0503,Sales,Sales Representative,44,Non-Binary,Below College,3,8557,11,9,3,3,9,2,4,4,4,3,Yes,Travel_Rarely,4,No
+EMP-0504,Research & Development,Software Engineer,21,Female,Bachelor,1,2996,0,0,0,0,0,3,4,3,1,3,Yes,Travel_Rarely,2,Yes
+EMP-0505,Research & Development,Research Scientist,29,Female,College,1,2990,4,2,1,0,2,2,2,1,4,3,No,Travel_Rarely,2,No
+EMP-0506,Sales,Sales Executive,42,Female,Master,4,14767,8,4,3,2,0,2,3,3,4,3,No,Travel_Rarely,5,No
+EMP-0507,Research & Development,Software Engineer,39,Male,Bachelor,2,6886,10,5,2,4,5,2,1,1,3,1,No,Travel_Rarely,5,Yes
+EMP-0508,Sales,Manager,47,Female,Bachelor,4,16703,19,5,0,5,2,1,2,3,3,3,No,Travel_Rarely,1,No
+EMP-0509,Research & Development,Laboratory Technician,28,Male,Bachelor,1,3469,4,3,3,0,0,4,4,4,2,3,No,Travel_Rarely,2,No
+EMP-0510,Research & Development,Research Scientist,45,Female,College,2,6399,10,5,0,0,2,1,1,2,3,3,No,Travel_Rarely,3,No
+EMP-0511,Research & Development,Manufacturing Director,50,Female,College,5,16431,9,2,2,1,1,3,2,4,3,3,No,Travel_Rarely,5,No
+EMP-0512,Sales,Sales Executive,35,Male,Master,3,11078,10,1,1,1,0,3,4,1,2,4,No,Travel_Rarely,6,No
+EMP-0513,Research & Development,Manufacturing Director,30,Male,Master,4,15678,3,1,0,0,0,1,4,3,3,2,Yes,Travel_Rarely,5,No
+EMP-0514,Research & Development,Research Scientist,42,Male,College,1,3859,10,7,5,3,1,3,4,4,1,3,No,Travel_Frequently,7,No
+EMP-0515,Research & Development,Laboratory Technician,43,Male,Master,1,3306,8,6,0,0,4,2,4,3,2,4,No,Non-Travel,4,No
+EMP-0516,Research & Development,Research Director,23,Male,Bachelor,4,15421,2,1,1,1,0,4,2,4,3,3,Yes,Travel_Rarely,4,No
+EMP-0517,Research & Development,Research Scientist,42,Female,Below College,1,3492,6,4,0,2,0,3,3,4,3,2,No,Travel_Rarely,7,No
+EMP-0518,Sales,Sales Representative,26,Female,Bachelor,1,3300,5,3,0,1,2,3,3,3,2,3,No,Travel_Rarely,1,No
+EMP-0519,Research & Development,Research Director,42,Female,College,5,19423,9,2,2,1,1,2,3,4,1,3,No,Travel_Frequently,6,Yes
+EMP-0520,Sales,Sales Executive,57,Male,College,3,10408,33,17,13,10,6,4,2,1,2,3,No,Non-Travel,7,No
+EMP-0521,Sales,Sales Executive,41,Male,Bachelor,3,9551,7,4,3,3,1,3,1,3,3,3,Yes,Travel_Frequently,3,Yes
+EMP-0522,Research & Development,Laboratory Technician,50,Male,College,2,6075,13,3,1,1,2,2,1,2,3,3,No,Travel_Rarely,8,No
+EMP-0523,Research & Development,Software Engineer,32,Female,Master,3,9347,7,3,1,0,0,1,4,4,2,3,Yes,Travel_Rarely,7,No
+EMP-0524,Research & Development,Research Scientist,56,Male,Bachelor,3,10045,12,3,0,2,0,1,1,3,3,2,No,Travel_Rarely,4,No
+EMP-0525,Research & Development,Software Engineer,52,Male,Master,2,6540,5,0,0,0,0,2,3,3,4,3,No,Travel_Rarely,2,No
+EMP-0526,Research & Development,Laboratory Technician,56,Male,Bachelor,4,14731,33,18,17,13,3,2,4,4,3,3,No,Non-Travel,2,No
+EMP-0527,Human Resources,Human Resources,49,Female,Master,3,9376,9,5,2,0,5,5,4,1,3,3,No,Travel_Rarely,2,No
+EMP-0528,Human Resources,Human Resources,45,Male,Bachelor,3,10720,15,5,4,5,0,6,3,4,3,3,Yes,Travel_Rarely,6,Yes
+EMP-0529,Sales,Sales Representative,41,Female,Bachelor,3,10955,16,3,0,1,1,2,2,1,4,3,No,Travel_Rarely,4,No
+EMP-0530,Research & Development,Software Engineer,57,Female,Bachelor,2,8822,30,7,2,7,3,5,4,2,4,4,No,Travel_Rarely,7,Yes
+EMP-0531,Sales,Sales Representative,53,Female,Master,3,8354,11,5,2,2,5,3,3,3,1,3,No,Travel_Frequently,5,No
+EMP-0532,Sales,Sales Executive,36,Male,College,3,10477,6,3,1,2,2,3,3,2,2,3,Yes,Travel_Rarely,4,Yes
+EMP-0533,Research & Development,Research Director,23,Male,Bachelor,5,18206,1,0,0,0,0,5,4,3,2,3,Yes,Travel_Rarely,7,No
+EMP-0534,Research & Development,Laboratory Technician,20,Male,Master,1,3086,0,0,0,0,0,3,2,4,3,2,No,Travel_Rarely,5,No
+EMP-0535,Research & Development,Research Scientist,29,Male,Bachelor,1,3444,8,2,2,2,0,3,3,4,1,3,No,Travel_Frequently,5,No
+EMP-0536,Research & Development,Manufacturing Director,22,Female,Master,5,23026,1,0,0,0,0,2,1,2,4,2,No,Travel_Rarely,3,Yes
+EMP-0537,Research & Development,Software Engineer,28,Male,Bachelor,1,3339,2,1,1,1,1,2,1,2,1,3,No,Travel_Rarely,6,Yes
+EMP-0538,Research & Development,Research Scientist,24,Male,College,3,8181,3,0,0,0,0,4,3,1,3,2,No,Non-Travel,5,Yes
+EMP-0539,Research & Development,Research Scientist,59,Male,Bachelor,3,10659,11,8,5,8,2,2,3,3,2,3,No,Travel_Rarely,4,No
+EMP-0540,Sales,Sales Representative,23,Female,Bachelor,1,3396,2,0,0,0,0,0,2,1,3,3,No,Travel_Rarely,5,No
+EMP-0541,Human Resources,Human Resources,45,Male,Below College,3,9437,12,4,4,0,0,2,3,2,3,3,No,Travel_Rarely,4,No
+EMP-0542,Research & Development,Research Scientist,34,Female,Below College,1,3747,9,1,0,0,1,3,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0543,Sales,Sales Executive,26,Male,College,3,7377,4,1,0,0,1,2,4,4,3,2,Yes,Travel_Rarely,5,No
+EMP-0544,Human Resources,Human Resources,48,Non-Binary,Master,3,8237,13,0,0,0,0,5,1,4,3,3,No,Travel_Rarely,3,No
+EMP-0545,Research & Development,Software Engineer,58,Female,Master,3,11931,29,7,7,5,6,2,4,1,3,3,No,Travel_Rarely,3,No
+EMP-0546,Research & Development,Software Engineer,51,Male,Bachelor,4,13839,14,3,0,0,3,4,1,3,4,4,Yes,Non-Travel,3,Yes
+EMP-0547,Research & Development,Research Scientist,59,Male,Below College,2,8299,23,3,0,2,0,3,3,2,3,4,Yes,Travel_Frequently,2,No
+EMP-0548,Research & Development,Research Scientist,43,Male,Bachelor,1,3706,10,5,1,2,3,3,3,3,3,4,Yes,Travel_Rarely,5,No
+EMP-0549,Sales,Sales Representative,46,Male,Master,3,10465,13,6,3,0,6,2,3,3,3,2,No,Travel_Rarely,1,No
+EMP-0550,Research & Development,Software Engineer,25,Male,Master,2,5935,4,2,1,2,1,2,2,4,4,3,No,Travel_Rarely,5,No
+EMP-0551,Research & Development,Laboratory Technician,54,Female,College,1,3479,4,0,0,0,0,4,3,3,3,3,No,Travel_Frequently,5,No
+EMP-0552,Research & Development,Research Scientist,49,Female,College,3,8298,7,4,0,2,0,3,1,2,4,3,No,Travel_Frequently,3,Yes
+EMP-0553,Research & Development,Research Scientist,30,Male,Master,1,2885,1,0,0,0,0,2,2,3,4,3,No,Travel_Rarely,4,No
+EMP-0554,Sales,Sales Executive,34,Female,Master,3,7391,6,4,1,1,3,4,3,4,2,3,No,Non-Travel,7,No
+EMP-0555,Research & Development,Software Engineer,44,Male,Below College,3,10142,13,6,5,0,5,4,2,1,1,3,No,Travel_Frequently,6,No
+EMP-0556,Research & Development,Software Engineer,20,Non-Binary,Master,1,2883,0,0,0,0,0,1,3,4,3,3,Yes,Travel_Rarely,4,No
+EMP-0557,Research & Development,Laboratory Technician,52,Male,Below College,4,16542,19,4,1,1,3,3,3,2,3,4,No,Travel_Rarely,1,No
+EMP-0558,Research & Development,Software Engineer,31,Female,Below College,3,8831,9,6,6,0,0,3,3,2,3,3,Yes,Travel_Rarely,2,No
+EMP-0559,Research & Development,Software Engineer,22,Female,Master,1,3214,0,0,0,0,0,4,4,4,4,3,No,Travel_Rarely,5,No
+EMP-0560,Research & Development,Software Engineer,33,Male,Bachelor,2,5446,4,2,2,0,0,1,4,1,3,3,No,Travel_Rarely,3,Yes
+EMP-0561,Research & Development,Research Scientist,53,Male,Bachelor,4,14237,13,10,0,5,8,2,4,4,3,2,No,Travel_Rarely,2,No
+EMP-0562,Research & Development,Software Engineer,30,Male,Master,2,6423,4,0,0,0,0,2,1,1,3,4,Yes,Travel_Rarely,3,Yes
+EMP-0563,Sales,Sales Executive,41,Female,Master,3,10770,10,3,2,0,2,2,3,3,1,4,No,Travel_Rarely,3,No
+EMP-0564,Research & Development,Software Engineer,52,Male,Below College,3,10866,22,13,13,9,2,1,4,3,3,3,No,Travel_Rarely,3,No
+EMP-0565,Research & Development,Research Scientist,21,Female,Bachelor,1,2617,0,0,0,0,0,3,2,4,4,2,No,Travel_Rarely,6,No
+EMP-0566,Sales,Sales Representative,50,Female,Master,3,9876,14,5,3,4,0,3,2,4,1,2,Yes,Travel_Rarely,4,No
+EMP-0567,Sales,Manager,31,Female,Bachelor,5,16870,6,3,0,0,2,2,2,3,4,3,No,Travel_Frequently,5,No
+EMP-0568,Research & Development,Research Scientist,47,Male,Doctor,3,9223,10,6,6,4,3,3,3,3,4,2,No,Travel_Rarely,4,No
+EMP-0569,Research & Development,Laboratory Technician,27,Male,Bachelor,1,3305,1,0,0,0,0,1,3,2,2,2,No,Travel_Rarely,5,No
+EMP-0570,Research & Development,Laboratory Technician,25,Female,Below College,1,3450,3,2,1,0,0,2,3,3,4,3,No,Travel_Rarely,4,No
+EMP-0571,Research & Development,Research Scientist,51,Male,College,3,12214,20,7,3,5,1,3,3,3,3,1,No,Travel_Rarely,2,No
+EMP-0572,Sales,Sales Representative,52,Female,Master,3,9841,19,8,8,2,4,4,3,1,3,3,Yes,Non-Travel,7,No
+EMP-0573,Research & Development,Laboratory Technician,59,Male,Doctor,2,6402,16,12,9,6,9,2,2,4,2,3,No,Travel_Rarely,4,No
+EMP-0574,Sales,Manager,47,Male,Below College,4,15220,8,4,3,2,1,4,4,2,2,2,Yes,Travel_Rarely,6,Yes
+EMP-0575,Sales,Manager,38,Female,Below College,4,14499,6,4,1,2,3,4,3,1,3,3,Yes,Travel_Rarely,1,No
+EMP-0576,Research & Development,Research Scientist,27,Male,Master,3,8363,3,1,1,1,0,3,1,4,2,2,No,Travel_Rarely,4,No
+EMP-0577,Sales,Sales Executive,31,Male,Below College,2,6561,5,1,1,0,1,6,2,3,2,2,No,Travel_Rarely,2,No
+EMP-0578,Research & Development,Software Engineer,45,Male,Below College,2,6720,13,6,4,1,4,2,2,4,4,3,No,Non-Travel,5,No
+EMP-0579,Sales,Sales Executive,33,Male,Master,3,8902,3,1,1,0,1,1,4,2,3,3,No,Travel_Rarely,2,No
+EMP-0580,Research & Development,Software Engineer,39,Female,Master,3,9279,7,5,5,5,3,4,2,3,3,3,Yes,Travel_Rarely,2,No
+EMP-0581,Research & Development,Research Director,26,Male,Master,4,12735,5,2,1,2,1,3,1,3,4,3,Yes,Travel_Frequently,5,No
+EMP-0582,Research & Development,Research Scientist,37,Male,Bachelor,3,8338,13,5,2,5,0,2,1,2,1,3,No,Travel_Rarely,3,No
+EMP-0583,Research & Development,Software Engineer,29,Male,Bachelor,1,3337,3,0,0,0,0,1,1,3,2,3,Yes,Travel_Rarely,2,Yes
+EMP-0584,Research & Development,Manufacturing Director,24,Female,Master,5,18522,1,0,0,0,0,1,3,2,3,3,No,Travel_Frequently,7,No
+EMP-0585,Sales,Sales Executive,25,Male,College,3,8943,2,1,1,1,1,1,4,2,3,3,No,Travel_Frequently,2,No
+EMP-0586,Research & Development,Software Engineer,40,Female,College,2,7294,12,2,0,1,0,2,3,1,2,3,No,Travel_Frequently,4,No
+EMP-0587,Research & Development,Research Director,34,Female,Master,4,14604,4,3,1,3,3,5,4,2,3,2,No,Travel_Rarely,5,Yes
+EMP-0588,Research & Development,Software Engineer,23,Male,Bachelor,1,2934,1,0,0,0,0,2,1,2,1,3,No,Travel_Rarely,5,Yes
+EMP-0589,Research & Development,Research Scientist,40,Female,Master,1,3065,2,1,1,0,1,4,3,4,3,3,No,Travel_Rarely,8,Yes
+EMP-0590,Research & Development,Research Scientist,26,Female,College,1,2839,1,0,0,0,0,0,4,3,3,2,No,Travel_Rarely,4,Yes
+EMP-0591,Sales,Manager,20,Male,Doctor,4,13800,0,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,6,No
+EMP-0592,Research & Development,Research Scientist,25,Male,Bachelor,1,3547,4,2,1,0,2,4,4,3,2,3,Yes,Travel_Rarely,3,No
+EMP-0593,Research & Development,Software Engineer,37,Female,Bachelor,3,9940,6,4,1,0,0,2,2,2,1,2,No,Non-Travel,4,No
+EMP-0594,Research & Development,Research Scientist,58,Female,Master,3,9466,15,7,7,0,2,2,3,3,4,4,Yes,Travel_Rarely,2,Yes
+EMP-0595,Research & Development,Software Engineer,29,Female,Bachelor,2,5371,6,2,2,2,0,4,3,4,4,3,No,Travel_Rarely,5,No
+EMP-0596,Research & Development,Research Director,31,Non-Binary,Bachelor,4,14246,4,0,0,0,0,2,2,4,3,3,No,Travel_Rarely,3,No
+EMP-0597,Sales,Sales Executive,29,Male,Bachelor,2,5440,6,4,0,3,3,1,4,3,1,4,No,Travel_Rarely,1,No
+EMP-0598,Research & Development,Research Director,34,Female,Master,5,18730,9,5,5,3,2,5,2,2,3,4,Yes,Travel_Rarely,7,No
+EMP-0599,Human Resources,Human Resources,48,Female,Master,3,8908,14,2,0,0,1,2,1,1,2,3,Yes,Travel_Rarely,5,Yes
+EMP-0600,Research & Development,Software Engineer,32,Male,Bachelor,1,4034,2,1,1,0,0,3,4,4,2,3,No,Non-Travel,4,No
+EMP-0601,Research & Development,Manufacturing Director,46,Male,Below College,4,16145,4,3,2,0,0,2,3,3,2,3,Yes,Travel_Rarely,4,Yes
+EMP-0602,Sales,Sales Executive,55,Male,College,3,11324,22,14,0,4,2,2,4,3,2,3,No,Travel_Rarely,4,No
+EMP-0603,Sales,Sales Executive,57,Female,Doctor,3,12920,20,3,2,0,3,2,4,4,2,4,No,Travel_Rarely,6,No
+EMP-0604,Sales,Sales Representative,42,Male,Doctor,1,4091,10,3,3,1,2,3,2,2,2,3,No,Travel_Rarely,3,No
+EMP-0605,Human Resources,Human Resources,48,Female,Doctor,3,9232,12,3,2,0,2,2,3,4,4,3,No,Travel_Frequently,4,No
+EMP-0606,Sales,Sales Executive,56,Male,Below College,3,12837,28,10,1,5,6,4,4,3,3,2,No,Travel_Rarely,6,No
+EMP-0607,Sales,Manager,51,Male,Bachelor,4,14247,16,7,7,3,1,3,2,2,3,3,Yes,Travel_Rarely,6,Yes
+EMP-0608,Research & Development,Research Scientist,31,Female,Master,1,2635,1,0,0,0,0,3,3,1,2,2,No,Travel_Rarely,2,Yes
+EMP-0609,Sales,Sales Executive,25,Male,Master,3,8746,4,1,1,1,0,2,4,3,4,3,No,Travel_Rarely,4,No
+EMP-0610,Research & Development,Research Scientist,24,Female,Below College,3,9281,3,1,1,0,0,3,1,2,1,2,No,Non-Travel,3,Yes
+EMP-0611,Research & Development,Software Engineer,55,Male,Bachelor,3,10806,21,17,12,4,13,3,4,3,2,3,No,Travel_Rarely,2,No
+EMP-0612,Sales,Sales Executive,42,Female,College,2,6004,11,7,2,5,4,2,3,3,3,4,No,Travel_Rarely,3,Yes
+EMP-0613,Human Resources,Human Resources,31,Male,Bachelor,2,5206,4,3,3,0,3,4,4,3,3,3,Yes,Non-Travel,5,No
+EMP-0614,Human Resources,Human Resources,33,Non-Binary,College,3,8470,8,2,2,0,1,3,3,3,4,3,No,Travel_Rarely,2,No
+EMP-0615,Research & Development,Laboratory Technician,31,Female,Below College,1,3513,4,3,0,3,1,5,3,3,3,2,No,Travel_Rarely,3,Yes
+EMP-0616,Sales,Sales Executive,52,Male,Below College,3,9079,3,2,2,1,1,5,4,3,3,3,No,Non-Travel,1,No
+EMP-0617,Sales,Sales Executive,44,Male,Master,4,15199,7,5,3,0,5,0,1,4,2,3,Yes,Travel_Rarely,3,No
+EMP-0618,Research & Development,Software Engineer,55,Male,Master,4,17125,24,5,4,1,5,2,3,1,3,1,No,Non-Travel,3,No
+EMP-0619,Research & Development,Laboratory Technician,32,Female,Master,1,3745,6,1,0,1,0,3,4,4,3,3,No,Travel_Rarely,4,No
+EMP-0620,Research & Development,Software Engineer,38,Female,Bachelor,3,9872,8,4,3,1,0,3,4,1,2,4,Yes,Travel_Rarely,7,No
+EMP-0621,Sales,Sales Executive,24,Male,Bachelor,4,11297,1,0,0,0,0,4,4,2,1,2,Yes,Travel_Rarely,7,No
+EMP-0622,Research & Development,Manufacturing Director,58,Male,Bachelor,5,20671,6,2,0,1,0,2,3,3,4,4,No,Travel_Rarely,5,No
+EMP-0623,Human Resources,Human Resources,40,Female,Bachelor,2,6232,10,4,0,4,2,3,3,1,1,2,No,Travel_Rarely,1,No
+EMP-0624,Research & Development,Research Scientist,42,Male,Bachelor,1,3314,6,1,1,0,0,5,3,2,2,2,No,Travel_Rarely,4,No
+EMP-0625,Human Resources,Manager,36,Female,Master,5,16863,4,3,3,2,3,6,3,2,4,2,No,Travel_Rarely,3,No
+EMP-0626,Research & Development,Software Engineer,30,Male,Master,1,3265,9,4,0,4,2,0,3,4,3,4,No,Travel_Rarely,9,No
+EMP-0627,Sales,Sales Executive,57,Female,Master,2,7435,9,1,1,1,1,5,1,3,3,3,No,Travel_Rarely,7,No
+EMP-0628,Research & Development,Software Engineer,39,Non-Binary,College,4,18497,17,6,0,2,2,2,1,1,3,3,No,Travel_Rarely,2,No
+EMP-0629,Research & Development,Research Scientist,46,Male,Bachelor,1,3749,8,4,3,3,4,3,3,3,1,3,No,Travel_Rarely,3,No
+EMP-0630,Sales,Sales Executive,21,Male,College,2,4540,0,0,0,0,0,2,2,2,4,4,No,Travel_Rarely,6,Yes
+EMP-0631,Sales,Sales Representative,31,Male,Below College,1,3606,8,0,0,0,0,3,2,4,2,3,No,Travel_Rarely,6,Yes
+EMP-0632,Sales,Sales Executive,52,Female,Bachelor,3,9713,15,7,2,4,3,0,2,1,4,3,No,Travel_Rarely,6,No
+EMP-0633,Research & Development,Laboratory Technician,23,Male,Bachelor,1,2962,2,1,0,0,1,2,4,3,2,3,No,Travel_Frequently,3,No
+EMP-0634,Research & Development,Research Director,24,Female,Master,4,14237,3,1,0,1,1,2,4,3,3,3,Yes,Travel_Rarely,4,No
+EMP-0635,Research & Development,Laboratory Technician,52,Female,Below College,3,10121,15,5,5,5,4,4,3,3,3,3,No,Travel_Frequently,8,No
+EMP-0636,Research & Development,Laboratory Technician,32,Male,Doctor,1,3535,5,4,2,0,0,3,4,4,2,2,Yes,Travel_Rarely,12,No
+EMP-0637,Sales,Sales Representative,30,Female,Doctor,1,3307,6,3,2,3,1,3,4,2,3,4,No,Travel_Rarely,6,No
+EMP-0638,Sales,Manager,42,Male,Bachelor,5,19029,13,2,2,1,1,3,2,4,3,3,Yes,Travel_Rarely,7,No
+EMP-0639,Sales,Sales Executive,27,Female,Master,3,8795,6,1,1,0,0,2,1,3,2,4,No,Travel_Rarely,4,No
+EMP-0640,Sales,Sales Executive,21,Male,College,2,5112,0,0,0,0,0,0,2,3,4,3,Yes,Travel_Rarely,5,No
+EMP-0641,Sales,Sales Executive,20,Female,Master,3,5825,0,0,0,0,0,1,1,2,2,2,Yes,Travel_Frequently,3,Yes
+EMP-0642,Sales,Sales Executive,23,Female,Master,2,5278,2,1,0,0,1,2,3,2,3,3,No,Travel_Rarely,2,No
+EMP-0643,Research & Development,Research Scientist,26,Female,Master,1,3253,2,0,0,0,0,5,2,1,3,3,No,Travel_Frequently,3,Yes
+EMP-0644,Research & Development,Laboratory Technician,47,Female,Master,1,3078,3,1,0,0,1,2,4,1,3,3,Yes,Travel_Rarely,6,No
+EMP-0645,Research & Development,Research Scientist,31,Male,Bachelor,2,5570,5,1,0,0,0,3,3,4,3,3,No,Non-Travel,3,No
+EMP-0646,Sales,Manager,22,Female,Master,5,20291,1,0,0,0,0,4,2,4,3,3,No,Travel_Rarely,2,No
+EMP-0647,Research & Development,Research Scientist,20,Female,Bachelor,1,2294,0,0,0,0,0,4,4,2,3,3,No,Travel_Rarely,3,No
+EMP-0648,Research & Development,Research Scientist,39,Female,College,1,3898,9,6,0,5,2,2,4,3,3,3,No,Non-Travel,5,No
+EMP-0649,Sales,Sales Executive,53,Male,Below College,2,5425,4,3,1,0,0,5,4,4,3,3,No,Travel_Rarely,5,No
+EMP-0650,Research & Development,Research Scientist,33,Male,Master,2,5334,10,6,0,6,6,3,4,2,3,4,No,Travel_Rarely,1,No
+EMP-0651,Research & Development,Research Scientist,22,Female,Bachelor,1,3200,1,0,0,0,0,3,4,3,1,3,Yes,Travel_Rarely,5,Yes
+EMP-0652,Sales,Sales Executive,29,Male,Bachelor,2,6614,6,3,2,2,1,3,3,4,2,4,No,Travel_Rarely,5,No
+EMP-0653,Sales,Sales Executive,39,Female,Master,2,6934,11,7,6,3,0,2,4,2,3,1,No,Travel_Rarely,3,No
+EMP-0654,Research & Development,Research Scientist,27,Female,Bachelor,1,3596,6,5,2,3,4,4,1,3,4,3,Yes,Travel_Rarely,3,Yes
+EMP-0655,Sales,Sales Executive,59,Female,Bachelor,3,9635,9,4,1,4,4,3,3,2,1,3,Yes,Travel_Rarely,2,No
+EMP-0656,Research & Development,Software Engineer,50,Male,Bachelor,1,3564,3,1,0,1,1,3,3,1,3,3,No,Travel_Rarely,5,No
+EMP-0657,Sales,Sales Executive,33,Female,Bachelor,3,8862,3,2,1,0,1,4,1,3,2,1,No,Travel_Rarely,3,No
+EMP-0658,Research & Development,Software Engineer,58,Male,Master,1,3817,7,4,1,0,2,3,1,3,3,3,No,Travel_Frequently,2,No
+EMP-0659,Research & Development,Research Scientist,33,Male,Bachelor,1,2678,0,0,0,0,0,0,1,4,3,3,No,Travel_Frequently,3,No
+EMP-0660,Research & Development,Research Scientist,25,Female,Bachelor,1,3209,2,1,1,1,0,2,2,2,3,2,No,Travel_Rarely,5,Yes
+EMP-0661,Research & Development,Research Scientist,57,Male,Master,4,13432,18,4,3,1,1,4,1,4,3,2,No,Non-Travel,5,No
+EMP-0662,Sales,Sales Representative,58,Male,Bachelor,1,4007,8,3,1,3,0,3,3,4,3,3,No,Travel_Rarely,4,No
+EMP-0663,Research & Development,Research Director,32,Male,Master,4,13553,5,4,1,3,2,4,4,3,1,2,No,Travel_Frequently,6,No
+EMP-0664,Research & Development,Research Director,43,Male,Below College,5,18660,11,5,4,0,0,2,3,4,3,3,No,Travel_Rarely,6,No
+EMP-0665,Research & Development,Software Engineer,26,Female,Master,3,10221,5,4,4,3,2,3,3,4,2,4,No,Travel_Frequently,2,No
+EMP-0666,Sales,Sales Executive,45,Male,Bachelor,3,10631,7,4,3,4,2,4,1,4,4,3,Yes,Travel_Frequently,2,No
+EMP-0667,Sales,Sales Executive,47,Male,Below College,2,6535,12,7,4,2,6,3,4,4,3,3,Yes,Travel_Rarely,5,No
+EMP-0668,Human Resources,Manager,48,Female,Bachelor,4,13134,20,5,5,5,1,2,1,3,2,3,No,Travel_Rarely,3,No
+EMP-0669,Research & Development,Laboratory Technician,42,Male,Bachelor,1,4074,9,2,2,2,1,0,2,3,2,2,No,Non-Travel,7,No
+EMP-0670,Research & Development,Manufacturing Director,48,Female,Bachelor,5,20943,13,1,0,0,0,4,3,4,3,3,No,Travel_Rarely,6,No
+EMP-0671,Research & Development,Manufacturing Director,42,Female,Master,5,21863,2,1,0,1,1,3,4,4,4,2,No,Travel_Rarely,1,No
+EMP-0672,Research & Development,Software Engineer,52,Female,College,1,3879,8,6,0,0,2,2,4,1,2,2,No,Non-Travel,4,No
+EMP-0673,Human Resources,Manager,27,Female,College,5,16477,6,4,3,4,4,3,4,2,3,2,No,Travel_Rarely,4,No
+EMP-0674,Sales,Sales Representative,39,Male,Bachelor,1,3043,7,1,0,1,1,2,4,2,3,3,No,Travel_Rarely,2,No
+EMP-0675,Research & Development,Software Engineer,36,Female,Bachelor,3,7609,10,5,5,0,3,2,3,4,3,2,Yes,Non-Travel,5,Yes
+EMP-0676,Research & Development,Research Director,41,Male,Bachelor,4,16933,12,5,5,1,4,2,3,2,3,2,No,Travel_Rarely,7,No
+EMP-0677,Sales,Sales Executive,25,Male,Master,4,13807,2,1,1,0,1,2,1,2,2,4,No,Travel_Frequently,3,Yes
+EMP-0678,Research & Development,Research Director,32,Female,Master,5,17520,1,0,0,0,0,4,2,3,3,2,No,Travel_Rarely,4,No
+EMP-0679,Research & Development,Laboratory Technician,58,Male,College,4,13354,15,8,1,6,0,2,4,1,1,3,No,Non-Travel,4,No
+EMP-0680,Research & Development,Research Scientist,24,Female,Bachelor,2,4539,3,0,0,0,0,4,4,4,4,3,No,Travel_Rarely,2,No
+EMP-0681,Research & Development,Laboratory Technician,45,Female,College,1,3910,5,1,0,0,1,2,2,3,2,3,Yes,Travel_Frequently,3,No
+EMP-0682,Research & Development,Research Scientist,46,Female,Bachelor,4,13759,13,6,0,5,6,1,2,2,3,1,No,Travel_Rarely,4,No
+EMP-0683,Research & Development,Laboratory Technician,38,Male,College,1,2604,7,3,1,1,1,2,2,2,3,1,Yes,Non-Travel,2,No
+EMP-0684,Research & Development,Laboratory Technician,21,Male,Bachelor,1,3170,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,2,No
+EMP-0685,Research & Development,Laboratory Technician,21,Female,Master,1,2390,0,0,0,0,0,3,2,3,2,3,No,Travel_Rarely,2,No
+EMP-0686,Research & Development,Manufacturing Director,31,Male,Bachelor,5,21489,4,2,1,1,1,4,3,3,3,2,No,Travel_Rarely,4,No
+EMP-0687,Research & Development,Research Scientist,24,Male,College,1,3095,1,0,0,0,0,3,1,2,1,3,No,Travel_Rarely,3,Yes
+EMP-0688,Human Resources,Human Resources,23,Female,Bachelor,1,2534,1,0,0,0,0,3,1,4,3,3,No,Travel_Rarely,4,Yes
+EMP-0689,Sales,Sales Executive,26,Non-Binary,Bachelor,2,5609,2,1,0,1,0,4,2,4,4,2,No,Travel_Rarely,2,Yes
+EMP-0690,Research & Development,Research Scientist,27,Female,Bachelor,2,6043,6,1,1,1,1,3,4,4,3,3,No,Travel_Frequently,2,No
+EMP-0691,Research & Development,Software Engineer,53,Male,Below College,4,12765,18,3,3,1,3,3,2,3,3,3,No,Travel_Rarely,5,Yes
+EMP-0692,Sales,Sales Executive,45,Male,Master,4,15042,5,4,1,0,0,3,3,4,3,3,No,Travel_Rarely,5,No
+EMP-0693,Research & Development,Software Engineer,21,Female,Bachelor,1,2796,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,9,No
+EMP-0694,Research & Development,Software Engineer,45,Male,Bachelor,4,12800,14,2,1,2,1,1,4,3,4,3,No,Travel_Rarely,2,No
+EMP-0695,Sales,Sales Representative,25,Male,College,1,2607,3,2,2,2,0,3,2,4,3,4,No,Travel_Rarely,3,No
+EMP-0696,Research & Development,Research Scientist,36,Male,Bachelor,2,6674,10,4,3,2,3,3,4,4,4,3,No,Non-Travel,4,No
+EMP-0697,Sales,Manager,21,Male,Bachelor,4,13057,0,0,0,0,0,2,2,4,4,3,No,Travel_Rarely,5,Yes
+EMP-0698,Research & Development,Software Engineer,23,Male,College,1,2756,2,1,1,1,1,5,3,4,3,3,No,Travel_Rarely,5,No
+EMP-0699,Sales,Sales Executive,25,Male,Bachelor,3,11626,0,0,0,0,0,1,3,3,3,3,No,Travel_Frequently,4,No
+EMP-0700,Research & Development,Software Engineer,37,Female,Bachelor,2,7527,15,10,1,5,10,3,4,3,3,1,No,Travel_Frequently,3,No
+EMP-0701,Research & Development,Software Engineer,38,Male,Master,2,6473,14,5,4,1,5,5,4,2,3,4,Yes,Travel_Rarely,3,No
+EMP-0702,Research & Development,Research Scientist,34,Female,Master,1,3181,8,6,3,2,2,2,4,3,2,4,No,Travel_Rarely,1,No
+EMP-0703,Research & Development,Software Engineer,44,Male,College,3,9628,11,3,3,0,2,4,4,2,2,3,No,Travel_Frequently,4,No
+EMP-0704,Sales,Sales Executive,48,Female,Below College,4,15252,7,2,0,2,0,4,1,2,2,3,No,Travel_Rarely,5,Yes
+EMP-0705,Research & Development,Software Engineer,49,Male,Master,3,9997,19,3,2,0,1,3,3,4,3,3,Yes,Non-Travel,4,Yes
+EMP-0706,Research & Development,Software Engineer,43,Male,Doctor,1,3614,5,3,0,3,1,5,2,2,3,4,No,Travel_Rarely,6,No
+EMP-0707,Sales,Sales Executive,41,Male,Master,3,7872,5,2,1,1,2,3,2,4,2,3,No,Travel_Rarely,6,No
+EMP-0708,Sales,Sales Representative,39,Male,Below College,4,12155,13,6,0,1,5,3,3,2,3,1,No,Travel_Rarely,2,No
+EMP-0709,Research & Development,Research Scientist,29,Male,College,1,4091,5,3,1,1,1,3,4,1,3,3,No,Travel_Rarely,6,No
+EMP-0710,Research & Development,Research Director,39,Female,Below College,5,19670,1,0,0,0,0,2,4,1,4,2,Yes,Travel_Rarely,8,No
+EMP-0711,Human Resources,Manager,20,Female,Master,4,12572,0,0,0,0,0,2,4,3,2,3,No,Travel_Rarely,3,No
+EMP-0712,Sales,Manager,58,Male,Bachelor,4,13087,5,2,0,0,0,1,3,3,2,3,Yes,Travel_Rarely,6,No
+EMP-0713,Sales,Sales Representative,34,Male,Bachelor,1,3579,1,0,0,0,0,2,4,2,3,3,Yes,Travel_Rarely,4,No
+EMP-0714,Sales,Sales Executive,50,Female,Bachelor,3,8349,10,7,1,6,0,4,4,3,3,2,Yes,Travel_Rarely,2,Yes
+EMP-0715,Sales,Sales Executive,58,Female,College,3,8942,16,4,1,3,2,5,4,3,2,3,No,Travel_Rarely,4,No
+EMP-0716,Research & Development,Research Scientist,39,Male,Bachelor,1,2505,1,0,0,0,0,5,2,1,2,3,No,Non-Travel,5,Yes
+EMP-0717,Research & Development,Laboratory Technician,54,Female,Below College,1,3603,6,3,2,0,3,2,3,2,3,3,No,Travel_Rarely,3,No
+EMP-0718,Research & Development,Software Engineer,39,Male,Bachelor,3,8343,3,1,1,1,0,3,4,1,3,2,No,Travel_Rarely,0,No
+EMP-0719,Sales,Sales Executive,25,Female,Master,3,9320,2,1,0,0,0,3,4,1,2,3,Yes,Travel_Rarely,2,No
+EMP-0720,Human Resources,Manager,21,Male,Bachelor,5,17713,0,0,0,0,0,2,1,2,3,4,Yes,Travel_Rarely,2,Yes
+EMP-0721,Research & Development,Research Scientist,25,Male,Bachelor,3,8594,3,1,1,1,0,3,2,3,2,3,No,Travel_Rarely,1,No
+EMP-0722,Research & Development,Software Engineer,57,Male,Master,3,12062,23,16,1,2,2,2,2,3,3,3,Yes,Travel_Rarely,3,No
+EMP-0723,Research & Development,Laboratory Technician,39,Female,Bachelor,2,6242,14,3,0,0,2,5,2,4,3,3,Yes,Travel_Rarely,9,Yes
+EMP-0724,Human Resources,Human Resources,32,Male,College,2,6529,5,4,3,2,4,2,4,4,2,3,Yes,Travel_Rarely,0,Yes
+EMP-0725,Research & Development,Software Engineer,37,Female,College,1,3390,2,0,0,0,0,4,1,3,1,3,No,Travel_Rarely,2,No
+EMP-0726,Research & Development,Laboratory Technician,30,Female,Bachelor,1,3853,7,3,1,0,2,4,2,2,4,2,No,Travel_Rarely,3,No
+EMP-0727,Research & Development,Research Scientist,54,Female,College,1,3427,6,3,0,0,1,3,4,1,4,2,No,Travel_Frequently,5,No
+EMP-0728,Research & Development,Software Engineer,59,Male,Below College,2,5760,6,4,4,3,0,2,3,3,1,1,Yes,Travel_Rarely,2,Yes
+EMP-0729,Research & Development,Research Scientist,23,Male,College,1,3343,1,0,0,0,0,2,1,2,3,3,No,Travel_Rarely,5,No
+EMP-0730,Research & Development,Laboratory Technician,48,Male,College,2,6287,13,5,4,2,1,5,3,2,1,3,Yes,Travel_Rarely,3,No
+EMP-0731,Research & Development,Research Scientist,33,Female,Bachelor,1,2913,1,0,0,0,0,1,3,4,4,3,No,Travel_Rarely,6,Yes
+EMP-0732,Research & Development,Research Director,21,Female,Bachelor,5,21214,0,0,0,0,0,1,4,2,4,3,No,Travel_Rarely,4,No
+EMP-0733,Research & Development,Manufacturing Director,56,Male,College,4,17261,19,0,0,0,0,5,4,1,3,3,Yes,Travel_Frequently,6,No
+EMP-0734,Research & Development,Research Scientist,22,Female,Bachelor,1,3163,1,0,0,0,0,3,4,4,3,4,No,Travel_Rarely,3,No
+EMP-0735,Research & Development,Software Engineer,28,Male,College,1,3309,6,4,2,3,4,3,2,2,3,3,No,Travel_Rarely,1,No
+EMP-0736,Sales,Sales Executive,21,Male,College,3,8586,0,0,0,0,0,2,4,3,2,3,No,Travel_Rarely,0,No
+EMP-0737,Research & Development,Laboratory Technician,38,Male,College,1,3942,7,3,2,3,3,3,3,1,3,2,No,Travel_Frequently,7,No
+EMP-0738,Research & Development,Software Engineer,43,Female,Master,1,3350,9,4,4,1,1,4,4,3,2,3,No,Travel_Rarely,6,No
+EMP-0739,Research & Development,Research Scientist,32,Male,Doctor,1,3654,6,4,0,4,0,2,3,4,3,3,No,Travel_Rarely,3,No
+EMP-0740,Research & Development,Research Scientist,22,Male,Bachelor,1,2682,1,0,0,0,0,2,2,3,3,3,No,Non-Travel,3,Yes
+EMP-0741,Research & Development,Research Director,24,Female,Below College,5,19787,3,1,0,1,0,0,1,3,2,3,No,Travel_Rarely,9,Yes
+EMP-0742,Research & Development,Software Engineer,57,Male,College,4,14466,12,9,3,5,8,3,4,2,3,3,Yes,Non-Travel,2,No
+EMP-0743,Sales,Sales Representative,52,Male,College,1,3961,8,3,3,1,0,2,4,2,3,3,No,Travel_Rarely,4,No
+EMP-0744,Research & Development,Software Engineer,57,Male,Master,4,14438,22,4,2,3,3,4,2,3,3,3,No,Non-Travel,2,No
+EMP-0745,Research & Development,Research Director,41,Male,Below College,4,15276,8,2,0,0,0,2,3,2,3,3,No,Travel_Frequently,3,No
+EMP-0746,Research & Development,Research Scientist,41,Male,Doctor,3,8904,19,9,7,2,8,2,4,2,4,3,No,Travel_Rarely,2,No
+EMP-0747,Research & Development,Research Scientist,51,Male,Bachelor,2,6033,7,2,0,2,0,5,3,3,1,3,No,Travel_Frequently,6,Yes
+EMP-0748,Research & Development,Research Director,44,Female,Bachelor,4,13148,8,5,5,3,5,5,2,4,3,3,No,Travel_Rarely,0,No
+EMP-0749,Sales,Manager,37,Male,Master,5,20632,10,6,6,2,1,3,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0750,Sales,Sales Executive,31,Female,Below College,3,9616,8,4,2,1,4,5,3,4,2,3,No,Non-Travel,3,No
+EMP-0751,Research & Development,Software Engineer,39,Male,Master,2,4979,4,3,0,0,0,2,4,3,4,2,Yes,Travel_Rarely,4,Yes
+EMP-0752,Research & Development,Software Engineer,22,Male,Below College,1,3433,1,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,3,Yes
+EMP-0753,Research & Development,Software Engineer,27,Male,Master,2,6798,4,2,0,1,2,2,4,4,2,3,No,Non-Travel,4,No
+EMP-0754,Research & Development,Research Scientist,49,Male,Bachelor,2,5543,12,3,3,2,1,2,1,1,2,1,No,Travel_Frequently,4,No
+EMP-0755,Sales,Manager,54,Male,Below College,4,13644,8,3,0,0,3,3,4,3,4,3,No,Non-Travel,6,No
+EMP-0756,Research & Development,Research Scientist,24,Male,Master,1,3396,2,0,0,0,0,4,2,2,4,3,Yes,Travel_Rarely,2,No
+EMP-0757,Research & Development,Laboratory Technician,23,Female,Below College,1,2695,2,1,1,1,0,0,4,4,1,3,No,Travel_Rarely,5,No
+EMP-0758,Human Resources,Human Resources,23,Female,College,1,2399,2,1,0,1,0,2,4,4,3,3,No,Travel_Rarely,4,No
+EMP-0759,Research & Development,Research Scientist,51,Male,Master,3,8720,11,7,3,4,0,6,3,4,2,3,No,Travel_Rarely,6,No
+EMP-0760,Research & Development,Laboratory Technician,32,Female,Bachelor,1,3159,5,3,2,1,2,3,3,2,3,3,No,Travel_Frequently,5,No
+EMP-0761,Sales,Sales Executive,33,Female,Master,3,8965,7,4,3,2,1,2,1,4,3,3,No,Travel_Rarely,3,Yes
+EMP-0762,Research & Development,Laboratory Technician,20,Female,Bachelor,1,2530,0,0,0,0,0,2,3,1,2,3,No,Travel_Rarely,5,No
+EMP-0763,Research & Development,Research Scientist,58,Male,Bachelor,3,11476,19,2,1,2,0,2,3,2,3,4,Yes,Non-Travel,4,No
+EMP-0764,Research & Development,Research Director,37,Male,College,4,12725,9,8,5,2,7,2,1,3,4,3,No,Non-Travel,9,No
+EMP-0765,Sales,Sales Representative,51,Male,College,2,7314,17,10,0,8,6,2,1,4,3,3,Yes,Travel_Rarely,5,No
+EMP-0766,Research & Development,Manufacturing Director,48,Male,Doctor,5,18979,2,1,0,1,1,3,4,4,1,3,Yes,Travel_Rarely,4,No
+EMP-0767,Research & Development,Research Scientist,25,Male,Below College,1,3101,2,1,0,1,1,2,2,2,4,3,No,Travel_Rarely,3,No
+EMP-0768,Research & Development,Software Engineer,52,Female,Bachelor,2,6174,7,4,4,4,2,3,2,3,2,4,No,Travel_Rarely,2,Yes
+EMP-0769,Research & Development,Software Engineer,42,Female,College,3,10492,9,1,1,0,0,0,2,3,3,3,No,Non-Travel,7,No
+EMP-0770,Research & Development,Software Engineer,44,Male,College,2,6879,19,3,2,2,3,1,3,1,3,3,No,Travel_Frequently,3,No
+EMP-0771,Research & Development,Research Scientist,28,Male,Bachelor,1,3497,6,2,1,2,1,2,3,4,2,4,No,Travel_Rarely,3,No
+EMP-0772,Research & Development,Research Scientist,53,Male,Master,2,6631,13,4,3,4,4,4,4,2,2,4,No,Travel_Rarely,2,No
+EMP-0773,Research & Development,Software Engineer,57,Male,Master,3,10795,20,4,2,3,0,3,3,2,2,4,No,Non-Travel,4,No
+EMP-0774,Sales,Sales Executive,36,Female,Master,3,8355,9,4,2,0,3,1,1,3,1,2,No,Non-Travel,6,No
+EMP-0775,Research & Development,Software Engineer,23,Male,College,1,2796,0,0,0,0,0,3,3,4,3,1,No,Travel_Rarely,1,Yes
+EMP-0776,Sales,Sales Executive,53,Female,Bachelor,4,11314,9,4,3,3,1,3,1,4,4,3,No,Non-Travel,6,No
+EMP-0777,Research & Development,Research Scientist,55,Non-Binary,Below College,3,10706,26,19,18,8,1,3,4,2,2,3,No,Travel_Rarely,1,No
+EMP-0778,Research & Development,Laboratory Technician,40,Female,Master,4,17679,11,5,1,4,0,3,1,2,3,2,No,Travel_Rarely,6,No
+EMP-0779,Sales,Sales Executive,43,Female,College,3,7607,3,1,1,0,1,6,2,4,3,3,No,Travel_Rarely,5,No
+EMP-0780,Sales,Sales Executive,28,Male,Bachelor,2,5379,4,3,3,3,2,1,3,3,1,3,No,Non-Travel,1,No
+EMP-0781,Research & Development,Software Engineer,22,Male,College,1,3074,1,0,0,0,0,3,2,2,3,3,No,Travel_Rarely,3,No
+EMP-0782,Sales,Sales Representative,57,Male,Master,1,3022,2,1,1,0,1,3,3,2,2,3,No,Travel_Rarely,4,No
+EMP-0783,Research & Development,Software Engineer,39,Female,Master,1,2970,6,3,3,2,1,3,3,4,3,3,Yes,Travel_Rarely,4,No
+EMP-0784,Research & Development,Software Engineer,30,Male,Master,2,6326,8,6,1,2,6,2,4,4,3,3,Yes,Non-Travel,7,No
+EMP-0785,Human Resources,Manager,47,Female,Below College,4,15552,7,5,0,1,5,3,1,2,3,3,No,Non-Travel,6,No
+EMP-0786,Research & Development,Software Engineer,21,Male,Doctor,1,2732,0,0,0,0,0,1,3,1,4,3,Yes,Non-Travel,8,Yes
+EMP-0787,Sales,Manager,23,Male,College,4,9937,2,0,0,0,0,3,4,2,2,3,No,Travel_Rarely,2,No
+EMP-0788,Research & Development,Laboratory Technician,29,Male,College,1,3396,7,2,2,1,0,3,1,2,4,3,Yes,Non-Travel,2,Yes
+EMP-0789,Sales,Sales Executive,38,Female,College,3,10568,14,9,9,3,3,2,3,1,2,3,Yes,Travel_Rarely,1,No
+EMP-0790,Research & Development,Software Engineer,34,Male,College,2,6753,10,4,3,0,4,6,4,2,1,3,No,Travel_Rarely,10,No
+EMP-0791,Research & Development,Laboratory Technician,27,Male,Bachelor,1,3429,6,4,0,4,0,4,4,1,2,3,No,Travel_Rarely,7,No
+EMP-0792,Research & Development,Research Director,34,Male,College,4,13998,10,5,2,4,1,3,4,3,4,2,No,Travel_Rarely,3,No
+EMP-0793,Research & Development,Software Engineer,33,Female,Bachelor,2,6536,4,0,0,0,0,6,4,3,3,3,Yes,Travel_Rarely,3,No
+EMP-0794,Research & Development,Research Scientist,40,Non-Binary,Bachelor,2,7771,16,11,1,7,8,4,3,3,4,2,No,Travel_Rarely,7,No
+EMP-0795,Research & Development,Software Engineer,42,Male,Master,2,7219,16,6,5,6,6,2,4,4,3,3,Yes,Travel_Frequently,1,Yes
+EMP-0796,Research & Development,Research Scientist,55,Female,Bachelor,3,11232,18,2,1,2,1,3,2,2,3,3,Yes,Non-Travel,4,No
+EMP-0797,Research & Development,Laboratory Technician,52,Male,Bachelor,1,4196,10,6,1,5,0,3,3,4,4,3,Yes,Non-Travel,8,Yes
+EMP-0798,Research & Development,Software Engineer,31,Female,College,2,6813,10,4,2,4,0,3,4,4,4,1,No,Travel_Rarely,0,No
+EMP-0799,Sales,Sales Representative,56,Male,Master,3,10721,23,9,0,3,1,5,4,4,3,3,Yes,Travel_Rarely,3,No
+EMP-0800,Sales,Sales Representative,40,Male,Below College,1,3465,6,5,3,0,0,3,4,2,3,2,No,Travel_Rarely,5,No
+EMP-0801,Sales,Sales Representative,27,Female,College,1,3237,6,3,2,0,3,1,1,2,4,3,No,Travel_Frequently,4,Yes
+EMP-0802,Research & Development,Laboratory Technician,33,Male,Below College,1,3654,6,3,3,0,3,2,4,3,2,3,Yes,Travel_Rarely,7,No
+EMP-0803,Sales,Sales Representative,49,Male,Bachelor,3,8970,14,5,5,1,4,3,2,1,4,3,No,Travel_Rarely,5,Yes
+EMP-0804,Research & Development,Manufacturing Director,52,Female,Bachelor,4,16526,14,6,5,4,2,2,4,1,4,2,No,Non-Travel,2,No
+EMP-0805,Research & Development,Manufacturing Director,34,Non-Binary,Bachelor,4,13432,9,6,2,2,0,0,3,1,3,2,No,Travel_Rarely,4,No
+EMP-0806,Research & Development,Research Scientist,26,Male,Bachelor,2,5260,3,2,0,2,1,2,2,3,2,3,No,Travel_Rarely,3,No
+EMP-0807,Sales,Sales Executive,27,Female,Bachelor,2,5496,5,4,3,0,4,3,4,4,2,3,No,Travel_Rarely,4,No
+EMP-0808,Research & Development,Research Scientist,24,Female,Bachelor,2,4485,3,1,1,0,1,1,3,2,4,3,No,Travel_Rarely,4,No
+EMP-0809,Research & Development,Manufacturing Director,47,Male,Below College,5,22101,11,1,0,1,0,2,3,4,4,3,No,Travel_Rarely,6,Yes
+EMP-0810,Human Resources,Human Resources,40,Female,Bachelor,3,9128,4,2,2,2,2,2,4,4,3,2,No,Travel_Frequently,2,No
+EMP-0811,Research & Development,Software Engineer,38,Male,Bachelor,2,5909,6,2,0,2,0,2,3,1,4,3,No,Travel_Frequently,6,No
+EMP-0812,Research & Development,Research Scientist,46,Female,Bachelor,2,7524,8,5,0,2,5,2,3,3,3,3,No,Non-Travel,1,No
+EMP-0813,Human Resources,Human Resources,53,Male,Below College,3,8341,12,9,5,5,9,1,1,1,4,3,No,Travel_Rarely,8,No
+EMP-0814,Research & Development,Laboratory Technician,51,Male,Bachelor,1,3128,4,3,1,2,2,3,2,4,2,2,No,Travel_Rarely,5,No
+EMP-0815,Research & Development,Research Scientist,25,Male,College,1,3305,2,1,0,1,0,2,1,4,2,2,No,Travel_Rarely,6,No
+EMP-0816,Sales,Sales Executive,43,Male,Below College,3,11327,19,13,8,11,7,2,2,3,3,3,No,Travel_Frequently,12,No
+EMP-0817,Sales,Manager,55,Female,College,4,13595,22,13,8,13,7,3,2,3,2,3,No,Travel_Rarely,5,No
+EMP-0818,Research & Development,Laboratory Technician,50,Non-Binary,Bachelor,3,10397,19,5,3,0,1,1,3,2,3,3,No,Travel_Rarely,3,Yes
+EMP-0819,Research & Development,Research Scientist,33,Male,College,2,6483,10,2,1,1,2,0,3,4,3,3,Yes,Non-Travel,3,No
+EMP-0820,Research & Development,Research Scientist,35,Male,Bachelor,2,5088,8,4,1,3,0,2,2,4,1,3,No,Travel_Rarely,5,No
+EMP-0821,Research & Development,Research Director,55,Male,College,4,14222,21,4,4,3,2,2,3,4,3,3,No,Travel_Rarely,1,No
+EMP-0822,Research & Development,Laboratory Technician,21,Male,Master,1,2425,0,0,0,0,0,3,4,3,1,4,No,Travel_Rarely,5,No
+EMP-0823,Research & Development,Laboratory Technician,41,Male,College,4,17112,14,4,1,0,3,6,2,1,4,1,No,Travel_Rarely,3,No
+EMP-0824,Sales,Sales Executive,24,Female,Bachelor,3,8055,2,1,1,0,0,2,3,1,2,2,No,Travel_Rarely,2,No
+EMP-0825,Sales,Sales Executive,55,Female,Master,3,11772,22,14,6,14,10,3,1,1,3,3,Yes,Travel_Rarely,0,No
+EMP-0826,Research & Development,Research Scientist,21,Male,Bachelor,1,2220,0,0,0,0,0,4,3,3,3,2,No,Travel_Frequently,5,No
+EMP-0827,Research & Development,Laboratory Technician,20,Male,Below College,1,2367,0,0,0,0,0,3,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0828,Research & Development,Research Scientist,33,Female,Bachelor,2,5948,10,5,0,0,4,3,1,4,2,3,No,Travel_Rarely,6,No
+EMP-0829,Sales,Sales Executive,28,Male,Doctor,4,14537,5,3,0,1,3,3,2,2,1,3,Yes,Travel_Rarely,3,No
+EMP-0830,Research & Development,Laboratory Technician,39,Male,Doctor,1,3843,8,2,1,2,2,3,4,2,3,3,No,Travel_Rarely,2,No
+EMP-0831,Research & Development,Research Director,31,Male,College,5,22009,10,5,1,3,3,5,2,1,2,3,No,Travel_Rarely,2,Yes
+EMP-0832,Research & Development,Laboratory Technician,34,Male,Master,1,3737,7,4,4,0,1,0,4,4,2,3,No,Travel_Rarely,1,No
+EMP-0833,Research & Development,Software Engineer,42,Male,Bachelor,2,7120,10,6,4,0,0,4,3,4,3,3,No,Travel_Rarely,1,No
+EMP-0834,Sales,Sales Executive,42,Female,College,4,13463,7,1,1,0,0,3,2,3,2,3,Yes,Non-Travel,1,No
+EMP-0835,Sales,Sales Executive,57,Male,Bachelor,3,9736,17,10,10,1,9,3,4,3,2,3,No,Travel_Frequently,6,Yes
+EMP-0836,Research & Development,Software Engineer,39,Female,Bachelor,3,9400,11,9,5,2,4,2,3,3,3,4,No,Travel_Rarely,1,No
+EMP-0837,Sales,Sales Executive,42,Male,Bachelor,3,10659,13,4,2,3,4,2,1,2,3,3,Yes,Travel_Rarely,8,Yes
+EMP-0838,Human Resources,Human Resources,47,Female,Master,4,16352,17,10,10,5,1,1,4,2,3,2,Yes,Non-Travel,7,No
+EMP-0839,Research & Development,Software Engineer,26,Male,Bachelor,1,3264,2,1,0,0,0,5,3,2,3,3,No,Non-Travel,4,No
+EMP-0840,Research & Development,Manufacturing Director,46,Male,Bachelor,4,13335,6,4,2,2,2,3,4,2,3,3,Yes,Non-Travel,1,Yes
+EMP-0841,Research & Development,Research Director,54,Male,Bachelor,4,13103,24,4,4,4,3,4,2,3,3,4,No,Non-Travel,3,No
+EMP-0842,Sales,Sales Executive,32,Male,Below College,4,16646,8,3,2,0,2,2,1,2,3,3,No,Non-Travel,3,Yes
+EMP-0843,Research & Development,Software Engineer,27,Male,Bachelor,1,3073,1,0,0,0,0,2,4,4,2,3,No,Travel_Frequently,2,No
+EMP-0844,Research & Development,Research Scientist,33,Female,Doctor,3,8439,8,2,1,0,1,2,3,3,3,3,No,Travel_Rarely,2,No
+EMP-0845,Research & Development,Software Engineer,31,Male,Bachelor,1,4360,9,4,4,2,3,2,2,3,2,4,No,Travel_Rarely,5,No
+EMP-0846,Sales,Sales Executive,43,Male,Below College,2,7032,14,3,2,0,0,3,4,4,4,3,No,Travel_Rarely,3,No
+EMP-0847,Research & Development,Research Scientist,54,Male,Bachelor,3,12070,21,8,8,8,1,5,3,2,3,4,No,Travel_Rarely,5,No
+EMP-0848,Sales,Sales Representative,43,Female,Doctor,1,3440,8,6,1,2,6,4,2,3,3,3,No,Travel_Frequently,2,No
+EMP-0849,Research & Development,Software Engineer,25,Female,Master,1,3305,2,1,0,0,0,3,4,1,3,2,No,Travel_Rarely,5,Yes
+EMP-0850,Human Resources,Manager,32,Female,Bachelor,5,19514,5,2,1,1,0,2,3,4,4,3,Yes,Travel_Rarely,3,No
+EMP-0851,Research & Development,Research Scientist,47,Female,Bachelor,2,5305,13,4,0,3,3,3,3,3,3,3,No,Travel_Frequently,2,No
+EMP-0852,Research & Development,Research Scientist,33,Female,Bachelor,3,10264,9,3,0,2,1,3,4,2,3,2,No,Travel_Frequently,3,No
+EMP-0853,Sales,Sales Executive,43,Female,Master,3,8755,6,3,2,1,0,3,3,1,4,3,No,Travel_Rarely,3,Yes
+EMP-0854,Sales,Sales Executive,47,Male,Master,2,7122,13,5,3,0,4,3,4,3,3,4,Yes,Travel_Frequently,6,No
+EMP-0855,Research & Development,Research Scientist,33,Female,Master,2,5753,9,3,0,0,3,0,4,3,3,4,No,Travel_Rarely,4,No
+EMP-0856,Research & Development,Research Director,45,Female,Bachelor,4,15981,14,8,3,3,5,1,2,3,2,3,No,Travel_Rarely,5,No
+EMP-0857,Sales,Sales Executive,35,Male,Below College,3,8943,5,4,3,3,1,5,3,3,2,3,No,Travel_Rarely,2,No
+EMP-0858,Sales,Sales Executive,25,Female,Bachelor,3,9086,3,1,0,0,1,3,4,3,4,2,No,Travel_Rarely,5,No
+EMP-0859,Research & Development,Software Engineer,34,Male,College,2,6185,6,4,0,3,4,5,4,3,2,3,Yes,Travel_Rarely,9,No
+EMP-0860,Research & Development,Software Engineer,37,Male,Below College,3,9491,11,4,3,1,1,2,2,2,1,3,Yes,Non-Travel,8,No
+EMP-0861,Sales,Sales Executive,20,Male,Bachelor,2,5623,0,0,0,0,0,3,2,3,1,3,No,Non-Travel,4,No
+EMP-0862,Sales,Sales Executive,55,Female,Bachelor,4,15455,18,15,8,7,14,2,3,3,4,3,No,Travel_Rarely,2,No
+EMP-0863,Sales,Sales Representative,41,Female,Master,3,11765,19,8,1,0,2,4,4,4,3,2,Yes,Travel_Frequently,7,No
+EMP-0864,Research & Development,Research Scientist,21,Male,Master,1,2399,0,0,0,0,0,2,4,3,3,3,Yes,Travel_Frequently,2,No
+EMP-0865,Research & Development,Software Engineer,54,Male,Master,2,7815,23,13,10,12,5,3,4,3,4,3,No,Travel_Rarely,4,No
+EMP-0866,Sales,Sales Representative,54,Male,Master,2,8945,22,6,6,5,0,2,2,4,3,3,Yes,Travel_Frequently,7,No
+EMP-0867,Sales,Sales Representative,20,Male,Bachelor,1,3084,0,0,0,0,0,1,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0868,Sales,Sales Executive,26,Non-Binary,Below College,3,9272,4,3,3,3,1,2,1,2,3,3,No,Travel_Rarely,3,No
+EMP-0869,Research & Development,Software Engineer,34,Male,Bachelor,2,4513,3,1,0,1,0,3,3,4,3,3,No,Travel_Rarely,9,No
+EMP-0870,Research & Development,Research Scientist,40,Male,College,3,10764,7,1,1,1,1,4,3,1,3,3,No,Travel_Rarely,3,No
+EMP-0871,Sales,Sales Executive,49,Male,Below College,3,10665,16,7,0,2,5,6,3,4,4,3,Yes,Travel_Rarely,6,No
+EMP-0872,Research & Development,Research Scientist,36,Non-Binary,College,2,6387,14,5,3,3,4,3,3,2,2,3,No,Travel_Rarely,6,No
+EMP-0873,Human Resources,Human Resources,44,Male,Master,2,6466,13,7,6,3,2,3,2,3,1,3,No,Travel_Frequently,5,Yes
+EMP-0874,Research & Development,Research Scientist,20,Female,Master,1,2370,0,0,0,0,0,3,2,4,4,4,Yes,Travel_Rarely,6,No
+EMP-0875,Sales,Sales Representative,46,Male,Master,3,11882,20,14,12,5,2,1,4,1,3,3,No,Non-Travel,4,No
+EMP-0876,Sales,Sales Executive,56,Male,Doctor,3,12205,14,5,1,5,0,4,1,4,3,3,No,Travel_Rarely,1,No
+EMP-0877,Research & Development,Manufacturing Director,41,Female,Master,4,13711,8,6,0,4,1,3,3,3,2,2,Yes,Travel_Rarely,6,No
+EMP-0878,Research & Development,Manufacturing Director,38,Male,College,5,21774,14,11,11,7,11,3,2,1,4,3,No,Travel_Frequently,2,No
+EMP-0879,Research & Development,Research Scientist,31,Female,Master,2,6148,4,2,2,2,2,0,2,4,3,3,No,Travel_Rarely,6,No
+EMP-0880,Research & Development,Research Scientist,58,Male,Master,3,13354,32,25,9,15,14,2,2,3,4,3,Yes,Travel_Rarely,6,No
+EMP-0881,Research & Development,Research Scientist,21,Female,Master,1,2619,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,3,No
+EMP-0882,Research & Development,Manufacturing Director,31,Female,College,4,13852,10,6,5,3,4,5,3,4,4,3,Yes,Travel_Rarely,2,No
+EMP-0883,Human Resources,Human Resources,25,Female,Below College,3,9394,3,1,0,0,1,3,2,1,3,3,No,Travel_Rarely,1,No
+EMP-0884,Research & Development,Software Engineer,54,Male,Master,2,6779,11,5,2,1,4,3,4,2,3,4,No,Travel_Rarely,3,No
+EMP-0885,Research & Development,Software Engineer,39,Female,College,1,3958,10,4,2,4,1,3,1,2,3,3,No,Travel_Rarely,4,No
+EMP-0886,Research & Development,Laboratory Technician,56,Non-Binary,Bachelor,2,7397,19,4,1,0,2,3,4,3,3,4,Yes,Travel_Rarely,5,No
+EMP-0887,Research & Development,Software Engineer,46,Male,Bachelor,2,5846,13,7,7,4,4,2,2,1,3,3,No,Travel_Rarely,4,No
+EMP-0888,Research & Development,Software Engineer,42,Male,College,4,16374,15,5,0,4,0,1,4,3,2,3,No,Travel_Rarely,5,No
+EMP-0889,Research & Development,Research Director,40,Female,Below College,5,15412,2,1,1,0,1,3,1,4,3,3,No,Travel_Rarely,5,Yes
+EMP-0890,Sales,Sales Executive,28,Male,Doctor,3,11033,7,4,3,1,0,2,3,2,3,4,No,Travel_Rarely,7,No
+EMP-0891,Research & Development,Manufacturing Director,42,Female,Master,4,15063,12,4,4,3,4,2,3,3,1,3,Yes,Travel_Rarely,5,No
+EMP-0892,Human Resources,Human Resources,47,Female,Master,3,9204,10,2,2,2,1,2,3,3,3,3,No,Travel_Rarely,5,No
+EMP-0893,Research & Development,Software Engineer,58,Male,College,2,8240,22,5,2,3,4,2,4,1,2,3,No,Travel_Rarely,9,No
+EMP-0894,Research & Development,Manufacturing Director,41,Female,College,5,18611,10,8,2,3,3,5,1,2,2,4,Yes,Travel_Rarely,6,No
+EMP-0895,Sales,Sales Representative,57,Female,Bachelor,3,12010,25,18,5,7,9,4,3,1,3,3,No,Travel_Rarely,3,No
+EMP-0896,Sales,Sales Representative,57,Male,Bachelor,2,9228,24,19,5,6,0,6,4,3,2,2,No,Travel_Rarely,3,Yes
+EMP-0897,Research & Development,Research Scientist,40,Female,Below College,3,10133,13,9,7,6,4,5,4,1,4,3,No,Travel_Rarely,6,No
+EMP-0898,Research & Development,Software Engineer,37,Male,Master,1,2932,4,2,0,2,1,2,3,4,4,3,No,Travel_Rarely,6,No
+EMP-0899,Research & Development,Software Engineer,25,Male,Doctor,1,2866,2,1,0,1,1,2,3,4,3,3,No,Travel_Rarely,5,No
+EMP-0900,Research & Development,Software Engineer,30,Female,Bachelor,1,3265,6,4,0,1,2,3,4,1,3,3,No,Travel_Frequently,6,No
+EMP-0901,Research & Development,Software Engineer,55,Male,Bachelor,3,13701,25,8,2,2,3,0,4,4,1,3,No,Travel_Rarely,5,No
+EMP-0902,Research & Development,Software Engineer,25,Female,Bachelor,1,2612,1,0,0,0,0,6,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0903,Research & Development,Software Engineer,35,Male,Below College,2,6753,13,4,4,0,4,0,4,1,2,3,No,Travel_Rarely,2,No
+EMP-0904,Research & Development,Research Scientist,47,Male,College,3,9313,14,7,4,5,1,3,3,4,4,3,Yes,Travel_Rarely,5,No
+EMP-0905,Human Resources,Human Resources,29,Male,Bachelor,2,5893,8,5,3,3,3,3,3,2,4,3,No,Travel_Frequently,6,No
+EMP-0906,Sales,Sales Executive,58,Female,Bachelor,2,6772,9,5,5,5,2,4,3,3,2,1,No,Travel_Rarely,5,No
+EMP-0907,Research & Development,Manufacturing Director,45,Female,Bachelor,5,17034,3,2,1,0,2,3,1,2,3,3,No,Travel_Rarely,4,No
+EMP-0908,Research & Development,Laboratory Technician,21,Female,Master,1,2420,0,0,0,0,0,3,4,4,3,3,No,Travel_Rarely,5,No
+EMP-0909,Research & Development,Research Scientist,29,Non-Binary,College,2,6809,8,2,1,0,2,2,3,4,3,4,Yes,Travel_Rarely,9,No
+EMP-0910,Research & Development,Laboratory Technician,49,Female,Below College,1,4234,10,4,3,2,3,3,1,4,2,3,No,Travel_Rarely,4,No
+EMP-0911,Sales,Sales Representative,54,Female,Below College,3,10898,17,6,0,2,1,3,3,4,3,3,Yes,Travel_Rarely,3,No
+EMP-0912,Sales,Sales Executive,57,Male,College,2,6667,18,13,1,7,4,3,2,1,2,4,No,Non-Travel,6,No
+EMP-0913,Sales,Sales Executive,54,Female,Bachelor,2,6072,10,4,3,0,1,3,1,3,4,3,No,Travel_Rarely,2,No
+EMP-0914,Human Resources,Human Resources,22,Female,Master,1,2727,0,0,0,0,0,1,3,2,3,3,No,Travel_Rarely,6,No
+EMP-0915,Human Resources,Human Resources,49,Female,Master,3,9780,7,6,2,5,1,2,4,1,3,4,No,Travel_Rarely,2,No
+EMP-0916,Human Resources,Manager,24,Male,Bachelor,4,14897,2,0,0,0,0,5,3,1,4,4,No,Travel_Rarely,2,No
+EMP-0917,Research & Development,Research Director,23,Male,Bachelor,4,12868,2,0,0,0,0,2,1,4,3,3,Yes,Travel_Frequently,4,Yes
+EMP-0918,Research & Development,Research Scientist,47,Female,College,2,5735,5,1,1,0,0,3,3,3,3,4,No,Travel_Rarely,6,No
+EMP-0919,Research & Development,Laboratory Technician,39,Male,Bachelor,1,3199,5,2,2,2,2,3,1,1,3,3,No,Travel_Rarely,3,No
+EMP-0920,Research & Development,Research Scientist,45,Male,Bachelor,2,8034,19,13,2,7,2,5,4,4,3,3,No,Travel_Rarely,3,No
+EMP-0921,Research & Development,Software Engineer,54,Non-Binary,Master,3,10734,18,4,4,4,2,2,2,4,3,1,Yes,Travel_Rarely,7,No
+EMP-0922,Sales,Sales Representative,22,Male,Bachelor,1,2794,1,0,0,0,0,2,4,2,4,3,No,Travel_Frequently,4,No
+EMP-0923,Research & Development,Software Engineer,41,Male,College,3,7626,3,2,2,2,2,4,1,3,2,3,Yes,Travel_Rarely,7,Yes
+EMP-0924,Research & Development,Research Scientist,53,Male,College,3,10340,13,5,4,4,1,3,1,4,3,3,No,Travel_Frequently,2,No
+EMP-0925,Research & Development,Software Engineer,37,Male,College,1,3516,1,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,9,No
+EMP-0926,Research & Development,Research Director,40,Female,Master,4,14126,3,1,1,0,1,2,4,3,3,1,No,Travel_Rarely,7,No
+EMP-0927,Research & Development,Research Scientist,39,Female,Below College,2,5069,8,2,2,1,0,2,4,3,4,3,No,Travel_Rarely,2,No
+EMP-0928,Sales,Sales Executive,56,Non-Binary,Below College,2,6677,2,0,0,0,0,5,3,1,2,3,Yes,Non-Travel,3,No
+EMP-0929,Research & Development,Research Scientist,21,Female,College,1,3564,0,0,0,0,0,3,2,3,1,2,No,Non-Travel,4,Yes
+EMP-0930,Sales,Sales Executive,55,Female,Master,2,7265,17,3,2,1,0,5,1,2,3,3,No,Travel_Rarely,4,No
+EMP-0931,Research & Development,Software Engineer,52,Male,Bachelor,3,11617,16,10,10,1,2,5,3,2,3,3,No,Travel_Rarely,7,No
+EMP-0932,Research & Development,Laboratory Technician,52,Female,Bachelor,1,3415,5,1,1,1,0,3,3,2,4,3,No,Travel_Rarely,3,No
+EMP-0933,Research & Development,Laboratory Technician,36,Male,Bachelor,1,3577,7,4,4,3,2,3,4,3,3,4,Yes,Non-Travel,0,No
+EMP-0934,Sales,Manager,40,Male,Below College,4,13473,3,2,1,0,0,3,3,3,2,4,No,Travel_Rarely,3,No
+EMP-0935,Sales,Sales Representative,34,Non-Binary,Master,1,3208,10,5,2,4,1,4,4,3,2,1,Yes,Travel_Rarely,2,No
+EMP-0936,Research & Development,Research Scientist,30,Female,College,1,3388,2,1,0,1,1,3,4,2,3,3,No,Travel_Rarely,5,No
+EMP-0937,Human Resources,Human Resources,55,Male,Below College,3,9802,12,7,5,5,5,1,1,4,3,3,No,Travel_Frequently,4,No
+EMP-0938,Research & Development,Research Scientist,40,Female,Bachelor,2,7689,11,7,1,1,3,5,3,2,2,3,No,Travel_Rarely,5,No
+EMP-0939,Sales,Sales Executive,48,Male,Below College,2,5205,8,4,2,2,0,3,4,3,3,3,No,Travel_Rarely,6,No
+EMP-0940,Research & Development,Research Director,24,Male,Below College,4,16401,2,0,0,0,0,4,3,2,4,3,No,Non-Travel,2,No
+EMP-0941,Research & Development,Laboratory Technician,51,Male,Master,4,13915,12,4,3,3,2,2,3,3,3,3,No,Travel_Rarely,4,No
+EMP-0942,Sales,Manager,46,Male,Bachelor,5,18447,8,1,0,0,1,2,4,3,3,3,Yes,Travel_Frequently,3,No
+EMP-0943,Research & Development,Software Engineer,59,Male,College,3,8585,8,3,2,3,1,3,2,3,2,3,Yes,Travel_Rarely,6,No
+EMP-0944,Research & Development,Software Engineer,25,Male,Bachelor,1,2864,1,0,0,0,0,3,4,4,4,3,No,Travel_Rarely,5,Yes
+EMP-0945,Research & Development,Software Engineer,41,Male,Master,2,5816,5,3,3,1,3,1,3,4,2,2,No,Travel_Rarely,2,No
+EMP-0946,Research & Development,Research Scientist,40,Male,Below College,3,10312,3,2,0,2,0,2,3,3,3,1,No,Travel_Rarely,4,No
+EMP-0947,Sales,Sales Executive,41,Female,Below College,2,6768,9,3,1,3,1,3,2,3,2,3,No,Travel_Rarely,3,No
+EMP-0948,Sales,Sales Executive,22,Female,Bachelor,3,8637,1,0,0,0,0,6,3,4,1,3,No,Travel_Rarely,8,No
+EMP-0949,Sales,Sales Executive,38,Female,Bachelor,4,15325,11,6,2,1,3,0,1,4,2,2,No,Travel_Rarely,0,No
+EMP-0950,Research & Development,Research Director,31,Male,Doctor,5,20062,9,6,1,4,3,2,1,3,2,3,No,Travel_Rarely,5,No
+EMP-0951,Research & Development,Research Scientist,44,Female,Bachelor,2,6143,7,3,1,0,2,2,3,4,4,3,Yes,Travel_Rarely,3,No
+EMP-0952,Research & Development,Research Scientist,29,Female,Below College,1,3636,2,0,0,0,0,2,2,4,2,3,Yes,Non-Travel,6,No
+EMP-0953,Research & Development,Laboratory Technician,37,Male,Bachelor,1,2431,1,0,0,0,0,0,3,4,4,3,Yes,Travel_Rarely,7,Yes
+EMP-0954,Research & Development,Research Scientist,44,Male,Bachelor,1,3589,9,3,3,2,2,3,1,1,3,3,Yes,Travel_Rarely,2,Yes
+EMP-0955,Human Resources,Manager,22,Male,College,5,23288,1,0,0,0,0,3,2,4,2,1,No,Travel_Rarely,6,No
+EMP-0956,Sales,Sales Representative,51,Male,Bachelor,3,11873,15,12,11,8,5,2,2,3,3,3,No,Travel_Frequently,4,No
+EMP-0957,Sales,Sales Executive,48,Male,College,2,6238,3,1,1,0,1,2,3,3,2,3,Yes,Travel_Rarely,0,No
+EMP-0958,Research & Development,Laboratory Technician,22,Male,Master,1,3050,0,0,0,0,0,6,2,3,4,4,No,Travel_Frequently,2,Yes
+EMP-0959,Research & Development,Laboratory Technician,22,Male,Master,1,2386,0,0,0,0,0,2,1,2,2,3,No,Travel_Rarely,2,No
+EMP-0960,Research & Development,Laboratory Technician,54,Female,Bachelor,3,11425,14,8,4,1,0,3,3,4,4,3,No,Travel_Frequently,4,No
+EMP-0961,Research & Development,Manufacturing Director,31,Male,Doctor,4,12866,2,1,1,0,0,2,4,3,1,3,No,Travel_Rarely,5,No
+EMP-0962,Research & Development,Laboratory Technician,54,Male,Doctor,2,7823,14,10,1,3,2,4,3,2,2,3,No,Travel_Rarely,3,No
+EMP-0963,Research & Development,Software Engineer,39,Female,College,3,10418,9,6,0,2,3,4,2,3,2,3,Yes,Travel_Rarely,12,No
+EMP-0964,Research & Development,Software Engineer,33,Male,Bachelor,1,4295,10,5,3,3,4,2,4,1,3,2,No,Travel_Rarely,5,No
+EMP-0965,Human Resources,Human Resources,30,Male,Bachelor,3,9390,3,2,2,0,2,3,3,3,3,4,No,Travel_Rarely,3,No
+EMP-0966,Research & Development,Research Director,46,Male,Below College,4,15762,13,4,0,1,3,3,3,3,4,4,No,Travel_Rarely,4,No
+EMP-0967,Human Resources,Human Resources,24,Male,Bachelor,1,2754,2,1,1,0,0,2,2,3,3,3,No,Travel_Rarely,6,No
+EMP-0968,Research & Development,Laboratory Technician,36,Male,College,1,2842,5,2,0,2,1,3,2,1,1,3,No,Travel_Rarely,5,No
+EMP-0969,Research & Development,Software Engineer,33,Male,Doctor,3,8173,9,4,4,4,2,2,3,1,3,1,No,Travel_Rarely,6,No
+EMP-0970,Research & Development,Laboratory Technician,26,Male,Bachelor,1,2916,2,1,1,1,1,3,2,2,3,1,Yes,Non-Travel,4,No
+EMP-0971,Research & Development,Research Director,34,Non-Binary,Master,5,15919,4,1,1,1,1,6,3,3,4,2,No,Travel_Rarely,6,No
+EMP-0972,Research & Development,Research Scientist,41,Female,Bachelor,1,4360,10,3,1,0,0,2,2,4,3,3,No,Travel_Rarely,4,No
+EMP-0973,Research & Development,Research Scientist,47,Male,College,3,8712,12,9,2,7,6,2,1,4,3,3,No,Travel_Rarely,2,Yes
+EMP-0974,Sales,Sales Executive,23,Male,Master,3,12002,2,1,1,1,0,2,1,4,2,2,No,Travel_Rarely,1,No
+EMP-0975,Research & Development,Software Engineer,54,Male,Below College,1,3486,5,4,1,4,4,6,1,2,4,1,No,Travel_Rarely,4,Yes
+EMP-0976,Research & Development,Software Engineer,55,Female,Below College,3,9553,6,1,0,0,1,2,3,1,2,1,Yes,Travel_Rarely,7,Yes
+EMP-0977,Research & Development,Research Scientist,47,Female,Bachelor,4,17242,12,4,2,1,1,2,1,4,4,3,No,Non-Travel,3,No
+EMP-0978,Research & Development,Software Engineer,56,Male,Bachelor,1,3780,9,3,3,2,0,3,3,3,2,3,No,Non-Travel,2,No
+EMP-0979,Research & Development,Software Engineer,37,Male,Bachelor,4,15519,11,3,1,2,1,3,2,1,3,3,No,Travel_Rarely,4,No
+EMP-0980,Research & Development,Software Engineer,52,Male,Below College,1,4404,10,2,1,1,2,3,3,3,4,3,No,Travel_Rarely,6,Yes
+EMP-0981,Human Resources,Human Resources,49,Female,College,2,5620,3,2,2,0,0,6,4,3,4,3,No,Travel_Frequently,6,No
+EMP-0982,Sales,Sales Representative,42,Female,College,1,3495,7,5,2,0,4,0,4,2,3,3,Yes,Non-Travel,7,No
+EMP-0983,Sales,Sales Representative,27,Male,Below College,1,2800,4,3,1,3,1,3,3,1,3,3,No,Travel_Rarely,3,No
+EMP-0984,Research & Development,Laboratory Technician,42,Female,Bachelor,1,3367,2,0,0,0,0,3,3,3,4,3,Yes,Travel_Rarely,1,Yes
+EMP-0985,Research & Development,Laboratory Technician,56,Male,Below College,1,3774,2,0,0,0,0,2,3,1,3,4,Yes,Travel_Rarely,4,No
+EMP-0986,Sales,Sales Executive,59,Female,College,3,13064,23,15,6,8,9,4,4,3,3,3,Yes,Travel_Rarely,2,No
+EMP-0987,Research & Development,Laboratory Technician,37,Female,Bachelor,4,11634,11,3,3,2,0,3,3,4,2,3,No,Travel_Frequently,5,No
+EMP-0988,Research & Development,Research Scientist,29,Male,Master,1,3796,7,1,1,1,0,2,1,4,3,3,No,Travel_Rarely,2,No
+EMP-0989,Research & Development,Research Scientist,49,Male,College,3,10048,16,5,5,0,2,1,4,3,3,2,Yes,Travel_Rarely,5,No
+EMP-0990,Sales,Sales Executive,23,Female,Bachelor,3,8887,2,1,1,1,0,1,1,1,3,1,No,Travel_Rarely,3,No
+EMP-0991,Research & Development,Manufacturing Director,26,Male,College,4,13113,3,2,1,0,2,4,4,3,2,4,No,Travel_Rarely,0,No
+EMP-0992,Sales,Sales Representative,42,Female,Doctor,2,7215,21,9,8,1,1,2,1,2,3,3,No,Non-Travel,4,No
+EMP-0993,Sales,Sales Executive,59,Male,College,3,13104,35,10,4,2,6,4,1,4,4,1,No,Non-Travel,4,No
+EMP-0994,Research & Development,Software Engineer,33,Female,College,3,10948,10,0,0,0,0,2,4,4,3,2,No,Travel_Rarely,3,No
+EMP-0995,Sales,Sales Executive,37,Male,Bachelor,3,8723,3,2,1,2,2,6,3,3,4,3,No,Non-Travel,10,No
+EMP-0996,Research & Development,Laboratory Technician,32,Male,College,1,3304,2,1,0,0,0,4,3,4,2,3,No,Travel_Rarely,8,No
+EMP-0997,Research & Development,Manufacturing Director,37,Male,College,4,14623,11,7,1,7,6,1,4,2,3,3,No,Travel_Frequently,1,No
+EMP-0998,Research & Development,Software Engineer,20,Male,Below College,1,3285,0,0,0,0,0,1,4,3,3,3,No,Travel_Rarely,2,No
+EMP-0999,Human Resources,Human Resources,43,Male,Bachelor,1,3748,9,5,4,3,3,4,3,4,3,4,No,Travel_Rarely,7,No
+EMP-1000,Research & Development,Software Engineer,43,Female,Bachelor,1,3744,5,4,1,2,2,1,4,2,3,3,No,Non-Travel,4,No
+EMP-1001,Research & Development,Software Engineer,32,Male,Bachelor,2,5292,7,2,0,2,0,2,2,2,2,4,No,Travel_Rarely,2,No
+EMP-1002,Research & Development,Manufacturing Director,30,Male,Master,4,13055,7,3,2,1,0,4,2,4,3,4,No,Travel_Rarely,2,No
+EMP-1003,Research & Development,Laboratory Technician,50,Male,Bachelor,4,10539,11,6,1,3,5,4,4,3,2,4,No,Travel_Rarely,8,No
+EMP-1004,Research & Development,Software Engineer,27,Male,Master,1,2789,3,2,1,1,2,3,3,2,3,4,No,Travel_Rarely,9,No
+EMP-1005,Research & Development,Software Engineer,21,Female,Master,1,2953,0,0,0,0,0,4,4,1,4,3,Yes,Travel_Rarely,11,No
+EMP-1006,Research & Development,Research Scientist,21,Female,Master,1,2587,0,0,0,0,0,3,1,3,1,3,No,Travel_Rarely,7,No
+EMP-1007,Sales,Sales Executive,55,Male,Master,4,15377,20,5,5,2,5,3,1,3,3,2,No,Travel_Rarely,6,Yes
+EMP-1008,Research & Development,Research Scientist,34,Female,Bachelor,2,6904,5,1,1,1,0,2,1,3,3,3,Yes,Travel_Frequently,2,No
+EMP-1009,Sales,Sales Executive,24,Female,College,3,8188,3,2,1,1,2,3,3,2,3,3,No,Travel_Frequently,6,No
+EMP-1010,Research & Development,Research Director,55,Non-Binary,Bachelor,4,15432,19,2,0,0,2,3,4,2,1,2,Yes,Travel_Rarely,7,Yes
+EMP-1011,Sales,Sales Executive,25,Male,Below College,3,8082,4,1,1,0,0,3,3,3,3,3,Yes,Travel_Rarely,2,Yes
+EMP-1012,Research & Development,Research Scientist,33,Male,Bachelor,1,2338,0,0,0,0,0,6,1,4,3,3,No,Travel_Rarely,1,No
+EMP-1013,Research & Development,Research Scientist,20,Male,Below College,1,2833,0,0,0,0,0,2,3,3,3,3,Yes,Non-Travel,4,No
+EMP-1014,Human Resources,Human Resources,47,Female,Below College,1,3820,7,5,3,0,5,3,2,3,3,3,No,Travel_Frequently,7,No
+EMP-1015,Research & Development,Laboratory Technician,47,Female,Master,1,3883,6,2,1,0,2,3,3,4,3,2,Yes,Travel_Rarely,4,No
+EMP-1016,Research & Development,Software Engineer,50,Male,Bachelor,3,8698,12,6,5,0,5,2,3,2,4,3,Yes,Travel_Rarely,8,Yes
+EMP-1017,Sales,Sales Representative,30,Male,Bachelor,1,3912,9,3,1,2,2,2,1,2,1,2,No,Travel_Rarely,0,Yes
+EMP-1018,Sales,Sales Representative,33,Female,Bachelor,1,3373,5,1,1,0,0,5,3,1,1,3,No,Travel_Rarely,4,No
+EMP-1019,Research & Development,Research Scientist,57,Female,Bachelor,3,12124,21,11,2,10,3,2,3,2,3,3,No,Travel_Rarely,9,No
+EMP-1020,Research & Development,Laboratory Technician,52,Male,Master,2,6044,11,5,5,0,3,3,2,4,3,3,Yes,Travel_Rarely,1,No
+EMP-1021,Sales,Manager,21,Female,Bachelor,4,14315,0,0,0,0,0,3,3,2,3,3,No,Travel_Rarely,4,Yes
+EMP-1022,Sales,Sales Executive,47,Male,Bachelor,2,5897,10,5,5,3,1,4,3,4,2,3,No,Travel_Rarely,10,No
+EMP-1023,Human Resources,Human Resources,52,Male,Bachelor,3,9079,10,5,3,3,0,3,3,1,2,3,Yes,Travel_Rarely,1,No
+EMP-1024,Research & Development,Research Director,42,Male,Bachelor,5,17514,9,3,3,1,0,1,1,3,3,4,No,Travel_Rarely,8,No
+EMP-1025,Sales,Manager,45,Female,Bachelor,4,15942,18,6,5,3,4,2,2,2,2,1,No,Travel_Rarely,4,No
+EMP-1026,Research & Development,Software Engineer,20,Non-Binary,Doctor,1,2690,0,0,0,0,0,3,4,2,3,4,No,Travel_Rarely,6,No
+EMP-1027,Human Resources,Human Resources,21,Male,Bachelor,1,2774,0,0,0,0,0,2,2,3,3,1,No,Travel_Rarely,4,No
+EMP-1028,Research & Development,Research Scientist,21,Male,Bachelor,1,2443,0,0,0,0,0,3,4,3,1,3,No,Travel_Rarely,5,No
+EMP-1029,Sales,Sales Representative,26,Male,Bachelor,1,3212,5,3,3,1,3,2,3,3,3,4,Yes,Travel_Rarely,7,No
+EMP-1030,Research & Development,Software Engineer,59,Male,Bachelor,4,15263,26,21,8,2,18,1,3,4,4,3,No,Non-Travel,4,Yes
+EMP-1031,Research & Development,Research Scientist,45,Male,Doctor,2,5314,8,4,2,3,3,6,4,4,4,3,No,Travel_Rarely,6,No
+EMP-1032,Sales,Sales Representative,51,Male,Bachelor,1,4114,9,3,0,2,3,5,3,3,1,3,No,Travel_Rarely,6,No
+EMP-1033,Research & Development,Research Director,31,Male,Bachelor,5,21892,7,5,1,4,5,3,2,4,3,3,No,Travel_Rarely,3,No
+EMP-1034,Sales,Sales Representative,57,Male,Bachelor,3,10983,14,2,1,2,1,2,1,1,4,3,Yes,Non-Travel,4,No
+EMP-1035,Research & Development,Research Scientist,27,Male,Bachelor,1,2858,4,3,0,2,3,6,3,2,3,2,No,Travel_Rarely,1,No
+EMP-1036,Research & Development,Research Scientist,56,Female,Below College,3,10679,23,15,0,13,4,3,3,3,2,3,No,Travel_Rarely,8,Yes
+EMP-1037,Research & Development,Research Director,21,Male,Bachelor,4,12213,0,0,0,0,0,5,4,3,2,4,Yes,Travel_Frequently,1,Yes
+EMP-1038,Research & Development,Research Director,20,Female,Master,4,15467,0,0,0,0,0,1,3,3,3,4,No,Non-Travel,3,No
+EMP-1039,Research & Development,Software Engineer,23,Female,Bachelor,1,2589,0,0,0,0,0,2,3,3,3,3,No,Travel_Rarely,6,No
+EMP-1040,Research & Development,Laboratory Technician,51,Female,College,4,14967,12,6,3,4,0,3,2,4,4,3,No,Non-Travel,7,No
+EMP-1041,Research & Development,Software Engineer,30,Male,Master,3,8441,9,2,0,0,2,4,2,2,4,3,No,Travel_Rarely,2,No
+EMP-1042,Sales,Sales Executive,38,Male,Bachelor,3,11666,12,4,0,3,0,2,4,4,2,3,Yes,Travel_Rarely,5,No
+EMP-1043,Sales,Sales Executive,38,Female,College,2,6289,7,3,2,0,3,2,1,3,3,4,Yes,Travel_Rarely,2,No
+EMP-1044,Sales,Sales Executive,51,Male,Bachelor,3,9957,9,6,0,6,0,3,4,3,2,3,Yes,Travel_Rarely,9,No
+EMP-1045,Research & Development,Research Scientist,33,Male,Bachelor,1,3995,9,5,0,2,5,6,1,2,1,3,No,Travel_Rarely,2,No
+EMP-1046,Research & Development,Manufacturing Director,20,Male,Master,4,14314,0,0,0,0,0,3,3,2,1,3,Yes,Non-Travel,5,No
+EMP-1047,Research & Development,Research Scientist,35,Male,College,1,4104,8,1,1,0,0,5,1,3,4,2,No,Travel_Rarely,7,No
+EMP-1048,Sales,Sales Executive,31,Male,College,2,6267,9,0,0,0,0,3,4,4,2,3,No,Non-Travel,6,No
+EMP-1049,Sales,Sales Executive,49,Female,Bachelor,2,6875,12,4,4,4,3,4,2,3,3,3,No,Travel_Frequently,5,No
+EMP-1050,Research & Development,Research Scientist,50,Male,Below College,1,3418,0,0,0,0,0,3,3,2,3,3,Yes,Travel_Rarely,8,No
+EMP-1051,Sales,Sales Executive,23,Male,Bachelor,2,5512,1,0,0,0,0,2,4,4,2,1,Yes,Travel_Rarely,3,Yes
+EMP-1052,Research & Development,Software Engineer,51,Female,Master,3,9277,14,7,3,5,2,3,3,3,3,3,No,Travel_Rarely,6,No
+EMP-1053,Research & Development,Software Engineer,22,Male,College,1,3351,1,0,0,0,0,3,2,4,1,2,No,Travel_Rarely,3,Yes
+EMP-1054,Research & Development,Laboratory Technician,44,Female,Bachelor,3,11046,12,6,0,5,1,3,4,3,3,4,Yes,Travel_Rarely,5,No
+EMP-1055,Research & Development,Manufacturing Director,35,Male,Doctor,5,20303,8,3,2,0,1,2,3,3,3,1,Yes,Travel_Rarely,5,Yes
+EMP-1056,Sales,Sales Executive,32,Male,Bachelor,3,11500,9,5,1,3,4,3,1,3,4,3,No,Travel_Rarely,6,No
+EMP-1057,Sales,Manager,39,Female,Bachelor,4,16215,9,2,2,2,1,4,3,3,3,1,No,Travel_Rarely,2,No
+EMP-1058,Research & Development,Manufacturing Director,32,Male,Bachelor,5,21018,11,5,5,5,4,2,4,3,4,3,No,Travel_Rarely,8,No
+EMP-1059,Research & Development,Manufacturing Director,51,Male,College,5,18164,3,2,0,2,0,5,3,1,3,3,No,Travel_Frequently,6,No
+EMP-1060,Sales,Sales Representative,58,Female,College,2,7318,20,5,1,5,2,2,4,4,2,3,No,Travel_Rarely,4,No
+EMP-1061,Human Resources,Human Resources,52,Female,Bachelor,1,3123,6,2,2,1,0,1,3,4,3,4,Yes,Travel_Frequently,3,No
+EMP-1062,Research & Development,Laboratory Technician,37,Female,Bachelor,1,3916,9,7,3,0,5,2,3,3,4,3,No,Travel_Rarely,5,No
+EMP-1063,Research & Development,Laboratory Technician,40,Male,College,3,12904,15,10,10,6,6,3,2,3,2,3,Yes,Travel_Rarely,6,Yes
+EMP-1064,Research & Development,Research Scientist,37,Male,Below College,2,6524,11,5,3,1,1,1,4,4,2,2,Yes,Travel_Rarely,2,No
+EMP-1065,Research & Development,Research Director,51,Female,Master,4,15744,8,3,2,3,0,3,3,1,4,4,No,Travel_Frequently,5,No
+EMP-1066,Human Resources,Human Resources,42,Male,Below College,4,21545,11,5,1,4,3,3,2,2,4,3,Yes,Non-Travel,5,No
+EMP-1067,Research & Development,Laboratory Technician,38,Male,Master,1,4094,8,4,4,1,3,3,2,1,2,4,No,Travel_Rarely,4,Yes
+EMP-1068,Sales,Sales Executive,36,Female,Bachelor,3,10095,5,0,0,0,0,4,4,1,3,4,No,Travel_Rarely,7,No
+EMP-1069,Research & Development,Research Scientist,35,Male,Bachelor,1,2833,0,0,0,0,0,5,2,1,3,3,No,Travel_Rarely,4,Yes
+EMP-1070,Research & Development,Software Engineer,42,Male,College,1,3407,9,6,5,1,0,2,2,4,3,3,No,Travel_Rarely,4,No
+EMP-1071,Sales,Sales Executive,47,Male,College,3,9757,13,8,3,5,5,1,1,2,3,4,Yes,Travel_Rarely,2,Yes
+EMP-1072,Research & Development,Software Engineer,37,Male,Bachelor,2,7681,15,2,2,0,2,2,1,4,4,3,No,Travel_Frequently,5,No
+EMP-1073,Research & Development,Software Engineer,52,Female,Bachelor,1,3116,7,4,2,3,4,3,4,4,2,3,No,Travel_Rarely,3,No
+EMP-1074,Human Resources,Human Resources,53,Female,College,1,4238,9,4,0,4,4,2,3,2,3,3,No,Travel_Frequently,5,No
+EMP-1075,Sales,Sales Executive,37,Male,Bachelor,3,8775,8,3,3,1,1,3,4,3,1,3,Yes,Non-Travel,1,No
+EMP-1076,Research & Development,Software Engineer,56,Male,Bachelor,4,16304,12,6,5,2,6,3,4,3,3,3,No,Travel_Rarely,3,No
+EMP-1077,Research & Development,Research Director,26,Male,College,5,23158,3,2,2,2,1,3,2,4,3,4,Yes,Non-Travel,2,No
+EMP-1078,Research & Development,Research Scientist,57,Male,Bachelor,3,10087,13,7,6,7,5,2,4,3,3,3,Yes,Travel_Rarely,6,No
+EMP-1079,Research & Development,Software Engineer,31,Male,College,2,5423,4,2,2,1,1,2,4,3,4,3,Yes,Travel_Rarely,2,No
+EMP-1080,Research & Development,Research Scientist,42,Female,Bachelor,3,10385,14,6,5,4,0,2,4,2,3,1,No,Travel_Rarely,2,No
+EMP-1081,Research & Development,Software Engineer,31,Male,Below College,2,5704,8,6,6,6,3,4,4,4,3,4,Yes,Travel_Rarely,5,No
+EMP-1082,Sales,Sales Executive,37,Male,Bachelor,2,6221,8,3,1,1,0,3,3,2,2,3,Yes,Travel_Rarely,5,No
+EMP-1083,Sales,Sales Representative,33,Non-Binary,College,1,3553,4,2,1,1,1,3,4,4,4,3,No,Travel_Rarely,2,No
+EMP-1084,Sales,Manager,48,Male,Bachelor,5,19516,11,2,1,1,2,3,1,2,3,1,No,Travel_Rarely,2,No
+EMP-1085,Human Resources,Human Resources,23,Female,Bachelor,1,3089,2,0,0,0,0,3,4,3,3,4,Yes,Travel_Rarely,4,No
+EMP-1086,Sales,Sales Representative,53,Male,Master,1,3332,8,4,1,0,0,0,3,3,3,3,No,Travel_Frequently,6,No
+EMP-1087,Sales,Sales Executive,56,Male,Bachelor,2,6459,9,2,2,2,2,2,3,1,3,3,No,Travel_Rarely,2,No
+EMP-1088,Sales,Sales Executive,42,Female,Master,3,11354,8,5,4,1,3,2,4,1,3,3,Yes,Travel_Frequently,3,No
+EMP-1089,Research & Development,Software Engineer,41,Male,College,1,3714,7,1,1,1,0,1,3,2,3,3,Yes,Travel_Frequently,7,Yes
+EMP-1090,Research & Development,Research Scientist,47,Male,Bachelor,2,6967,12,3,2,1,0,2,1,4,2,3,No,Travel_Frequently,6,Yes
+EMP-1091,Research & Development,Laboratory Technician,27,Male,Below College,1,2817,2,0,0,0,0,3,4,4,4,2,No,Non-Travel,6,No
+EMP-1092,Research & Development,Laboratory Technician,49,Female,Bachelor,4,19067,15,11,2,8,3,1,4,2,4,3,No,Travel_Rarely,1,No
+EMP-1093,Research & Development,Laboratory Technician,28,Female,Bachelor,1,3802,3,2,1,0,2,1,3,3,3,3,No,Travel_Rarely,4,No
+EMP-1094,Research & Development,Software Engineer,47,Male,Master,2,6361,13,5,2,3,2,2,4,1,4,3,No,Non-Travel,6,No
+EMP-1095,Research & Development,Laboratory Technician,32,Female,Bachelor,1,3249,4,2,1,0,1,2,4,4,3,3,No,Travel_Rarely,5,No
+EMP-1096,Research & Development,Software Engineer,49,Female,Bachelor,4,13860,11,9,9,2,0,2,4,4,3,3,No,Travel_Rarely,4,No
+EMP-1097,Research & Development,Research Scientist,51,Male,College,3,11570,11,1,0,1,0,0,2,4,4,2,No,Travel_Rarely,1,No
+EMP-1098,Sales,Sales Executive,28,Male,Below College,2,5898,4,2,2,1,0,2,3,4,3,4,No,Travel_Rarely,8,No
+EMP-1099,Sales,Sales Representative,44,Male,Master,3,8803,12,9,2,4,5,6,4,2,3,3,No,Travel_Rarely,3,No
+EMP-1100,Research & Development,Research Director,39,Male,College,4,16155,10,6,2,0,1,2,4,2,3,3,No,Travel_Frequently,6,No
+EMP-1101,Research & Development,Research Scientist,31,Male,Below College,1,3965,7,4,3,3,4,2,1,4,3,4,No,Travel_Rarely,2,No
+EMP-1102,Research & Development,Software Engineer,43,Male,Master,3,9232,18,2,1,1,0,3,2,1,1,3,Yes,Travel_Rarely,6,No
+EMP-1103,Sales,Sales Representative,59,Male,Doctor,2,7298,12,5,3,4,2,2,2,1,4,3,No,Non-Travel,6,No
+EMP-1104,Sales,Sales Representative,20,Male,Bachelor,1,2594,0,0,0,0,0,3,4,2,2,3,No,Travel_Frequently,6,No
+EMP-1105,Research & Development,Software Engineer,58,Female,Bachelor,4,16641,28,11,6,2,4,2,4,4,3,3,No,Non-Travel,4,No
+EMP-1106,Sales,Sales Representative,54,Male,Master,3,10290,13,2,0,2,0,4,3,3,2,3,Yes,Travel_Rarely,8,No
+EMP-1107,Research & Development,Laboratory Technician,41,Non-Binary,College,1,4371,9,2,2,2,2,5,1,4,3,2,Yes,Non-Travel,4,No
+EMP-1108,Research & Development,Manufacturing Director,44,Female,Bachelor,4,14277,13,7,5,1,4,3,2,2,3,3,No,Travel_Rarely,0,No
+EMP-1109,Human Resources,Human Resources,34,Female,Bachelor,2,6569,13,5,2,1,5,2,4,2,3,4,Yes,Travel_Rarely,9,No
+EMP-1110,Research & Development,Research Director,25,Female,Master,5,19530,4,3,0,1,0,2,2,3,3,3,No,Travel_Rarely,2,No
+EMP-1111,Research & Development,Research Scientist,42,Female,Master,3,9943,12,3,2,0,0,2,1,4,2,2,No,Travel_Frequently,3,No
+EMP-1112,Research & Development,Manufacturing Director,52,Male,Bachelor,4,14350,8,3,1,1,1,3,2,2,1,3,No,Travel_Rarely,4,No
+EMP-1113,Research & Development,Research Scientist,29,Female,Below College,1,3000,3,2,1,1,1,0,4,4,2,3,No,Travel_Rarely,7,No
+EMP-1114,Human Resources,Human Resources,48,Male,Bachelor,2,7181,10,5,1,3,5,3,3,3,3,3,No,Travel_Rarely,5,No
+EMP-1115,Human Resources,Human Resources,49,Female,College,2,6575,9,0,0,0,0,2,2,4,4,3,No,Travel_Frequently,1,No
+EMP-1116,Research & Development,Software Engineer,50,Male,Master,3,10428,17,3,2,3,2,3,2,4,3,3,Yes,Travel_Rarely,5,No
+EMP-1117,Research & Development,Software Engineer,33,Male,College,2,6776,9,1,1,0,1,2,4,3,3,3,No,Travel_Frequently,13,No
+EMP-1118,Sales,Sales Executive,35,Male,Below College,2,6492,13,12,5,2,10,2,3,4,2,3,No,Travel_Rarely,5,No
+EMP-1119,Research & Development,Software Engineer,36,Female,Bachelor,1,2931,3,2,0,1,0,3,3,2,4,4,Yes,Travel_Rarely,5,No
+EMP-1120,Sales,Sales Executive,54,Male,Bachelor,3,12265,23,8,1,6,4,3,1,4,4,4,Yes,Travel_Rarely,6,Yes
+EMP-1121,Sales,Sales Representative,56,Male,Master,2,7819,21,6,4,4,6,2,2,4,3,3,No,Travel_Rarely,6,No
+EMP-1122,Research & Development,Manufacturing Director,36,Male,Below College,4,13385,3,1,1,1,1,1,4,3,1,4,No,Travel_Frequently,3,No
+EMP-1123,Sales,Sales Representative,58,Male,Master,1,3713,3,2,0,2,1,4,4,2,3,4,No,Travel_Rarely,3,No
+EMP-1124,Research & Development,Research Scientist,42,Female,Below College,1,2802,4,3,2,0,2,3,3,4,4,3,Yes,Travel_Frequently,8,Yes
+EMP-1125,Research & Development,Research Scientist,35,Female,Below College,1,2853,1,0,0,0,0,3,4,4,2,2,Yes,Travel_Frequently,8,No
+EMP-1126,Research & Development,Manufacturing Director,20,Male,Bachelor,5,21056,0,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,3,No
+EMP-1127,Research & Development,Research Scientist,44,Male,College,2,5725,4,2,2,2,1,3,4,4,4,3,Yes,Travel_Rarely,2,Yes
+EMP-1128,Sales,Sales Executive,45,Male,Bachelor,4,17441,17,4,1,1,2,3,1,3,3,3,No,Travel_Rarely,2,Yes
+EMP-1129,Sales,Manager,58,Male,Below College,4,13757,13,9,7,3,5,0,2,3,3,4,No,Travel_Rarely,8,No
+EMP-1130,Human Resources,Manager,48,Female,Below College,4,15982,22,10,4,6,6,3,4,3,3,3,No,Travel_Rarely,3,No
+EMP-1131,Human Resources,Human Resources,21,Female,Master,1,2686,0,0,0,0,0,3,4,1,4,4,No,Travel_Rarely,5,Yes
+EMP-1132,Research & Development,Laboratory Technician,42,Male,College,1,3375,5,4,1,0,2,1,4,3,3,3,No,Travel_Rarely,7,No
+EMP-1133,Research & Development,Software Engineer,49,Female,Bachelor,1,3621,8,2,0,1,0,3,3,3,4,1,No,Travel_Rarely,7,No
+EMP-1134,Sales,Sales Representative,39,Male,Master,4,15373,12,8,2,6,3,2,4,1,3,4,No,Travel_Rarely,4,No
+EMP-1135,Human Resources,Human Resources,37,Female,Below College,1,3907,10,4,3,0,1,1,3,2,3,3,No,Travel_Rarely,4,Yes
+EMP-1136,Research & Development,Research Scientist,52,Male,Master,3,10320,20,2,0,2,2,4,2,4,4,3,No,Travel_Rarely,3,No
+EMP-1137,Research & Development,Laboratory Technician,44,Female,College,1,3844,10,4,4,1,4,4,3,4,3,3,Yes,Travel_Rarely,3,Yes
+EMP-1138,Research & Development,Research Scientist,47,Male,Bachelor,2,8174,15,6,1,4,0,2,3,4,2,3,No,Travel_Rarely,8,No
+EMP-1139,Research & Development,Laboratory Technician,38,Female,Below College,1,2916,1,0,0,0,0,3,3,2,1,3,Yes,Travel_Rarely,6,No
+EMP-1140,Sales,Sales Executive,31,Male,Master,2,5650,8,4,3,3,4,0,4,4,4,1,No,Travel_Rarely,3,No
+EMP-1141,Research & Development,Manufacturing Director,40,Male,Bachelor,5,20661,15,11,4,8,8,3,3,2,3,2,No,Travel_Rarely,2,Yes
+EMP-1142,Sales,Sales Representative,58,Male,Bachelor,4,13547,19,4,1,0,2,2,2,1,2,3,No,Travel_Rarely,4,No
+EMP-1143,Sales,Sales Executive,44,Male,Doctor,3,10466,11,5,3,4,2,3,2,4,4,3,No,Travel_Rarely,3,Yes
+EMP-1144,Sales,Sales Representative,48,Male,Bachelor,1,3513,5,4,2,4,0,2,4,3,4,2,No,Travel_Rarely,1,No
+EMP-1145,Research & Development,Research Scientist,24,Female,Master,2,6030,3,2,2,0,2,2,1,4,4,3,Yes,Travel_Rarely,1,No
+EMP-1146,Research & Development,Software Engineer,59,Female,Bachelor,3,8889,14,5,1,2,1,4,4,2,3,3,Yes,Travel_Rarely,2,No
+EMP-1147,Sales,Sales Executive,29,Male,Master,4,12426,6,2,0,0,0,0,1,2,4,3,Yes,Travel_Rarely,7,Yes
+EMP-1148,Sales,Sales Representative,58,Female,Master,1,4265,10,2,0,1,2,2,3,3,4,4,No,Travel_Rarely,4,No
+EMP-1149,Research & Development,Manufacturing Director,37,Female,Doctor,4,13667,14,7,3,4,7,2,4,1,2,4,Yes,Travel_Rarely,5,No
+EMP-1150,Sales,Manager,56,Male,College,4,14731,29,6,4,4,4,3,3,2,4,3,No,Travel_Rarely,5,No
+EMP-1151,Research & Development,Manufacturing Director,55,Male,Master,5,23452,20,15,10,5,5,0,4,2,3,2,Yes,Travel_Rarely,4,No
+EMP-1152,Sales,Manager,50,Male,Master,5,21104,15,7,5,3,6,3,1,2,4,3,No,Travel_Rarely,7,No
+EMP-1153,Research & Development,Research Scientist,56,Male,Bachelor,3,8315,8,2,1,0,1,2,3,4,3,2,No,Travel_Rarely,1,Yes
+EMP-1154,Research & Development,Research Director,44,Female,College,5,21078,13,4,2,4,1,3,3,1,3,3,No,Travel_Rarely,4,No
+EMP-1155,Research & Development,Software Engineer,53,Female,Doctor,2,6070,10,7,6,3,2,4,4,3,2,4,No,Travel_Frequently,2,No
+EMP-1156,Research & Development,Software Engineer,26,Female,College,2,4259,3,2,0,2,1,2,1,3,1,3,No,Travel_Rarely,2,No
+EMP-1157,Research & Development,Software Engineer,22,Male,Bachelor,1,3338,1,0,0,0,0,3,2,3,2,4,No,Travel_Rarely,5,No
+EMP-1158,Research & Development,Software Engineer,41,Female,Bachelor,1,3882,8,3,3,0,0,2,3,3,3,3,Yes,Travel_Rarely,4,No
+EMP-1159,Research & Development,Research Scientist,52,Female,College,3,11189,14,4,2,1,3,1,4,3,4,3,No,Travel_Rarely,3,No
+EMP-1160,Sales,Sales Executive,50,Male,Master,3,10778,5,3,0,0,3,3,4,4,1,2,No,Travel_Rarely,3,Yes
+EMP-1161,Research & Development,Research Scientist,41,Female,Below College,3,10530,9,7,4,4,0,4,4,2,2,3,Yes,Travel_Rarely,6,Yes
+EMP-1162,Sales,Sales Executive,40,Male,Bachelor,2,7021,9,2,1,0,1,4,3,4,3,3,No,Travel_Frequently,6,No
+EMP-1163,Sales,Manager,44,Male,Master,4,13920,11,5,5,4,3,5,3,1,2,2,No,Travel_Rarely,2,Yes
+EMP-1164,Research & Development,Laboratory Technician,54,Male,Bachelor,2,8604,26,5,5,5,1,2,4,3,2,2,No,Non-Travel,3,No
+EMP-1165,Research & Development,Software Engineer,53,Male,Bachelor,3,8430,7,4,4,3,4,3,4,3,1,4,No,Travel_Rarely,4,No
+EMP-1166,Sales,Sales Executive,24,Female,College,2,5059,1,0,0,0,0,2,4,2,3,3,No,Travel_Rarely,3,No
+EMP-1167,Sales,Sales Executive,43,Male,Master,2,5129,6,2,1,0,1,5,4,1,3,4,No,Non-Travel,3,No
+EMP-1168,Research & Development,Research Scientist,35,Male,Doctor,3,9343,11,7,1,4,2,3,4,1,4,3,Yes,Travel_Rarely,4,Yes
+EMP-1169,Sales,Sales Representative,51,Male,College,2,6875,18,5,1,3,3,2,1,1,2,3,No,Travel_Frequently,4,No
+EMP-1170,Research & Development,Research Scientist,40,Male,Bachelor,3,9972,12,7,3,4,2,4,2,3,2,3,No,Travel_Rarely,3,No
+EMP-1171,Research & Development,Laboratory Technician,59,Male,Bachelor,1,3978,4,1,0,0,0,3,4,2,3,3,Yes,Travel_Rarely,5,No
+EMP-1172,Sales,Sales Representative,37,Male,Bachelor,1,3837,10,5,1,0,4,5,3,4,4,3,No,Non-Travel,2,No
+EMP-1173,Research & Development,Software Engineer,47,Female,Bachelor,1,4096,10,8,7,6,4,3,2,4,3,2,Yes,Travel_Rarely,1,No
+EMP-1174,Sales,Sales Representative,24,Male,Bachelor,1,3337,3,2,1,0,2,4,3,2,4,3,Yes,Travel_Rarely,1,No
+EMP-1175,Research & Development,Research Scientist,57,Female,Bachelor,2,8744,29,12,12,12,7,3,3,2,3,4,Yes,Travel_Rarely,8,No
+EMP-1176,Sales,Manager,26,Male,College,4,13504,2,1,1,0,0,3,4,3,4,3,Yes,Travel_Frequently,7,No
+EMP-1177,Research & Development,Laboratory Technician,35,Female,Bachelor,1,3596,5,0,0,0,0,3,4,4,3,3,No,Non-Travel,7,No
+EMP-1178,Research & Development,Laboratory Technician,53,Female,Master,4,17512,23,22,13,10,1,1,1,3,2,3,No,Travel_Rarely,3,No
+EMP-1179,Research & Development,Laboratory Technician,58,Male,Below College,2,9151,32,16,4,1,8,1,3,1,2,3,Yes,Travel_Rarely,10,No
+EMP-1180,Research & Development,Manufacturing Director,39,Male,Bachelor,4,11692,10,4,3,4,1,6,1,4,3,3,No,Travel_Rarely,6,No
+EMP-1181,Sales,Manager,39,Female,College,5,21291,9,2,1,1,2,4,4,3,4,2,No,Non-Travel,5,No
+EMP-1182,Research & Development,Software Engineer,21,Male,Master,1,2845,0,0,0,0,0,5,2,2,3,4,Yes,Travel_Rarely,6,No
+EMP-1183,Research & Development,Laboratory Technician,59,Female,Bachelor,4,16881,25,12,5,9,9,1,3,4,1,4,No,Travel_Rarely,5,No
+EMP-1184,Research & Development,Laboratory Technician,20,Male,Bachelor,1,2536,0,0,0,0,0,2,3,4,1,3,Yes,Travel_Rarely,7,Yes
+EMP-1185,Research & Development,Software Engineer,21,Male,College,1,3098,0,0,0,0,0,4,3,3,3,4,No,Travel_Frequently,6,No
+EMP-1186,Sales,Manager,38,Male,Bachelor,5,19919,7,2,1,2,0,1,3,2,4,3,No,Travel_Frequently,4,No
+EMP-1187,Research & Development,Software Engineer,20,Female,Doctor,1,2616,0,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,4,No
+EMP-1188,Human Resources,Human Resources,26,Male,Bachelor,1,3349,2,0,0,0,0,2,3,2,3,2,Yes,Travel_Frequently,4,Yes
+EMP-1189,Research & Development,Research Scientist,45,Female,Bachelor,3,10808,14,3,2,0,3,4,1,3,3,4,Yes,Travel_Rarely,5,No
+EMP-1190,Sales,Sales Executive,48,Female,Master,3,11511,14,6,0,5,6,3,3,2,4,3,No,Travel_Rarely,5,No
+EMP-1191,Research & Development,Manufacturing Director,31,Male,Bachelor,5,20681,8,1,1,1,1,2,3,3,4,3,Yes,Travel_Rarely,4,No
+EMP-1192,Research & Development,Software Engineer,51,Male,Bachelor,2,6547,11,8,5,7,1,3,2,4,2,3,No,Non-Travel,2,No
+EMP-1193,Sales,Sales Executive,44,Male,Bachelor,3,9525,10,7,6,5,0,1,4,4,3,3,No,Travel_Rarely,8,Yes
+EMP-1194,Human Resources,Human Resources,29,Male,College,1,2947,4,1,1,1,1,3,2,4,4,4,No,Travel_Rarely,3,No
+EMP-1195,Sales,Sales Executive,48,Female,Bachelor,3,10360,20,8,3,0,5,3,4,1,4,3,Yes,Travel_Rarely,3,No
+EMP-1196,Research & Development,Laboratory Technician,43,Male,Master,2,6840,13,0,0,0,0,3,1,2,3,2,No,Travel_Rarely,3,No
+EMP-1197,Research & Development,Manufacturing Director,52,Male,Master,4,14891,17,6,4,3,5,2,4,3,2,3,No,Travel_Rarely,7,No
+EMP-1198,Sales,Sales Executive,26,Female,Master,3,9632,1,0,0,0,0,2,2,2,3,3,No,Travel_Frequently,5,No
+EMP-1199,Research & Development,Software Engineer,29,Female,Bachelor,2,6250,8,3,1,2,0,1,3,1,3,4,No,Non-Travel,4,No
+EMP-1200,Sales,Sales Executive,32,Male,College,3,9458,8,2,0,2,0,5,2,4,2,4,No,Travel_Rarely,3,No
+EMP-1201,Research & Development,Laboratory Technician,33,Female,Bachelor,1,3959,7,3,2,3,0,2,3,2,4,2,Yes,Travel_Rarely,4,No
+EMP-1202,Research & Development,Software Engineer,55,Male,Doctor,3,12098,23,11,3,2,3,3,2,1,2,3,No,Travel_Frequently,4,No
+EMP-1203,Sales,Sales Executive,49,Female,Master,2,7937,13,5,2,4,2,2,4,3,4,4,No,Travel_Rarely,1,No
+EMP-1204,Sales,Sales Executive,41,Male,Bachelor,3,9411,9,4,4,0,1,6,3,4,3,4,No,Non-Travel,6,No
+EMP-1205,Research & Development,Software Engineer,41,Male,Bachelor,3,10640,17,6,6,0,2,3,4,3,1,3,No,Travel_Rarely,4,Yes
+EMP-1206,Research & Development,Software Engineer,55,Male,Master,3,8682,9,3,1,3,2,1,4,2,3,3,No,Travel_Rarely,5,No
+EMP-1207,Research & Development,Software Engineer,37,Female,Master,2,5661,5,3,3,1,1,3,3,3,3,3,No,Non-Travel,7,No
+EMP-1208,Research & Development,Laboratory Technician,29,Female,Master,1,3049,8,5,5,0,1,3,4,4,4,3,No,Travel_Frequently,6,No
+EMP-1209,Research & Development,Laboratory Technician,25,Male,Bachelor,1,3780,3,1,0,1,0,3,2,1,3,3,Yes,Travel_Rarely,5,Yes
+EMP-1210,Research & Development,Software Engineer,33,Female,College,2,5755,4,1,0,0,1,6,3,3,1,3,No,Non-Travel,5,No
+EMP-1211,Sales,Sales Representative,46,Female,Bachelor,1,4003,9,1,0,0,0,3,3,4,4,3,No,Travel_Frequently,2,No
+EMP-1212,Sales,Sales Representative,38,Male,Bachelor,1,4539,10,7,4,2,6,4,4,3,3,3,No,Travel_Rarely,3,No
+EMP-1213,Research & Development,Research Scientist,36,Female,Master,2,6487,10,6,5,6,6,3,1,2,2,4,No,Non-Travel,3,Yes
+EMP-1214,Research & Development,Software Engineer,39,Male,Bachelor,2,6126,12,9,4,1,9,2,3,4,4,3,No,Travel_Rarely,4,No
+EMP-1215,Research & Development,Research Scientist,58,Non-Binary,Bachelor,4,15432,21,9,4,9,1,3,3,2,2,3,Yes,Non-Travel,5,No
+EMP-1216,Research & Development,Laboratory Technician,59,Male,Bachelor,1,3947,8,2,0,2,2,3,3,1,1,1,No,Travel_Rarely,4,Yes
+EMP-1217,Research & Development,Research Scientist,26,Male,Bachelor,3,9807,5,3,3,1,1,2,2,1,3,2,No,Travel_Rarely,4,No
+EMP-1218,Research & Development,Laboratory Technician,24,Male,Bachelor,1,3416,3,2,0,0,1,3,3,3,3,4,Yes,Travel_Rarely,6,Yes
+EMP-1219,Sales,Sales Executive,29,Male,College,3,8472,6,3,3,1,3,1,4,1,3,3,Yes,Travel_Frequently,4,No
+EMP-1220,Research & Development,Software Engineer,54,Female,Master,2,8046,19,15,4,13,7,2,2,4,4,2,Yes,Travel_Rarely,6,No
+EMP-1221,Research & Development,Research Director,38,Male,Bachelor,4,11377,1,0,0,0,0,4,3,4,2,4,Yes,Travel_Rarely,6,Yes
+EMP-1222,Research & Development,Software Engineer,54,Male,Bachelor,3,10488,15,6,3,2,4,2,4,1,4,1,No,Travel_Rarely,5,No
+EMP-1223,Sales,Sales Representative,45,Male,College,1,3284,5,2,0,0,0,4,4,4,1,3,No,Travel_Rarely,7,Yes
+EMP-1224,Research & Development,Research Director,42,Female,Bachelor,4,15013,5,4,1,0,1,2,1,4,2,3,No,Travel_Rarely,4,No
+EMP-1225,Research & Development,Manufacturing Director,31,Female,Bachelor,4,11703,4,3,2,1,3,3,3,1,2,3,No,Non-Travel,2,No
+EMP-1226,Sales,Sales Executive,33,Male,Master,3,10186,6,4,0,3,0,4,1,4,1,2,No,Travel_Frequently,1,No
+EMP-1227,Research & Development,Laboratory Technician,25,Male,Below College,1,3211,4,2,0,1,2,3,4,4,3,3,No,Travel_Rarely,2,No
+EMP-1228,Research & Development,Research Scientist,40,Male,Doctor,2,7859,16,3,1,2,3,4,3,4,4,3,Yes,Travel_Frequently,3,Yes
+EMP-1229,Human Resources,Human Resources,31,Female,Bachelor,3,10188,8,3,1,2,2,2,3,3,4,3,Yes,Travel_Rarely,2,No
+EMP-1230,Research & Development,Manufacturing Director,31,Female,College,4,12163,1,0,0,0,0,2,2,4,3,3,No,Travel_Rarely,5,Yes
+EMP-1231,Research & Development,Laboratory Technician,21,Female,College,1,2654,0,0,0,0,0,3,3,3,1,3,No,Non-Travel,5,No
+EMP-1232,Research & Development,Software Engineer,51,Female,College,3,9840,6,4,1,1,4,3,1,2,4,3,No,Travel_Frequently,4,Yes
+EMP-1233,Research & Development,Software Engineer,57,Male,Master,3,10388,14,9,5,2,6,3,4,2,3,3,No,Travel_Rarely,9,Yes
+EMP-1234,Sales,Sales Representative,39,Female,College,1,3653,10,5,2,4,1,3,3,3,3,4,No,Non-Travel,7,No
+EMP-1235,Research & Development,Laboratory Technician,41,Male,Bachelor,1,3644,8,5,4,0,1,2,3,3,3,4,No,Travel_Rarely,5,No
+EMP-1236,Research & Development,Software Engineer,57,Male,Bachelor,3,9915,11,3,0,2,1,2,4,2,2,3,No,Travel_Rarely,7,No
+EMP-1237,Research & Development,Manufacturing Director,40,Male,Master,5,19836,5,2,0,0,1,5,2,2,3,3,No,Travel_Rarely,5,No
+EMP-1238,Research & Development,Research Scientist,44,Male,Bachelor,3,8089,7,3,0,0,2,3,2,4,4,2,No,Travel_Rarely,4,No
+EMP-1239,Research & Development,Research Scientist,37,Female,Master,2,5831,4,3,0,0,2,3,3,3,2,3,No,Non-Travel,3,No
+EMP-1240,Research & Development,Laboratory Technician,40,Male,College,3,12185,16,2,1,0,1,3,4,2,3,1,No,Travel_Rarely,7,No
+EMP-1241,Sales,Manager,40,Female,Master,5,19690,7,6,6,2,2,5,1,2,4,3,No,Travel_Rarely,8,No
+EMP-1242,Research & Development,Research Scientist,48,Female,College,1,4186,6,2,1,1,2,4,4,1,3,3,No,Travel_Rarely,5,No
+EMP-1243,Research & Development,Research Scientist,44,Female,College,3,9537,9,4,4,0,1,2,3,1,3,3,No,Travel_Rarely,6,No
+EMP-1244,Research & Development,Research Scientist,40,Female,Doctor,1,4185,10,2,1,2,0,4,3,3,3,2,No,Travel_Rarely,3,No
+EMP-1245,Research & Development,Manufacturing Director,23,Male,College,5,20248,1,0,0,0,0,2,3,1,4,4,No,Travel_Rarely,3,No
+EMP-1246,Research & Development,Research Scientist,56,Male,College,2,7123,12,7,6,7,3,2,1,4,3,3,No,Travel_Rarely,6,No
+EMP-1247,Research & Development,Software Engineer,55,Male,Bachelor,1,4282,10,5,2,0,3,4,2,2,3,3,No,Travel_Rarely,7,No
+EMP-1248,Research & Development,Research Director,27,Male,College,4,14883,1,0,0,0,0,2,4,1,2,3,No,Travel_Rarely,4,No
+EMP-1249,Sales,Sales Executive,31,Female,College,3,9570,1,0,0,0,0,2,3,4,4,2,No,Non-Travel,5,Yes
+EMP-1250,Sales,Sales Executive,58,Male,Bachelor,3,10333,21,9,5,5,5,3,3,2,4,3,No,Travel_Rarely,4,No
+EMP-1251,Research & Development,Software Engineer,32,Male,Master,2,6056,9,6,4,5,0,6,4,2,3,2,No,Travel_Rarely,6,No
+EMP-1252,Research & Development,Laboratory Technician,52,Male,Master,2,6795,13,0,0,0,0,2,1,1,4,3,No,Travel_Rarely,7,No
+EMP-1253,Research & Development,Software Engineer,51,Male,College,3,10379,21,2,0,1,1,3,3,3,3,2,Yes,Non-Travel,2,No
+EMP-1254,Research & Development,Software Engineer,54,Female,Bachelor,2,7569,17,2,1,0,1,3,3,2,4,3,Yes,Non-Travel,2,Yes
+EMP-1255,Research & Development,Research Scientist,20,Male,Master,1,2509,0,0,0,0,0,2,1,4,2,3,Yes,Travel_Rarely,5,Yes
+EMP-1256,Sales,Sales Representative,39,Female,College,3,10972,16,4,3,2,3,3,4,3,2,1,No,Travel_Rarely,3,No
+EMP-1257,Sales,Sales Representative,42,Female,College,1,3266,7,2,1,1,2,3,4,4,4,4,Yes,Travel_Rarely,4,Yes
+EMP-1258,Sales,Sales Executive,53,Female,Below College,2,6129,9,4,4,1,0,3,2,3,3,3,No,Travel_Rarely,4,No
+EMP-1259,Research & Development,Software Engineer,28,Male,Bachelor,1,4095,6,4,4,4,2,3,4,4,3,1,Yes,Travel_Frequently,5,No
+EMP-1260,Human Resources,Manager,32,Female,College,4,14273,4,2,2,2,1,6,1,3,3,2,Yes,Travel_Rarely,6,No
+EMP-1261,Research & Development,Research Scientist,27,Male,Master,2,3723,3,1,0,1,1,4,4,3,3,3,No,Non-Travel,6,No
+EMP-1262,Research & Development,Research Scientist,50,Male,Doctor,2,6550,13,5,1,3,5,1,4,3,3,1,No,Travel_Frequently,2,Yes
+EMP-1263,Research & Development,Software Engineer,59,Female,College,3,11256,16,5,2,4,3,3,2,3,3,3,No,Travel_Rarely,7,No
+EMP-1264,Human Resources,Human Resources,25,Female,Bachelor,3,9086,4,1,0,0,0,3,3,1,3,2,No,Non-Travel,2,No
+EMP-1265,Research & Development,Research Scientist,29,Male,College,1,2776,1,0,0,0,0,1,4,3,2,3,Yes,Non-Travel,8,Yes
+EMP-1266,Sales,Sales Executive,32,Female,Below College,2,5260,8,4,4,4,4,3,2,2,2,4,No,Travel_Rarely,6,No
+EMP-1267,Research & Development,Research Scientist,55,Male,Master,2,8340,24,5,1,4,4,3,2,3,3,2,Yes,Travel_Rarely,8,Yes
+EMP-1268,Human Resources,Human Resources,37,Female,Bachelor,3,9782,13,2,2,0,2,2,3,1,3,4,No,Travel_Rarely,4,No
+EMP-1269,Research & Development,Laboratory Technician,31,Non-Binary,Master,1,4265,9,2,2,1,1,2,1,1,3,4,Yes,Travel_Rarely,4,Yes
+EMP-1270,Research & Development,Software Engineer,32,Male,Bachelor,3,11026,3,2,0,0,1,3,1,1,3,4,Yes,Travel_Frequently,5,Yes
+EMP-1271,Human Resources,Human Resources,43,Female,College,2,7050,8,3,3,3,3,2,2,2,3,3,No,Travel_Rarely,2,No
+EMP-1272,Research & Development,Manufacturing Director,35,Female,Bachelor,4,14531,11,3,0,0,0,4,4,1,2,4,No,Travel_Rarely,6,Yes
+EMP-1273,Research & Development,Research Scientist,25,Female,College,1,2676,3,2,1,1,1,2,3,1,3,3,Yes,Non-Travel,3,No
+EMP-1274,Research & Development,Laboratory Technician,52,Female,Master,3,9406,19,15,12,2,1,3,3,3,2,4,No,Travel_Rarely,4,No
+EMP-1275,Research & Development,Software Engineer,36,Female,Bachelor,2,5597,7,0,0,0,0,3,2,3,3,2,No,Travel_Frequently,6,No
+EMP-1276,Research & Development,Laboratory Technician,30,Male,Bachelor,1,3697,5,4,4,3,0,2,2,4,2,3,No,Non-Travel,3,No
+EMP-1277,Research & Development,Research Scientist,49,Female,Bachelor,3,10539,12,8,8,2,4,3,3,4,3,3,No,Travel_Rarely,5,No
+EMP-1278,Research & Development,Research Scientist,49,Male,Bachelor,1,3670,7,2,1,2,2,2,1,1,3,2,No,Travel_Rarely,5,No
+EMP-1279,Sales,Sales Executive,26,Non-Binary,Master,3,7875,1,0,0,0,0,2,3,3,4,3,No,Travel_Rarely,5,No
+EMP-1280,Research & Development,Research Scientist,22,Male,Below College,1,2621,1,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,2,No
+EMP-1281,Research & Development,Research Scientist,21,Male,Below College,1,2929,0,0,0,0,0,2,3,2,4,3,Yes,Travel_Rarely,5,Yes
+EMP-1282,Research & Development,Laboratory Technician,50,Female,Below College,1,3740,9,3,1,3,3,4,3,3,3,2,Yes,Travel_Rarely,4,No
+EMP-1283,Research & Development,Manufacturing Director,45,Male,Bachelor,4,13670,10,5,2,0,4,3,4,3,3,3,No,Travel_Rarely,3,No
+EMP-1284,Research & Development,Research Scientist,51,Male,Bachelor,1,3862,9,4,1,1,2,1,1,3,2,3,No,Travel_Rarely,3,No
+EMP-1285,Sales,Manager,45,Female,College,4,13967,7,4,4,1,4,2,4,2,1,3,No,Travel_Rarely,3,No
+EMP-1286,Human Resources,Manager,36,Male,Bachelor,5,19822,8,7,5,6,1,4,2,3,2,2,No,Non-Travel,3,No
+EMP-1287,Research & Development,Manufacturing Director,43,Male,Bachelor,4,18800,14,5,0,3,4,2,1,2,2,3,Yes,Travel_Frequently,5,No
+EMP-1288,Research & Development,Laboratory Technician,48,Male,Below College,1,2888,3,1,1,0,0,3,3,4,3,3,No,Non-Travel,3,No
+EMP-1289,Research & Development,Laboratory Technician,35,Male,Master,3,9230,11,1,0,1,0,1,2,4,3,3,Yes,Non-Travel,2,No
+EMP-1290,Research & Development,Software Engineer,56,Male,Bachelor,1,4213,8,1,0,1,1,5,3,2,3,1,No,Travel_Rarely,3,No
+EMP-1291,Research & Development,Laboratory Technician,55,Male,Bachelor,2,7331,26,2,1,0,1,2,4,4,2,4,No,Non-Travel,1,No
+EMP-1292,Sales,Manager,52,Male,Bachelor,4,14653,11,4,0,0,0,3,4,4,3,3,No,Non-Travel,2,No
+EMP-1293,Research & Development,Research Scientist,59,Male,College,3,9047,11,7,6,5,4,3,3,3,2,3,No,Non-Travel,3,No
+EMP-1294,Research & Development,Software Engineer,35,Male,Master,2,6345,10,4,4,2,4,2,4,1,3,3,Yes,Travel_Frequently,6,No
+EMP-1295,Research & Development,Research Scientist,24,Female,Bachelor,1,3734,2,1,1,1,1,3,3,4,3,4,No,Non-Travel,10,No
+EMP-1296,Research & Development,Research Director,39,Female,Bachelor,4,13984,7,2,2,0,2,0,1,3,2,3,No,Travel_Rarely,4,No
+EMP-1297,Research & Development,Software Engineer,49,Male,Master,2,6751,7,5,4,4,2,2,4,2,2,3,Yes,Travel_Rarely,3,No
+EMP-1298,Research & Development,Laboratory Technician,51,Male,Master,1,3978,5,1,1,0,0,2,2,3,4,3,No,Travel_Rarely,8,No
+EMP-1299,Sales,Sales Representative,35,Female,Master,1,4267,7,0,0,0,0,3,2,3,3,3,No,Travel_Rarely,6,No
+EMP-1300,Research & Development,Research Director,31,Female,College,5,18228,3,1,0,1,0,4,1,1,3,3,No,Travel_Frequently,1,No
+EMP-1301,Research & Development,Research Scientist,37,Male,College,2,7616,10,2,1,2,1,1,2,4,1,4,No,Travel_Rarely,3,No
+EMP-1302,Research & Development,Laboratory Technician,52,Male,Bachelor,3,11849,17,14,14,2,11,4,2,2,2,4,Yes,Travel_Frequently,3,No
+EMP-1303,Sales,Manager,22,Male,Bachelor,4,12152,1,0,0,0,0,4,2,3,3,3,No,Travel_Rarely,4,No
+EMP-1304,Research & Development,Research Scientist,33,Female,Bachelor,1,3516,4,2,1,0,1,1,3,3,4,2,No,Travel_Rarely,3,No
+EMP-1305,Sales,Sales Representative,29,Female,Master,1,3195,5,3,0,1,1,2,4,1,2,3,No,Travel_Rarely,6,No
+EMP-1306,Sales,Sales Executive,52,Female,College,3,9552,15,12,12,4,0,2,4,4,2,4,Yes,Travel_Rarely,4,No
+EMP-1307,Research & Development,Laboratory Technician,38,Male,College,1,3271,3,2,0,0,1,1,1,3,4,4,No,Travel_Rarely,3,No
+EMP-1308,Sales,Sales Executive,23,Male,Bachelor,2,4246,2,0,0,0,0,3,1,3,3,3,No,Travel_Rarely,3,No
+EMP-1309,Research & Development,Research Scientist,30,Male,College,2,6490,7,5,5,4,5,3,3,3,2,2,No,Non-Travel,3,No
+EMP-1310,Human Resources,Human Resources,21,Male,Bachelor,1,2800,0,0,0,0,0,2,1,4,3,2,No,Travel_Rarely,2,Yes
+EMP-1311,Research & Development,Research Scientist,39,Male,Master,1,4714,9,5,5,2,2,3,3,4,3,3,No,Travel_Rarely,9,No
+EMP-1312,Sales,Sales Executive,59,Female,Bachelor,3,11662,25,6,3,4,6,2,3,1,4,3,No,Travel_Rarely,4,No
+EMP-1313,Research & Development,Laboratory Technician,42,Male,Master,1,4158,10,1,0,1,0,4,4,2,1,3,No,Travel_Frequently,8,No
+EMP-1314,Research & Development,Software Engineer,54,Female,Bachelor,3,8243,11,1,1,0,1,3,2,3,3,3,No,Travel_Rarely,5,No
+EMP-1315,Research & Development,Research Scientist,49,Male,Bachelor,4,15555,17,11,4,5,4,2,3,4,2,3,No,Non-Travel,4,No
+EMP-1316,Sales,Sales Representative,55,Male,College,2,6034,12,2,2,0,2,3,3,4,4,4,No,Travel_Rarely,6,No
+EMP-1317,Research & Development,Laboratory Technician,32,Female,Master,1,3786,8,6,0,2,3,2,4,3,4,3,No,Travel_Rarely,2,No
+EMP-1318,Research & Development,Software Engineer,58,Female,Bachelor,3,8303,8,4,0,1,4,6,2,4,4,3,No,Travel_Rarely,4,No
+EMP-1319,Sales,Manager,29,Male,College,4,14782,7,4,4,0,2,2,4,3,4,3,No,Travel_Frequently,3,No
+EMP-1320,Sales,Sales Executive,37,Female,Bachelor,4,11909,12,4,4,2,0,4,4,2,3,3,Yes,Travel_Frequently,5,No
+EMP-1321,Research & Development,Manufacturing Director,47,Male,Master,5,19222,7,3,0,2,3,5,2,3,2,3,Yes,Travel_Rarely,4,Yes
+EMP-1322,Research & Development,Research Scientist,31,Male,College,3,9480,4,3,3,1,2,3,3,2,1,3,No,Travel_Rarely,4,Yes
+EMP-1323,Research & Development,Laboratory Technician,30,Male,Master,1,3580,7,2,0,0,2,3,3,3,3,2,No,Travel_Rarely,5,No
+EMP-1324,Sales,Manager,25,Male,Doctor,4,15535,3,2,0,2,1,3,2,3,3,1,No,Travel_Frequently,4,No
+EMP-1325,Research & Development,Manufacturing Director,20,Female,Master,5,19626,0,0,0,0,0,1,3,4,2,2,No,Travel_Rarely,3,No
+EMP-1326,Sales,Sales Executive,40,Male,Bachelor,4,13022,2,0,0,0,0,5,3,4,3,3,No,Travel_Rarely,5,No
+EMP-1327,Research & Development,Laboratory Technician,59,Female,Bachelor,1,3646,10,5,4,4,1,2,4,2,3,4,No,Travel_Frequently,5,No
+EMP-1328,Research & Development,Software Engineer,28,Female,Doctor,3,9511,5,2,2,2,0,4,1,3,4,3,No,Travel_Rarely,4,Yes
+EMP-1329,Research & Development,Laboratory Technician,37,Male,Bachelor,1,3915,4,1,0,0,1,3,3,4,3,3,No,Travel_Rarely,3,No
+EMP-1330,Research & Development,Laboratory Technician,57,Male,Below College,1,3593,9,7,5,3,1,1,2,2,3,3,No,Travel_Rarely,2,No
+EMP-1331,Sales,Manager,50,Male,Below College,4,16848,7,4,4,0,1,2,3,4,3,4,No,Travel_Rarely,2,No
+EMP-1332,Research & Development,Software Engineer,20,Female,Master,1,2471,0,0,0,0,0,2,3,3,4,3,No,Travel_Rarely,1,No
+EMP-1333,Research & Development,Research Scientist,40,Female,Bachelor,3,11385,12,4,1,4,3,2,3,1,3,2,No,Travel_Rarely,4,No
+EMP-1334,Human Resources,Human Resources,25,Female,College,2,5305,4,0,0,0,0,3,3,4,2,3,No,Travel_Rarely,4,Yes
+EMP-1335,Human Resources,Human Resources,29,Male,Bachelor,1,2615,0,0,0,0,0,0,2,3,1,3,Yes,Travel_Rarely,6,Yes
+EMP-1336,Sales,Sales Executive,29,Male,Master,3,8790,4,2,0,1,1,5,2,2,4,3,No,Non-Travel,6,No
+EMP-1337,Research & Development,Software Engineer,44,Male,Bachelor,3,9958,11,8,0,6,7,2,4,2,3,4,No,Travel_Rarely,2,No
+EMP-1338,Research & Development,Laboratory Technician,27,Male,Master,1,3212,6,2,1,2,2,3,1,4,4,3,Yes,Travel_Rarely,7,No
+EMP-1339,Sales,Sales Executive,30,Female,Master,3,6924,7,4,3,2,4,2,4,4,3,3,No,Travel_Rarely,5,No
+EMP-1340,Research & Development,Research Scientist,29,Male,Doctor,2,5510,6,3,2,3,2,1,3,3,3,3,No,Travel_Rarely,6,No
+EMP-1341,Research & Development,Research Scientist,34,Male,Master,2,4944,10,4,3,2,3,3,4,1,3,3,No,Non-Travel,4,Yes
+EMP-1342,Sales,Sales Representative,46,Male,College,1,3204,7,1,1,0,1,2,2,1,4,3,No,Travel_Rarely,9,No
+EMP-1343,Research & Development,Laboratory Technician,35,Male,Bachelor,1,3226,4,1,0,0,1,3,3,3,4,2,Yes,Travel_Rarely,2,Yes
+EMP-1344,Research & Development,Research Scientist,33,Female,Below College,1,3539,6,5,5,0,5,3,1,3,3,1,Yes,Travel_Rarely,6,Yes
+EMP-1345,Human Resources,Human Resources,40,Male,Doctor,1,3790,5,4,2,0,2,2,4,3,1,3,No,Travel_Rarely,3,No
+EMP-1346,Research & Development,Software Engineer,44,Female,College,1,3078,1,0,0,0,0,2,3,2,1,4,No,Travel_Rarely,5,No
+EMP-1347,Research & Development,Research Scientist,20,Female,Bachelor,1,2649,0,0,0,0,0,2,3,3,3,3,No,Travel_Rarely,4,No
+EMP-1348,Research & Development,Software Engineer,55,Female,Master,2,7515,25,7,3,5,1,2,4,3,4,3,Yes,Non-Travel,2,Yes
+EMP-1349,Research & Development,Software Engineer,56,Female,College,2,5867,8,4,4,3,3,3,2,3,4,1,No,Travel_Rarely,6,Yes
+EMP-1350,Research & Development,Research Director,44,Female,Master,4,15845,8,4,2,3,4,0,3,2,3,3,No,Travel_Rarely,6,No
+EMP-1351,Sales,Sales Executive,42,Female,Below College,3,9459,18,7,6,7,0,2,4,3,2,3,No,Travel_Rarely,2,No
+EMP-1352,Sales,Sales Representative,47,Male,Bachelor,1,2402,1,0,0,0,0,3,1,3,3,3,No,Travel_Rarely,5,Yes
+EMP-1353,Research & Development,Research Scientist,37,Male,Bachelor,4,13543,15,7,2,1,7,2,4,3,4,4,No,Non-Travel,0,No
+EMP-1354,Research & Development,Research Director,34,Female,Bachelor,4,14760,13,8,5,4,3,5,4,1,3,3,No,Travel_Rarely,5,No
+EMP-1355,Sales,Manager,34,Male,Bachelor,4,13496,5,3,2,1,0,4,4,2,2,3,Yes,Travel_Frequently,4,Yes
+EMP-1356,Research & Development,Laboratory Technician,26,Male,Master,1,3664,4,3,3,3,0,3,4,3,3,3,No,Travel_Rarely,2,No
+EMP-1357,Research & Development,Software Engineer,53,Female,Bachelor,1,3691,8,6,6,6,1,3,2,2,3,2,Yes,Travel_Rarely,2,No
+EMP-1358,Research & Development,Research Scientist,32,Male,Bachelor,1,4057,8,5,2,0,3,2,3,3,3,3,No,Travel_Rarely,6,No
+EMP-1359,Sales,Sales Representative,31,Male,Master,1,3639,5,2,2,1,2,0,1,3,4,2,No,Travel_Rarely,5,No
+EMP-1360,Research & Development,Laboratory Technician,58,Female,Master,1,3860,8,0,0,0,0,4,4,2,4,3,Yes,Travel_Rarely,2,No
+EMP-1361,Sales,Sales Executive,40,Male,Below College,2,6904,18,9,1,5,1,2,1,3,2,4,No,Non-Travel,6,No
+EMP-1362,Research & Development,Software Engineer,44,Female,Master,3,9040,11,3,3,3,1,2,4,3,2,3,No,Travel_Rarely,6,No
+EMP-1363,Research & Development,Software Engineer,29,Male,Below College,2,5305,6,3,3,0,3,3,2,2,3,3,No,Travel_Rarely,5,No
+EMP-1364,Research & Development,Manufacturing Director,31,Female,Bachelor,4,15243,3,0,0,0,0,3,2,4,2,3,No,Travel_Frequently,2,No
+EMP-1365,Research & Development,Laboratory Technician,49,Female,Bachelor,1,3612,6,5,5,3,4,3,1,3,3,3,No,Non-Travel,4,No
+EMP-1366,Research & Development,Laboratory Technician,38,Male,Master,1,4759,10,6,1,5,6,2,4,4,1,4,Yes,Travel_Rarely,3,No
+EMP-1367,Research & Development,Laboratory Technician,25,Male,College,1,3052,4,3,3,0,2,5,2,2,1,3,No,Non-Travel,3,Yes
+EMP-1368,Research & Development,Research Scientist,53,Male,College,1,3660,5,3,1,0,2,1,2,4,4,3,Yes,Travel_Rarely,2,Yes
+EMP-1369,Research & Development,Software Engineer,36,Male,Master,3,9581,14,5,1,5,1,5,2,4,2,1,No,Travel_Rarely,8,No
+EMP-1370,Research & Development,Research Scientist,46,Male,College,2,6337,14,7,5,0,7,2,2,1,4,2,No,Travel_Rarely,5,Yes
+EMP-1371,Research & Development,Laboratory Technician,33,Non-Binary,Bachelor,3,9573,11,8,4,7,1,5,4,3,2,3,No,Travel_Frequently,7,No
+EMP-1372,Human Resources,Human Resources,42,Male,Master,2,7297,16,4,1,2,3,4,3,3,2,4,No,Travel_Rarely,5,No
+EMP-1373,Research & Development,Software Engineer,51,Female,Bachelor,3,8749,11,3,0,3,3,2,2,3,2,3,Yes,Travel_Rarely,6,Yes
+EMP-1374,Sales,Sales Executive,55,Male,College,2,7936,21,14,7,11,12,4,2,3,1,3,No,Travel_Frequently,5,No
+EMP-1375,Human Resources,Human Resources,28,Non-Binary,College,1,2531,2,1,0,0,1,1,1,4,3,2,No,Travel_Rarely,7,No
+EMP-1376,Research & Development,Software Engineer,46,Male,Doctor,1,3099,7,4,0,1,0,1,3,3,4,3,No,Travel_Rarely,3,No
+EMP-1377,Sales,Sales Executive,56,Male,Bachelor,2,6267,7,4,3,2,0,2,1,4,4,3,Yes,Travel_Rarely,4,No
+EMP-1378,Sales,Sales Executive,45,Female,Below College,2,6014,7,5,5,1,3,3,1,4,1,3,No,Travel_Rarely,6,No
+EMP-1379,Research & Development,Laboratory Technician,25,Male,College,1,3169,3,1,0,0,1,0,1,4,1,3,No,Travel_Rarely,4,Yes
+EMP-1380,Research & Development,Software Engineer,27,Female,Bachelor,1,3750,6,5,0,3,2,3,2,4,2,2,No,Travel_Rarely,6,No
+EMP-1381,Research & Development,Software Engineer,28,Male,Doctor,3,9664,5,2,1,1,2,5,4,3,3,4,No,Travel_Rarely,4,No
+EMP-1382,Research & Development,Software Engineer,24,Male,College,1,2609,2,1,1,1,0,4,1,4,2,3,No,Travel_Rarely,4,No
+EMP-1383,Research & Development,Laboratory Technician,50,Male,Below College,1,3778,9,3,1,2,0,2,3,3,2,3,No,Travel_Frequently,2,No
+EMP-1384,Human Resources,Human Resources,58,Female,Bachelor,1,3164,6,3,0,3,0,3,3,1,4,3,No,Travel_Rarely,4,No
+EMP-1385,Human Resources,Manager,40,Male,Below College,4,14239,5,4,2,2,0,2,4,3,4,2,No,Travel_Rarely,2,No
+EMP-1386,Research & Development,Research Director,43,Male,College,4,15385,9,4,1,1,4,2,2,1,3,3,Yes,Travel_Rarely,5,No
+EMP-1387,Sales,Sales Representative,50,Male,Doctor,3,11180,14,5,3,1,0,5,4,4,2,3,Yes,Travel_Rarely,2,No
+EMP-1388,Research & Development,Software Engineer,36,Male,Bachelor,2,5537,6,4,0,0,4,6,4,3,3,2,Yes,Travel_Rarely,5,No
+EMP-1389,Sales,Sales Representative,38,Male,Below College,1,3273,6,4,1,4,3,2,4,3,2,3,Yes,Travel_Rarely,5,No
+EMP-1390,Research & Development,Software Engineer,43,Female,Bachelor,2,5852,5,3,1,2,0,2,4,2,3,3,No,Travel_Rarely,4,No
+EMP-1391,Human Resources,Human Resources,32,Male,College,1,4069,10,4,2,2,0,2,1,3,3,4,Yes,Travel_Rarely,3,No
+EMP-1392,Sales,Sales Executive,22,Female,College,3,8767,1,0,0,0,0,2,4,2,2,3,Yes,Travel_Frequently,3,Yes
+EMP-1393,Research & Development,Software Engineer,42,Male,Bachelor,3,8859,10,9,9,1,1,1,4,3,4,3,No,Travel_Rarely,3,No
+EMP-1394,Research & Development,Research Scientist,52,Male,Bachelor,3,9982,15,5,4,1,1,2,2,3,3,3,No,Non-Travel,4,No
+EMP-1395,Sales,Sales Executive,22,Male,Master,3,7896,1,0,0,0,0,2,2,3,3,3,No,Travel_Rarely,3,No
+EMP-1396,Research & Development,Research Scientist,28,Male,Master,2,5344,3,1,0,1,0,2,4,2,1,3,No,Travel_Rarely,4,No
+EMP-1397,Research & Development,Software Engineer,30,Male,College,2,6250,9,4,0,3,1,4,1,3,3,1,No,Travel_Frequently,7,No
+EMP-1398,Sales,Sales Executive,52,Male,Master,3,8479,8,6,2,2,4,3,4,3,1,2,Yes,Travel_Rarely,3,No
+EMP-1399,Research & Development,Research Director,40,Male,Bachelor,4,14611,11,7,0,0,4,3,3,4,3,3,No,Travel_Rarely,4,Yes
+EMP-1400,Research & Development,Research Scientist,41,Non-Binary,College,2,6115,4,3,2,0,0,2,4,4,1,2,Yes,Travel_Rarely,6,No
+EMP-1401,Research & Development,Laboratory Technician,45,Male,Master,1,3810,4,1,1,1,1,4,1,4,2,3,No,Travel_Rarely,2,No
+EMP-1402,Research & Development,Software Engineer,31,Male,Below College,3,7803,7,5,0,5,1,2,4,2,3,3,Yes,Travel_Rarely,9,No
+EMP-1403,Human Resources,Human Resources,48,Male,Bachelor,2,7686,24,4,1,0,1,4,3,1,3,2,No,Non-Travel,5,No
+EMP-1404,Research & Development,Research Scientist,21,Male,Master,1,3138,0,0,0,0,0,1,4,4,3,3,No,Non-Travel,5,No
+EMP-1405,Research & Development,Research Scientist,24,Female,College,1,3325,2,1,1,0,0,5,2,4,3,3,No,Travel_Rarely,4,No
+EMP-1406,Research & Development,Research Scientist,52,Male,Master,3,10204,27,20,16,18,2,2,1,1,3,3,No,Travel_Rarely,2,No
+EMP-1407,Human Resources,Human Resources,46,Female,College,3,10673,18,9,1,0,6,4,2,3,3,3,No,Travel_Rarely,6,No
+EMP-1408,Research & Development,Software Engineer,27,Male,Master,1,3355,5,4,0,1,2,0,1,3,3,3,Yes,Travel_Frequently,4,No
+EMP-1409,Sales,Sales Executive,37,Male,Below College,3,10420,13,4,0,0,1,4,4,1,1,3,No,Travel_Rarely,7,No
+EMP-1410,Sales,Sales Executive,22,Female,College,4,15732,1,0,0,0,0,3,1,4,3,3,No,Travel_Rarely,6,No
+EMP-1411,Sales,Sales Executive,46,Male,Bachelor,3,9623,8,3,3,1,1,0,2,4,1,1,Yes,Travel_Rarely,1,Yes
+EMP-1412,Human Resources,Human Resources,50,Female,Master,3,10167,13,11,5,5,2,3,4,4,3,3,Yes,Travel_Rarely,4,No
+EMP-1413,Sales,Sales Executive,31,Male,College,2,5276,2,1,1,1,1,1,2,1,3,3,No,Travel_Rarely,4,No
+EMP-1414,Human Resources,Human Resources,34,Female,Master,2,6826,8,3,1,3,1,3,2,3,2,2,No,Travel_Rarely,5,No
+EMP-1415,Research & Development,Software Engineer,29,Male,College,1,2651,2,1,0,0,0,2,3,4,3,3,No,Travel_Rarely,2,Yes
+EMP-1416,Sales,Sales Executive,35,Male,Bachelor,4,14720,9,0,0,0,0,3,3,3,3,3,No,Travel_Rarely,3,No
+EMP-1417,Research & Development,Research Scientist,30,Female,Bachelor,2,5572,5,4,1,2,1,4,4,3,3,4,Yes,Travel_Frequently,4,No
+EMP-1418,Research & Development,Research Director,29,Male,Below College,5,14399,2,1,1,0,0,2,3,3,4,4,No,Travel_Rarely,5,No
+EMP-1419,Sales,Sales Executive,37,Male,Master,3,10343,9,6,1,6,6,3,2,1,2,3,Yes,Travel_Rarely,4,No
+EMP-1420,Human Resources,Human Resources,54,Non-Binary,Bachelor,1,4281,10,7,0,4,3,4,3,3,2,3,No,Travel_Rarely,5,Yes
+EMP-1421,Sales,Sales Executive,50,Female,Bachelor,2,8189,24,3,1,3,1,3,4,4,2,3,No,Travel_Rarely,5,No
+EMP-1422,Research & Development,Research Director,31,Female,Bachelor,5,18840,9,2,0,0,0,2,3,1,3,3,No,Non-Travel,1,No
+EMP-1423,Research & Development,Laboratory Technician,57,Female,Bachelor,1,3600,7,2,0,2,2,2,4,2,2,3,No,Travel_Rarely,1,No
+EMP-1424,Research & Development,Laboratory Technician,28,Female,Bachelor,1,2927,2,1,1,1,1,2,3,3,4,3,No,Travel_Rarely,9,No
+EMP-1425,Research & Development,Research Director,56,Female,Master,5,23176,7,3,3,1,2,2,3,3,2,3,Yes,Travel_Rarely,4,Yes
+EMP-1426,Research & Development,Research Scientist,32,Female,Bachelor,2,5727,8,2,0,2,1,2,4,2,3,3,Yes,Travel_Rarely,6,Yes
+EMP-1427,Research & Development,Research Director,41,Male,Bachelor,5,19582,9,6,3,2,5,4,1,1,3,3,Yes,Travel_Rarely,4,Yes
+EMP-1428,Research & Development,Research Scientist,28,Male,Bachelor,1,3840,6,5,3,1,5,3,3,4,2,1,Yes,Travel_Frequently,2,No
+EMP-1429,Sales,Sales Representative,50,Female,Bachelor,3,9816,13,12,8,6,7,3,1,2,3,3,No,Non-Travel,2,Yes
+EMP-1430,Research & Development,Software Engineer,32,Female,Bachelor,2,4616,4,1,0,0,0,1,4,3,3,3,No,Travel_Rarely,4,No
+EMP-1431,Human Resources,Human Resources,54,Male,Bachelor,1,3672,7,4,3,1,1,0,3,3,3,3,No,Travel_Rarely,5,No
+EMP-1432,Research & Development,Research Director,23,Male,Bachelor,4,16129,2,0,0,0,0,3,2,3,3,3,No,Travel_Rarely,4,No
+EMP-1433,Research & Development,Research Scientist,40,Male,Master,1,4027,8,2,1,1,1,3,1,3,3,4,No,Travel_Rarely,5,No
+EMP-1434,Research & Development,Research Director,26,Male,Doctor,4,14717,5,2,1,0,1,5,4,3,3,3,Yes,Travel_Rarely,4,No
+EMP-1435,Research & Development,Software Engineer,55,Female,Doctor,1,3784,4,2,1,2,2,3,2,3,3,3,No,Travel_Frequently,5,No
+EMP-1436,Human Resources,Human Resources,36,Male,Master,1,3767,9,8,4,3,1,2,2,3,3,3,No,Travel_Rarely,4,Yes
+EMP-1437,Research & Development,Research Director,46,Female,Bachelor,4,11237,8,4,3,0,0,3,1,3,3,4,No,Travel_Rarely,3,No
+EMP-1438,Research & Development,Research Scientist,55,Female,Master,3,11094,18,10,1,9,2,3,3,3,2,3,No,Non-Travel,2,No
+EMP-1439,Human Resources,Manager,41,Female,College,5,17164,1,0,0,0,0,1,2,3,3,3,No,Travel_Frequently,5,No
+EMP-1440,Human Resources,Human Resources,22,Male,Bachelor,1,3196,1,0,0,0,0,3,4,3,1,3,No,Travel_Rarely,2,No
+EMP-1441,Research & Development,Laboratory Technician,28,Female,College,1,3385,7,4,4,1,1,2,3,3,4,3,No,Travel_Rarely,2,No
+EMP-1442,Research & Development,Research Scientist,28,Female,Below College,2,5615,6,4,3,2,2,2,1,2,2,2,No,Travel_Frequently,6,No
+EMP-1443,Research & Development,Software Engineer,56,Female,Doctor,2,8702,25,16,10,11,7,0,3,4,3,3,No,Travel_Rarely,5,Yes
+EMP-1444,Research & Development,Laboratory Technician,56,Male,Master,2,5855,17,7,4,7,6,3,2,1,2,3,No,Travel_Rarely,6,No
+EMP-1445,Research & Development,Software Engineer,39,Male,Bachelor,3,8524,15,5,0,4,1,3,1,4,2,3,No,Travel_Rarely,1,No
+EMP-1446,Research & Development,Research Scientist,55,Female,College,3,10602,14,4,2,1,1,2,3,3,2,3,Yes,Travel_Rarely,7,No
+EMP-1447,Sales,Sales Executive,29,Male,Bachelor,4,14434,5,2,1,2,1,3,2,1,3,3,No,Travel_Rarely,2,No
+EMP-1448,Research & Development,Manufacturing Director,47,Male,Bachelor,4,16930,13,5,4,5,4,3,4,3,2,3,No,Travel_Rarely,5,No
+EMP-1449,Research & Development,Research Scientist,35,Female,Master,3,9569,4,3,1,0,1,2,3,2,2,3,No,Non-Travel,1,No
+EMP-1450,Research & Development,Laboratory Technician,29,Female,Doctor,1,2456,0,0,0,0,0,1,2,4,2,1,No,Travel_Rarely,2,No
+EMP-1451,Sales,Manager,30,Male,Bachelor,5,21021,8,4,2,1,1,2,4,4,2,3,No,Travel_Frequently,6,No
+EMP-1452,Research & Development,Research Scientist,36,Male,College,2,6719,12,3,0,1,2,2,3,4,4,3,No,Travel_Rarely,4,No
+EMP-1453,Sales,Sales Executive,33,Male,College,3,8396,2,1,1,0,0,5,2,3,3,4,Yes,Travel_Rarely,2,No
+EMP-1454,Human Resources,Human Resources,28,Female,Below College,1,2973,2,1,1,1,1,4,3,4,3,3,No,Non-Travel,3,No
+EMP-1455,Research & Development,Research Scientist,33,Non-Binary,Bachelor,1,3357,2,1,0,1,0,1,4,3,3,3,No,Travel_Rarely,2,No
+EMP-1456,Research & Development,Software Engineer,25,Male,Below College,2,5903,4,3,3,1,2,3,3,4,3,2,No,Travel_Rarely,1,No
+EMP-1457,Research & Development,Laboratory Technician,58,Male,Below College,4,16034,14,9,8,2,0,2,3,2,4,3,No,Travel_Rarely,7,No
+EMP-1458,Research & Development,Software Engineer,35,Male,College,2,6558,6,5,4,0,0,0,3,4,1,3,No,Travel_Rarely,10,No
+EMP-1459,Human Resources,Human Resources,24,Male,College,1,3051,3,1,0,0,1,2,2,3,4,3,Yes,Non-Travel,4,Yes
+EMP-1460,Research & Development,Laboratory Technician,43,Female,Master,4,14582,16,9,2,3,7,2,2,2,3,3,Yes,Non-Travel,4,No
+EMP-1461,Sales,Sales Executive,55,Male,Below College,3,11051,14,2,2,1,0,2,3,4,3,3,Yes,Travel_Frequently,6,No
+EMP-1462,Research & Development,Research Scientist,34,Male,Master,3,10611,4,3,2,3,0,2,4,3,4,3,No,Travel_Rarely,2,No
+EMP-1463,Research & Development,Software Engineer,53,Male,College,2,6438,13,5,3,1,4,2,4,4,2,4,Yes,Travel_Rarely,5,No
+EMP-1464,Research & Development,Manufacturing Director,44,Male,Below College,5,19511,18,5,2,1,3,2,1,1,4,3,Yes,Travel_Frequently,8,Yes
+EMP-1465,Sales,Sales Representative,49,Female,Below College,2,6741,19,6,5,3,1,3,3,3,4,4,No,Travel_Rarely,1,No
+EMP-1466,Sales,Sales Executive,31,Female,Bachelor,3,10249,9,2,0,2,2,2,1,4,2,3,No,Travel_Rarely,4,No
+EMP-1467,Research & Development,Software Engineer,21,Female,College,1,2778,0,0,0,0,0,3,2,1,3,3,No,Travel_Rarely,7,No
+EMP-1468,Research & Development,Research Scientist,33,Male,Bachelor,2,7520,8,3,2,0,3,2,3,4,4,3,No,Travel_Rarely,4,No
+EMP-1469,Sales,Sales Executive,56,Female,Below College,3,10810,19,4,1,2,2,5,2,3,2,1,No,Travel_Rarely,4,No
+EMP-1470,Research & Development,Research Scientist,51,Male,Doctor,2,7110,14,12,6,11,4,1,4,2,3,2,No,Travel_Frequently,4,No

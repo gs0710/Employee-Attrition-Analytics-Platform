@@ -1,0 +1,5 @@
+Cluster_ID,Headcount,Workforce_Share_Pct,Avg_Age,Avg_MonthlyIncome,Avg_YearsAtCompany,Avg_TotalWorkingYears,Avg_YearsSinceLastPromotion,Avg_JobSatisfaction,Avg_WorkLifeBalance,Avg_PerformanceRating,Avg_AbsenteeismDays,Observed_Attrition_Pct,Overtime_Rate_Pct,Segment_Name
+0,271,18.44,49.54,11092.07,8.96,17.04,4.9,3.01,2.93,2.88,3.93,13.65,26.94,Stagnant & Retention-Review Segment
+1,538,36.6,41.33,6991.33,3.33,8.32,1.6,3.09,2.62,2.88,4.58,15.43,30.48,Mid-Level Professional Contributors
+2,331,22.52,37.37,13979.7,2.64,7.68,1.13,2.42,3.01,2.88,3.83,21.75,25.38,Stagnant & Retention-Review Segment
+3,330,22.45,27.75,3734.47,1.24,3.18,0.58,2.69,2.69,2.95,4.2,24.85,23.03,Early-Career Onboarding Cohort

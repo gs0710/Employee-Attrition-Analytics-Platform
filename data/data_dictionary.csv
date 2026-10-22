@@ -1,0 +1,23 @@
+Column,DataType,Role,Description,Range_Values
+EmployeeID,String,Identifier,Unique employee identification number (excluded from clustering),EMP-0001 to EMP-1470
+Department,Categorical,Context / Segmentation,Functional department of the employee,"R&D, Sales, HR"
+JobRole,Categorical,Clustering Feature,Specific job title and operational function,9 unique job roles
+Age,Integer,Clustering Feature,Employee chronological age in years,20 to 60
+Gender,Categorical,Demographic (Excluded),Reported gender identity (excluded to uphold fairness),"Male, Female, Non-Binary"
+EducationLevel,Categorical,Clustering Feature,Highest completed educational attainment,Below College to Doctor
+JobLevel,Integer,Clustering Feature,Corporate hierarchical grade / seniority level,1 (Entry) to 5 (Executive)
+MonthlyIncome,Integer,Clustering Feature,Gross monthly compensation in USD,"$1,800 to $25,000+"
+TotalWorkingYears,Integer,Clustering Feature,Cumulative career experience in years across all employers,0 to 40
+YearsAtCompany,Integer,Clustering Feature,Tenure at current enterprise in years,0 to 35
+YearsInCurrentRole,Integer,Clustering Feature,Duration in current job assignment in years,0 to 20
+YearsSinceLastPromotion,Integer,Clustering Feature,Years elapsed since most recent promotion,0 to 18
+YearsWithCurrManager,Integer,Clustering Feature,Tenure under current supervisory manager in years,0 to 18
+TrainingTimesLastYear,Integer,Clustering Feature,Number of professional training events attended last year,0 to 6
+JobSatisfaction,Integer (Likert),Clustering Feature,"Self-reported satisfaction with job role (1=Low, 4=Very High)",1 to 4
+EnvironmentSatisfaction,Integer (Likert),Clustering Feature,Self-reported satisfaction with work environment,1 to 4
+WorkLifeBalance,Integer (Likert),Clustering Feature,Self-reported balance between work and personal life,1 to 4
+PerformanceRating,Integer (Likert),Evaluation / Grouping,"Annual performance evaluation score (1=Unsatisfactory, 4=Outstanding)",1 to 4
+Overtime,Categorical,Clustering Feature,Regular requirement to perform overtime duties,"Yes, No"
+BusinessTravel,Categorical,Clustering Feature,Frequency of work-related travel,"Non-Travel, Travel_Rarely, Travel_Frequently"
+AbsenteeismDays,Integer,Clustering Feature,Total recorded days of work absence over the past 12 months,0 to 30
+Attrition,Categorical,Evaluation Only (Target Held Out),Observed historical employee separation status (excluded from clustering),"Yes, No"

@@ -1,0 +1,10 @@
+Audit_Metric,Value
+initial_rows,1470
+initial_cols,22
+missing_values_detected,{}
+duplicates_removed,0
+logical_corrections,{}
+data_types_enforced,{}
+cleaning_status,Success
+final_rows,1470
+final_cols,22
